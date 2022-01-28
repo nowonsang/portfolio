@@ -5,7 +5,7 @@
 그런 개발자가 되도록 노력하는것이 저의 방향이자 목표입니다.
 그렇기에 현실에 안주하지 않고 더 좋은 방향으로 성장해 나아가길 선호하는 편입니다.
 최근 수행한 회사업무에서 연구원 경력에 대리팀장을 맡아 개발팀을 이끌어보았던 경력이 있고 협의,회의를 통해
-성공적으로 서비스를 운영할수 있도록 전체적인 진행을 총괄하여 도맡아했던 경험이 있습니다
+성공적으로 서비스를 운영할수 있도록 전체적인 진행을 총괄하여 도맡아했던 경험이 있습니다.
 
 # 보유 기술 
 
@@ -28,7 +28,7 @@
 ```
 
 <div>
-<img src="./images/education/education_1.png" width="150">
-<img src="./images/education/education_2.png" width="150">
-<img src="./images/education/education_3.png" width="150">
+<img src="./images/education/education_1.png" width="450">
+<img src="./images/education/education_2.png" width="450">
+<img src="./images/education/education_3.png" width="450">
 </div>
