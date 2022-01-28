@@ -10,12 +10,12 @@
 # 보유 기술 
 
 - React-Native(TypeScript,JavaScript)
- - 4개의 앱 개발 
+  - 4개의 앱 개발 
 - Android(Java,kotlin) 
- - 3개의 앱 개발 
+  - 3개의 앱 개발 
 - VR/AR(C#)
- - 2개의 앱 개발
- - Unity를 이용한 소방안정교육 게임 개발
+  - 2개의 앱 개발
+  - Unity를 이용한 소방안정교육 게임 개발
 
 # 관리
 
