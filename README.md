@@ -39,7 +39,8 @@
 <img src="./images/education/education_3.png" width="450">
 </div>
 
-# 프로젝트 
+
+# React-Native 프로젝트(Android,Ios)
 
 ### 나하고 (임금명세서 , 출퇴근관리 , 연말정산 직원관리 모바일 앱)
 
