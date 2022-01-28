@@ -40,7 +40,7 @@
 </div>
 
 
-# React-Native 프로젝트(Android,Ios)
+# React-Native 프로젝트
 
 ### 나하고 (임금명세서 , 출퇴근관리 , 연말정산 직원관리 모바일 앱)
 
