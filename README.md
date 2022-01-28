@@ -28,7 +28,7 @@
 ```
 
 <div>
-<img src="./images/education/education1_file.pdf" width="450">
+<img src="./images/education/education_1.png" width="450">
 <img src="./images/education/education_2.png" width="450">
 <img src="./images/education/education_3.png" width="450">
 </div>
