@@ -113,8 +113,7 @@
 ```
 
 <div>
-<img src="./images/nayana/nayana_image1.jpg" width="150">
-<img src="./images/nayana/nayana_image2.jpg" width="150">
+<img src="./images/nayana/nayana_image18.jpg" width="150">
 <img src="./images/nayana/nayana_image3.jpg" width="150">
 <img src="./images/nayana/nayana_image4.jpg" width="150">
 <img src="./images/nayana/nayana_image5.jpg" width="150">
