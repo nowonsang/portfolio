@@ -45,7 +45,7 @@
 ### 나하고 (임금명세서 , 출퇴근관리 , 연말정산 직원관리 모바일 앱)
 
 > 개발기간 : 2020.11.28 ~ 현재 진행중
-> (주)더존비즈온 > 모바일개발팀(연구원 노원상)
+> (주)더존비즈온 > 모바일개발팀(노원상 연구원)
 
 - 활용기술 
 
@@ -55,16 +55,58 @@
  Dependency managment(npm, pods, gradle, python script )
  Redux pattern(redux-observable,redux Hooks)
  certification(self-authentication,fingerPrint,faceID,simple authentication)
+ CI/CD(Gitlab, Fastlane)
 ```
 
 - 참여한 이력
 
 ```sh
-  앱 스플래시,계정 회원가입,계정 로그인 개발
-  계정관리(요금제 해지,비밀번호찾기,아이디찾기,간편비밀번호찾기,로그아웃,회사추가,회사해지) 개발
+  앱 스플래시,회원가입/로그인 개발
+  계정관리(요금제 해지,비밀번호찾기,아이디찾기,간편비밀번호찾기,로그아웃,회사추가,회사해지)개발
   위하고앱 연동 개발
-  간편 비밀번호 세팅,얼굴 인식, 지문인식 게발
-  보안툴 세팅 & 계약 인증서 개발 
+  본인부인방지 모듈 제작(PIN,FACE ID,FIDO,NICE 인증)
+  보안툴 암호화 모듈 세팅 & 계약 인증서 개발 
 ```
 
+<div>
+<img src="./images/nahago/nahago_image1.png" width="150">
+<img src="./images/nahago/nahago_image2.png" width="150">
+<img src="./images/nahago/nahago_image3.png" width="150">
+<img src="./images/nahago/nahago_image4.png" width="150">
+<img src="./images/nahago/nahago_image5.png" width="150">
+<img src="./images/nahago/nahago_image6.png" width="150">
+<img src="./images/nahago/nahago_image7.png" width="150">
+<img src="./images/nahago/nahago_image8.png" width="150">
+<img src="./images/nahago/nahago_image9.png" width="150">
+<img src="./images/nahago/nahago_image10.png" width="150">
+<img src="./images/nahago/nahago_image11.png" width="150">
+<img src="./images/nahago/nahago_image12.png" width="150">
+</div>
+
+### 나야나(강원도청 플렛폼) 개발 및 고도화
+
+> 개발기간 : 2020.07 ~ 2021.03
+> (주)더존비즈온 > 모바일개발팀(노원상 연구원)
+
+- Technical Lead
+
+```sh
+  React-Native(TypeScript, junit, Objective-C, Java)
+  Redux pattern(redux-observable)
+  Cache(SQLite, Typeorm)
+  Security(Proguard, Rooting guard, RSA, AES)
+  Dependency managment(yarn, pods, gradle, python script )
+  CI/CD(Gitlab, Fastlane)
+```
+
+- Participation
+
+```sh
+  로그인/회원가입 개발
+  프로필 개발
+  강원마트 개발
+  음성/화상 서비스 개발 및 고도화(Jitsi-Meet Library)
+  명함 모듈/카메라 모듈 개발 및 고도화
+  알림톡/노티카운트 개발
+```
 
