@@ -47,7 +47,7 @@
 > 개발기간 : 2020.11.28 ~ 현재 진행중
 > (주)더존비즈온 > 모바일개발팀(노원상 연구원)
 
-- 활용기술 
+- Technical Lead
 
 ```sh
  React-Native(javaScript,TypeScript,Java,kotlin)
@@ -58,7 +58,7 @@
  CI/CD(Gitlab, Fastlane)
 ```
 
-- 참여한 이력
+- Participation
 
 ```sh
   앱 스플래시,회원가입/로그인 개발
@@ -129,6 +129,7 @@
 <img src="./images/nayana/nayana_image14.png" width="150">
 <img src="./images/nayana/nayana_image15.png" width="150">
 <img src="./images/nayana/nayana_image16.png" width="150">
+<img src="./images/nayana/nayana_image17.png" width="150">
 </div>
 
 
