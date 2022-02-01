@@ -76,12 +76,14 @@
 <img src="./images/nahago/nahago_image5.png" width="150">
 <img src="./images/nahago/nahago_image6.png" width="150">
 <img src="./images/nahago/nahago_image7.png" width="150">
-<img src="./images/nahago/nahago_image8.png" width="150">
-<img src="./images/nahago/nahago_image9.png" width="150">
+<img src="./images/nahago/nahago_image13.png" width="150">
 <img src="./images/nahago/nahago_image10.png" width="150">
 <img src="./images/nahago/nahago_image11.png" width="150">
 <img src="./images/nahago/nahago_image12.png" width="150">
+<img src="./images/nahago/nahago_image14.png" width="150">
 </div>
+
+
 
 ### 나야나(강원도청 플렛폼) 개발 및 고도화
 
