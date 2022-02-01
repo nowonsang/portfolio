@@ -113,18 +113,18 @@
 ```
 
 <div>
-<img src="./images/nayana/nayana_image1.png" width="150">
-<img src="./images/nayana/nayana_image2.png" width="150">
-<img src="./images/nayana/nayana_image3.png" width="150">
-<img src="./images/nayana/nayana_image4.png" width="150">
-<img src="./images/nayana/nayana_image5.png" width="150">
-<img src="./images/nayana/nayana_image6.png" width="150">
-<img src="./images/nayana/nayana_image7.png" width="150">
-<img src="./images/nayana/nayana_image8.png" width="150">
-<img src="./images/nayana/nayana_image9.png" width="150">
-<img src="./images/nayana/nayana_image10.png" width="150">
-<img src="./images/nayana/nayana_image11.png" width="150">
-<img src="./images/nayana/nayana_image12.png" width="150">
+<img src="./images/nayana/nayana_image1.jpg" width="150">
+<img src="./images/nayana/nayana_image2.jpg" width="150">
+<img src="./images/nayana/nayana_image3.jpg" width="150">
+<img src="./images/nayana/nayana_image4.jpg" width="150">
+<img src="./images/nayana/nayana_image5.jpg" width="150">
+<img src="./images/nayana/nayana_image6.jpg" width="150">
+<img src="./images/nayana/nayana_image7.jpg" width="150">
+<img src="./images/nayana/nayana_image8.jpg" width="150">
+<img src="./images/nayana/nayana_image9.jpg" width="150">
+<img src="./images/nayana/nayana_image10.jpg" width="150">
+<img src="./images/nayana/nayana_image11.jpg" width="150">
+<img src="./images/nayana/nayana_image12.jpg" width="150">
 <img src="./images/nayana/nayana_image13.png" width="150">
 <img src="./images/nayana/nayana_image14.png" width="150">
 <img src="./images/nayana/nayana_image15.png" width="150">
