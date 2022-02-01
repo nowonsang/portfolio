@@ -77,9 +77,9 @@
 <img src="./images/nahago/nahago_image6.png" width="150">
 <img src="./images/nahago/nahago_image7.png" width="150">
 <img src="./images/nahago/nahago_image13.png" width="150">
+<img src="./images/nahago/nahago_image12.png" width="150">
 <img src="./images/nahago/nahago_image10.png" width="150">
 <img src="./images/nahago/nahago_image11.png" width="150">
-<img src="./images/nahago/nahago_image12.png" width="150">
 <img src="./images/nahago/nahago_image14.png" width="150">
 </div>
 
@@ -112,3 +112,47 @@
   알림톡/노티카운트 개발
 ```
 
+<div>
+<img src="./images/nayana/nayana_image1.png" width="150">
+<img src="./images/nayana/nayana_image2.png" width="150">
+<img src="./images/nayana/nayana_image3.png" width="150">
+<img src="./images/nayana/nayana_image4.png" width="150">
+<img src="./images/nayana/nayana_image5.png" width="150">
+<img src="./images/nayana/nayana_image6.png" width="150">
+<img src="./images/nayana/nayana_image7.png" width="150">
+<img src="./images/nayana/nayana_image8.png" width="150">
+<img src="./images/nayana/nayana_image9.png" width="150">
+<img src="./images/nayana/nayana_image10.png" width="150">
+<img src="./images/nayana/nayana_image11.png" width="150">
+<img src="./images/nayana/nayana_image12.png" width="150">
+<img src="./images/nayana/nayana_image13.png" width="150">
+<img src="./images/nayana/nayana_image14.png" width="150">
+<img src="./images/nayana/nayana_image15.png" width="150">
+<img src="./images/nayana/nayana_image16.png" width="150">
+</div>
+
+
+### 위하고원(블록체인 간편계약 모바일 앱)
+
+> 개발기간 : 2020.07 ~ 2021.03
+> (주)더존비즈온 > 모바일개발팀(노원상 연구원)
+
+- Technical Lead
+
+```sh
+  React-Native(TypeScript, junit, Objective-C, Java)
+  Redux pattern(redux-observable)
+  Cache(SQLite, Typeorm)
+  Security(Proguard, Rooting guard, RSA, AES)
+  Dependency managment(yarn, pods, gradle, python script )
+  CI/CD(Gitlab, Fastlane)
+```
+
+- Participation
+
+```sh
+  로그인/회원가입 개발
+  음성/화상 개발 & 녹화 서비스 적용(Jitsi-Meet Library)
+  계약 채팅생성 프로세스 개발
+  녹화 음성파일,녹화 화상파일,화상대화,음성대화 채팅 알림톡 개발
+```
