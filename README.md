@@ -93,7 +93,7 @@
 - Technical Lead
 
 ```sh
-  React-Native(TypeScript, junit, Objective-C, Java)
+  React-Native(TypeScript, junit, Objective-C, Java,kotlin)
   Redux pattern(redux-observable)
   Cache(SQLite, Typeorm)
   Security(Proguard, Rooting guard, RSA, AES)
@@ -165,6 +165,5 @@
 <img src="./images/wehagoOne/wehagoOne_image5.png" width="150">
 <img src="./images/wehagoOne/wehagoOne_image6.png" width="150">
 <img src="./images/wehagoOne/wehagoOne_image7.png" width="150">
-<img src="./images/wehagoOne/wehagoOne_image8.png" width="150">
 <img src="./images/wehagoOne/wehagoOne_image9.png" width="150">
 </div>
