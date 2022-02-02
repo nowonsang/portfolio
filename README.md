@@ -30,7 +30,7 @@
 - People Management
 
 ```sh
-  교육: 회사 테크톡발표 , React-Native 교육 , redux 아키텍쳐 교육, Native kotlin 교육
+  교육: 회사 테크톡발표 , React-Native 교육 , redux 아키텍쳐 교육, Native kotlin 교육 제공
 ```
 
 <div>
@@ -156,3 +156,15 @@
   계약 채팅생성 프로세스 개발
   녹화 음성파일,녹화 화상파일,화상대화,음성대화 채팅 알림톡 개발
 ```
+
+<div>
+<img src="./images/wehagoOne/wehagoOne_image1.jpg" width="150">
+<img src="./images/wehagoOne/wehagoOne_image2.jpg" width="150">
+<img src="./images/wehagoOne/wehagoOne_image3.png" width="150">
+<img src="./images/wehagoOne/wehagoOne_image4.png" width="150">
+<img src="./images/wehagoOne/wehagoOne_image5.png" width="150">
+<img src="./images/wehagoOne/wehagoOne_image6.png" width="150">
+<img src="./images/wehagoOne/wehagoOne_image7.png" width="150">
+<img src="./images/wehagoOne/wehagoOne_image8.png" width="150">
+<img src="./images/wehagoOne/wehagoOne_image9.png" width="150">
+</div>
