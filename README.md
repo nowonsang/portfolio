@@ -85,7 +85,7 @@
 
 
 
-### 나야나(강원도청 플렛폼) 개발 및 고도화
+### 나야나(강원도청 플렛폼 앱)
 
 > 개발기간 : 2020.07 ~ 2021.03
 > (주)더존비즈온 > 모바일개발팀(노원상 연구원)
@@ -167,3 +167,25 @@
 <img src="./images/wehagoOne/wehagoOne_image7.png" width="150">
 <img src="./images/wehagoOne/wehagoOne_image9.png" width="150">
 </div>
+
+
+### 위하고 Sign
+
+> 개발기간 : 2020.02 ~ 2021.04
+> (주)더존비즈온 > 모바일개발팀(노원상 연구원)
+
+- Technical Lead
+
+```sh
+  React-Native(TypeScript, junit, Objective-C, Java)
+  Redux pattern(redux-observable)
+  Security(Proguard, Rooting guard, RSA, AES)
+  Dependency managment(yarn, pods, gradle, python script )
+  CI/CD(Gitlab, FastLane)
+```
+
+- Participation
+
+```sh
+  1인 개발
+```
