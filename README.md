@@ -187,5 +187,21 @@
 - Participation
 
 ```sh
-  1인 개발
+  앱 1인 개발
 ```
+<div>
+<img src="./images/wehagoSign/wehagoSign_image1.jpeg" width="150">
+<img src="./images/wehagoSign/wehagoSign_image2.jpeg" width="150">
+<img src="./images/wehagoSign/wehagoSign_image3.jpeg" width="150">
+<img src="./images/wehagoSign/wehagoSign_image4.jpeg" width="150">
+<img src="./images/wehagoSign/wehagoSign_image5.jpeg" width="150">
+<img src="./images/wehagoSign/wehagoSign_image6.jpeg" width="150">
+<img src="./images/wehagoSign/wehagoSign_image7.jpeg" width="150">
+<img src="./images/wehagoSign/wehagoSign_image8.jpeg" width="150">
+<img src="./images/wehagoSign/wehagoSign_image9.jpeg" width="150">
+<img src="./images/wehagoSign/wehagoSign_image10.jpeg" width="150">
+<img src="./images/wehagoSign/wehagoSign_image11.jpeg" width="150">
+<img src="./images/wehagoSign/wehagoSign_image12.jpeg" width="150">
+<img src="./images/wehagoSign/wehagoSign_image13.jpeg" width="150">
+<img src="./images/wehagoSign/wehagoSign_image14.jpeg" width="150">
+</div>
