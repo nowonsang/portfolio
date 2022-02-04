@@ -205,3 +205,50 @@
 <img src="./images/wehagoSign/wehagoSign_image12.jpeg" width="150">
 <img src="./images/wehagoSign/wehagoSign_image13.jpeg" width="150">
 </div>
+
+### 위하고 Sign (회사 전자서명 앱)
+
+> 개발기간 : 2020.02 ~ 2021.04
+> (주)더존비즈온 > 모바일개발팀(노원상 연구원)
+
+- Technical Lead
+
+```sh
+  React-Native(TypeScript, junit, Objective-C, Java)
+  Redux pattern(redux-observable)
+  Security(Proguard, Rooting guard, RSA, AES)
+  Dependency managment(yarn, pods, gradle, python script )
+  CI/CD(Gitlab, FastLane)
+```
+
+- Participation
+
+```sh
+  앱 1인 개발
+```
+
+### 위하고 And 앱(B to B 협업) 유지보수/고도화
+
+> 개발기간 : 2019.05 ~ 진행중
+> (주)더존비즈온 > 모바일개발팀(노원상 연구원)
+
+- Technical Lead
+
+```sh
+  And(kotlin,Java12)
+  pattern(RxJava,android studio)
+  Network(JSONObject,HttpURLConnection)
+  Security(Proguard,RSA, AES)
+  CI/CD(Gitlab, FastLane)
+```
+
+- Participation
+
+```sh
+  연락처 서비스 디바이스에 데이터 내보내기/가져오기 개발
+  연락처 단어별 검색기능 개발
+  거래처 서비스 요금제별 분기 적용 개발
+  거래처 휴지통 기능 개발
+  로컬라이징처리(영어, 일본어)
+  180개의 레거시 QA Jira 이슈처리(뉴스,거래처,조직도,연락처,공지사항,잠금설정)
+```
