@@ -206,27 +206,6 @@
 <img src="./images/wehagoSign/wehagoSign_image13.jpeg" width="150">
 </div>
 
-### 위하고 Sign (회사 전자서명 앱)
-
-> 개발기간 : 2020.02 ~ 2021.04
-> (주)더존비즈온 > 모바일개발팀(노원상 연구원)
-
-- Technical Lead
-
-```sh
-  React-Native(TypeScript, junit, Objective-C, Java)
-  Redux pattern(redux-observable)
-  Security(Proguard, Rooting guard, RSA, AES)
-  Dependency managment(yarn, pods, gradle, python script )
-  CI/CD(Gitlab, FastLane)
-```
-
-- Participation
-
-```sh
-  앱 1인 개발
-```
-
 ### 위하고 And 앱(B to B 협업) 유지보수/고도화
 
 > 개발기간 : 2019.05 ~ 진행중
