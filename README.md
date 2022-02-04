@@ -200,8 +200,8 @@
 <img src="./images/wehagoSign/wehagoSign_image8.jpeg" width="150">
 <img src="./images/wehagoSign/wehagoSign_image9.jpeg" width="150">
 <img src="./images/wehagoSign/wehagoSign_image10.jpeg" width="150">
+<img src="./images/wehagoSign/wehagoSign_image14.jpeg" width="150">
 <img src="./images/wehagoSign/wehagoSign_image11.jpeg" width="150">
 <img src="./images/wehagoSign/wehagoSign_image12.jpeg" width="150">
 <img src="./images/wehagoSign/wehagoSign_image13.jpeg" width="150">
-<img src="./images/wehagoSign/wehagoSign_image14.jpeg" width="150">
 </div>
