@@ -294,9 +294,9 @@
 ```
 
 <div>
-<img src="./images/hangle/hangle02.jpeg" width="300">
-<img src="./images/hangle/hangle03.jpeg" width="300">
-<img src="./images/hangle/hangle04.jpeg" width="300">
+<img src="./images/hangle/hangle02.jpeg" width="350">
+<img src="./images/hangle/hangle03.jpeg" width="350">
+<img src="./images/hangle/hangle04.jpeg" width="350">
 </div>
 
 ### 한글공부 게임
