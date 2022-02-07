@@ -320,8 +320,8 @@
 ```
 
 <div>
-<img src="./images/hangleGame/hangleGame01.png" width="200">
-<img src="./images/hangleGame/hangleGame02.png" width="200">
-<img src="./images/hangleGame/hangleGame03.png" width="200">
-<img src="./images/hangleGame/hangleGame04.png" width="200">
+<img src="./images/hangleGame/hangleGame01.png" width="250">
+<img src="./images/hangleGame/hangleGame02.png" width="250">
+<img src="./images/hangleGame/hangleGame03.png" width="250">
+<img src="./images/hangleGame/hangleGame04.png" width="250">
 </div>
