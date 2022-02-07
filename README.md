@@ -235,10 +235,10 @@
 ##### 메인/뉴스
 
 <div>
-<img src="./images/wehago/news/wehago_main01.png" width="150">
-<img src="./images/wehago/news/wehago_news01.jpg" width="150">
-<img src="./images/wehago/news/wehago_news02.jpg" width="150">
-<img src="./images/wehago/news/wehago_news03.jpg" width="150">
+<img src="./images/wehago/news/wehago_main01.png" width="150" height="700">
+<img src="./images/wehago/news/wehago_news01.jpg" width="150" height="700">
+<img src="./images/wehago/news/wehago_news02.jpg" width="150" height="700">
+<img src="./images/wehago/news/wehago_news03.jpg" width="150" height="700">
 </div>
 
 ##### 연락처
