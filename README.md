@@ -270,3 +270,31 @@
 <img src="./images/wehago/etc/wehago_Etc03.jpeg" width="180" height="450">
 <img src="./images/wehago/etc/wehago_Etc04.jpeg" width="180" height="450">
 </div>
+
+### 한글천재 
+
+> 개발기간 : 2018.06 ~ 2018.08
+> (주)클루소프트 > 모바일개발팀(노원상 인턴)
+
+- Technical Lead
+
+```sh
+  And(Java9)
+  Cache(SQLite)
+  Security(Proguard, Rooting guard)
+  CI/CD(Gitlab, FastLane)
+```
+
+- Participation
+
+```sh
+  그리기 모션 인식
+  메인 개발
+  영상 재생 개발
+```
+
+<div>
+<img src="./images/hangle/hangle01.jpeg" width="300">
+<img src="./images/hangle/hangle02.jpeg" width="300">
+<img src="./images/hangle/hangle03.jpeg" width="300">
+</div>
