@@ -217,7 +217,7 @@
 
 ```sh
   And(kotlin,Java12)
-  pattern(RxJava,android studio)
+  pattern(RxJava)
   Network(JSONObject,HttpURLConnection)
   Security(Proguard,RSA, AES)
   CI/CD(Gitlab, FastLane)
@@ -279,7 +279,7 @@
 - Technical Lead
 
 ```sh
-  And(Java9)
+  And(Java9,android studio)
   Cache(SQLite)
   Security(Proguard, Rooting guard)
   CI/CD(Gitlab, FastLane)
@@ -297,4 +297,31 @@
 <img src="./images/hangle/hangle02.jpeg" width="450">
 <img src="./images/hangle/hangle03.jpeg" width="450">
 <img src="./images/hangle/hangle04.jpeg" width="450">
+</div>
+
+### 한글공부 게임
+
+> 개발기간 : 2018.09 ~ 2018.10
+> (주)클루소프트 > 모바일개발팀(대학교 프로젝트)
+
+- Technical Lead
+
+```sh
+  And(Java10,android studio)
+  Cache(SQLite)
+  Security(Proguard, Rooting guard)
+  CI/CD(Gitlab, FastLane)
+```
+
+- Participation
+
+```sh
+  1인 개발
+```
+
+<div>
+<img src="./images/hangleGame/hangleGame01.png" width="450">
+<img src="./images/hangleGame/hangleGame02.png" width="450">
+<img src="./images/hangleGame/hangleGame03.png" width="450">
+<img src="./images/hangleGame/hangleGame04.png" width="450">
 </div>
