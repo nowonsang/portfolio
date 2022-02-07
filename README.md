@@ -244,9 +244,9 @@
 ##### 연락처
 
 <div>
-<img src="./images/wehago/contact/wehago_contact01.png" width="150">
-<img src="./images/wehago/contact/wehago_contact02.png" width="150">
-<img src="./images/wehago/contact/wehago_contact03.png" width="150">
-<img src="./images/wehago/contact/wehago_contact04.png" width="150">
-<img src="./images/wehago/contact/wehago_contact05.png" width="150">
+<img src="./images/wehago/contact/wehago_contact01.png" width="160" height="420">
+<img src="./images/wehago/contact/wehago_contact02.png" width="160" height="420">
+<img src="./images/wehago/contact/wehago_contact03.png" width="160" height="420">
+<img src="./images/wehago/contact/wehago_contact04.png" width="160" height="420">
+<img src="./images/wehago/contact/wehago_contact05.png" width="160" height="420">
 </div>
