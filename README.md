@@ -250,3 +250,12 @@
 <img src="./images/wehago/contact/wehago_contact04.png" width="160" height="390">
 <img src="./images/wehago/contact/wehago_contact05.png" width="160" height="390">
 </div>
+
+##### 거래처
+
+<div>
+<img src="./images/wehago/partner/wehago_partner1.png" width="180" height="450">
+<img src="./images/wehago/partner/wehago_partner2.jpg" width="180" height="450">
+<img src="./images/wehago/partner/wehago_partner3.jpg" width="180" height="450">
+<img src="./images/wehago/partner/wehago_partner4.jpg" width="180" height="450">
+</div>
