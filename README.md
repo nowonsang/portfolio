@@ -14,8 +14,7 @@
 - Android(Java,kotlin) 
   - 3개의 앱 개발 
 - VR/AR(C#)
-  - 2개의 앱 개발
-  - Unity를 이용한 소방안정교육 게임 개발
+  - unity를 이용한 3개의 교육앱 개발
 
 # 관리
 
