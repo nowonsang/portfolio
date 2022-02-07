@@ -42,7 +42,7 @@
 ```
 
 <div>
-<a href="http://www.naver.com">
+<a href="https://github.com/nowonsang/portfolio/blob/main/images/education/education1_file.pdf">
 <img src="./images/education/education_1.png" width="450">
 </a>
 <img onClick="javascript:location.href='https://github.com/nowonsang/portfolio/blob/main/images/education/education2_file.pdf';" src="./images/education/education_2.png" width="450">
