@@ -41,9 +41,13 @@
   교육: 회사 테크톡발표 , React-Native 교육 , redux 아키텍쳐 교육, Native kotlin 교육 제공
 ```
 
-<img onClick="javascript:location.href='https://github.com/nowonsang/portfolio/blob/main/images/education/education1_file.pdf';" src="./images/education/education_1.png" width="450">
+<div>
+<a href="http://www.naver.com">
+<img src="./images/education/education_1.png" width="450">
+</a>
 <img onClick="javascript:location.href='https://github.com/nowonsang/portfolio/blob/main/images/education/education2_file.pdf';" src="./images/education/education_2.png" width="450">
 <img onClick="javascript:location.href='https://github.com/nowonsang/portfolio/blob/main/images/education/education3_file.pdf';" src="./images/education/education_3.png" width="450">
+</div>
 
 # React-Native 프로젝트
 
