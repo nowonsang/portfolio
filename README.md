@@ -271,7 +271,7 @@
 <img src="./images/wehago/etc/wehago_Etc04.jpeg" width="180" height="450">
 </div>
 
-### 한글천재 
+### 한글공부 한글천재 
 
 > 개발기간 : 2018.06 ~ 2018.08
 > (주)클루소프트 > 모바일개발팀(노원상 인턴)
@@ -297,5 +297,4 @@
 <img src="./images/hangle/hangle02.jpeg" width="450">
 <img src="./images/hangle/hangle03.jpeg" width="450">
 <img src="./images/hangle/hangle04.jpeg" width="450">
-<img src="./images/hangle/hangle01.jpeg" width="300">
 </div>
