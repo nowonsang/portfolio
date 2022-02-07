@@ -293,7 +293,6 @@
   영상 재생 개발
 ```
 
----
 
 **플랫폼 소개 영상 :** https://www.youtube.com/watch?v=Tn1CjH51_ns
 
@@ -349,7 +348,6 @@
   1인 개발
 ```
 
----
 
 **실행 동영상 :** https://www.youtube.com/watch?v=3gIml1ThL5I>
 
@@ -378,7 +376,6 @@
   충돌처리 및 파티클 개발
   핸드폰 기울기에 따른 VR 캐릭터 움직임 개발
 ```
----
 
 **실행 동영상 :** https://www.youtube.com/watch?v=AlTTtl3l7lA
 
