@@ -45,8 +45,12 @@
 <a href="https://github.com/nowonsang/portfolio/blob/main/images/education/education1_file.pdf">
 <img src="./images/education/education_1.png" width="450">
 </a>
-<img onClick="javascript:location.href='https://github.com/nowonsang/portfolio/blob/main/images/education/education2_file.pdf';" src="./images/education/education_2.png" width="450">
-<img onClick="javascript:location.href='https://github.com/nowonsang/portfolio/blob/main/images/education/education3_file.pdf';" src="./images/education/education_3.png" width="450">
+<a href="https://github.com/nowonsang/portfolio/blob/main/images/education/education2_file.pdf">
+<img src="./images/education/education_2.png" width="450">
+</a>
+<a href="https://github.com/nowonsang/portfolio/blob/main/images/education/education3_file.pdf">
+<img src="./images/education/education_3.png" width="450">
+</a>
 </div>
 
 # React-Native 프로젝트
