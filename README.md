@@ -36,10 +36,8 @@
 <img src="./images/education/education_1.png" width="450">
 <img src="./images/education/education_2.png" width="450">
 <img src="./images/education/education_3.png" width="450">
+<img onClick="javascript:location.href='https://github.com/nowonsang/portfolio/blob/main/images/education/education1_file.pdf';" src="./images/education/education_3.png" width="450">
 </div>
-
-![연습용이미지](https://github.com/nowonsang/portfolio/blob/main/images/education/education1_file.pdf)
-
 
 # React-Native 프로젝트
 
