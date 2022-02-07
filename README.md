@@ -7,6 +7,15 @@
 최근 수행한 회사업무에서 연구원 경력에 대리팀장을 도맡아 개발팀을 이끌어보았던 경력이 있고 협의,회의를 통해
 성공적으로 서비스를 운영할수 있도록 전체적인 진행을 총괄한 경험이 있습니다.
 
+# 경력
+
+- (주)더존비즈온 (정규직활동 2019.07.15 ~)
+  - [더존비즈온 회사 정보확인](https://www.jobplanet.co.kr/companies/81407/landing/%EB%8D%94%EC%A1%B4%EB%B9%84%EC%A6%88%EC%98%A8)
+- (주)제튼(인턴활동 2019.02 ~ 2019.06)
+  - [제튼 회사 정보확인](https://www.saramin.co.kr/zf_user/company-info/view/csn/VUVwS0RuV0hsTDJGUnBmWG5WaVkxdz09/company_nm/(%EC%A3%BC)%EC%A0%9C%ED%8A%BC)
+- (주)클루소프트(인턴활동 2018.06 ~ 2018.08)
+  - [클루소프트 회사 확인](https://www.saramin.co.kr/zf_user/company-info/view/csn/bDd0Rmx6UWM3d0VjTENDYlhtLzIvZz09/company_nm/(%EC%A3%BC)%ED%81%B4%EB%A3%A8%EC%86%8C%ED%94%84%ED%8A%B8)
+
 # 보유 기술 
 
 - React-Native(TypeScript,JavaScript)
@@ -332,7 +341,7 @@
 
 ### AR/VR 화재안전 플랫폼
 
-> 개발기간 : 2019.06 ~ 2019.07
+> 개발기간 : 2019.05 ~ 2019.06
 > (주)제튼 > 노원상 인턴(참여인원 1명)
 
 - Technical Lead
