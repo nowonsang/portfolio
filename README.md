@@ -231,7 +231,7 @@
   거래처 서비스 요금제별 분기 적용 개발
   거래처 휴지통 기능 개발
   로컬라이징처리(영어, 일본어)
-  150개의 레거시 QA Jira 이슈처리(뉴스,거래처,조직도,연락처)
+  150개의 레거시 QA Jira 이슈처리(뉴스,거래처,조직도,연락처,공지사항,잠금설정)
 ```
 
 ##### 메인/뉴스
@@ -260,4 +260,13 @@
 <img src="./images/wehago/partner/wehago_partner2.jpg" width="180" height="450">
 <img src="./images/wehago/partner/wehago_partner3.jpg" width="180" height="450">
 <img src="./images/wehago/partner/wehago_partner4.jpg" width="180" height="450">
+</div>
+
+##### 설정/기타
+
+<div>
+<img src="./images/wehago/etc/wehago_Etc01.jpg" width="180" height="450">
+<img src="./images/wehago/etc/wehago_Etc02.jpg" width="180" height="450">
+<img src="./images/wehago/etc/wehago_Etc03.jpg" width="180" height="450">
+<img src="./images/wehago/etc/wehago_Etc04.jpg" width="180" height="450">
 </div>
