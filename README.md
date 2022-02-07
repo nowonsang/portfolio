@@ -274,7 +274,7 @@
 ### 한글공부 한글천재 
 
 > 개발기간 : 2018.06 ~ 2018.08
-> (주)클루소프트 > 모바일개발팀(노원상 인턴)
+> (주)클루소프트 > 모바일 개발팀(노원상 인턴)
 
 - Technical Lead
 
@@ -301,7 +301,7 @@
 
 ### 한글공부 게임
 
-> 개발기간 : 2018.09 ~ 2018.10
+> 개발기간 : 2018.10 ~ 2018.11
 > 한림대학교 > 노원상(대학교 프로젝트)
 
 - Technical Lead
@@ -324,4 +324,28 @@
 <img src="./images/hangleGame/hangleGame02.png" width="250">
 <img src="./images/hangleGame/hangleGame03.png" width="250">
 <img src="./images/hangleGame/hangleGame04.png" width="250">
+</div>
+
+### AR/VR 화재안전 플랫폼
+
+> 개발기간 : 2019.01 ~ 2019.07
+> (주)제튼 > 모바일 개발팀(노원상 인턴)
+
+- Technical Lead
+
+```sh
+  Unity(C#,vuforia,VR CardBoard)
+```
+
+- Participation
+
+```sh
+  1인 개발
+  테스트 영상:https://www.youtube.com/watch?v=3gIml1ThL5I
+```
+
+<div>
+<img src="./images/fire_education/fire01.png" width="250">
+<img src="./images/fire_education/fire02.png" width="250">
+<img src="./images/fire_education/fire03.png" width="250">
 </div>
