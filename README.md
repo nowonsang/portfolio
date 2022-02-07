@@ -266,7 +266,7 @@
 
 <div>
 <img src="./images/wehago/etc/wehago_Etc01.jpg" width="180" height="450">
-<img src="./images/wehago/etc/wehago_Etc02.jpg" width="180" height="450">
-<img src="./images/wehago/etc/wehago_Etc03.jpg" width="180" height="450">
-<img src="./images/wehago/etc/wehago_Etc04.jpg" width="180" height="450">
+<img src="./images/wehago/etc/wehago_Etc02.jpeg" width="180" height="450">
+<img src="./images/wehago/etc/wehago_Etc03.jpeg" width="180" height="450">
+<img src="./images/wehago/etc/wehago_Etc04.jpeg" width="180" height="450">
 </div>
