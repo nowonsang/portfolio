@@ -326,9 +326,11 @@
 <img src="./images/hangleGame/hangleGame04.png" width="250">
 </div>
 
+# Unity C# 프로젝트
+
 ### AR/VR 화재안전 플랫폼
 
-> 개발기간 : 2019.01 ~ 2019.07
+> 개발기간 : 2019.06 ~ 2019.07
 > (주)제튼 > 모바일 개발팀(노원상 인턴)
 
 - Technical Lead
@@ -352,4 +354,32 @@
 <img src="./images/fire_education/fire01.png" width="250">
 <img src="./images/fire_education/fire02.png" width="250">
 <img src="./images/fire_education/fire03.png" width="250">
+</div>
+
+### VR 화재안전 교육
+
+> 개발기간 : 2019.02 ~ 2019.03
+> (주)제튼 > 모바일 개발팀(노원상 인턴)
+
+- Technical Lead
+
+```sh
+  Unity(C#,VR CardBoard)
+```
+
+- Participation
+
+```sh
+  텍스트 타이핑 애니메이션 개발
+  충돌처리 및 파티클 개발
+  핸드폰 기울기에 따른 VR 캐릭터 움직임 개발
+```
+---
+
+**테스트 영상 :** https://www.youtube.com/watch?v=AlTTtl3l7lA
+
+<div>
+<img src="./images/vr_fire/vr_fire01.png" width="250">
+<img src="./images/vr_fire/vr_fire02.png" width="250">
+<img src="./images/vr_fire/vr_fire03.png" width="250">
 </div>
