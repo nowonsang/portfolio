@@ -97,7 +97,7 @@
   Redux pattern(redux-observable)
   Cache(SQLite, Typeorm)
   Security(Proguard, Rooting guard, RSA, AES)
-  Dependency managment(yarn, pods, gradle, python script )
+  Dependency managment(yarn, pods, gradle, python script,firebase)
   CI/CD(Gitlab, Fastlane)
 ```
 
@@ -144,7 +144,7 @@
   Redux pattern(redux-observable)
   Cache(SQLite, Typeorm)
   Security(Proguard, Rooting guard, RSA, AES)
-  Dependency managment(yarn, pods, gradle, python script )
+  Dependency managment(yarn, pods, gradle, python script,firebase)
   CI/CD(Gitlab, Fastlane)
 ```
 
@@ -180,7 +180,7 @@
   React-Native(TypeScript, junit, Objective-C, Java)
   Redux pattern(redux-observable)
   Security(Proguard, Rooting guard, RSA, AES)
-  Dependency managment(yarn, pods, gradle, python script )
+  Dependency managment(yarn, pods, gradle, python script,firebase)
   CI/CD(Gitlab, FastLane)
 ```
 
@@ -220,6 +220,7 @@
   pattern(RxJava)
   Network(JSONObject,HttpURLConnection)
   Security(Proguard,RSA, AES)
+  Dependency managment(firebase)
   CI/CD(Gitlab, FastLane)
 ```
 
@@ -293,6 +294,10 @@
   영상 재생 개발
 ```
 
+---
+
+**플랫폼 소개 영상 :** https://www.youtube.com/watch?v=Tn1CjH51_ns
+
 <div>
 <img src="./images/hangle/hangle02.jpeg" width="350">
 <img src="./images/hangle/hangle03.jpeg" width="350">
@@ -347,7 +352,7 @@
 
 ---
 
-**테스트 영상 :** https://www.youtube.com/watch?v=3gIml1ThL5I>
+**실행 동영상 :** https://www.youtube.com/watch?v=3gIml1ThL5I>
 
 
 <div>
@@ -376,10 +381,37 @@
 ```
 ---
 
-**테스트 영상 :** https://www.youtube.com/watch?v=AlTTtl3l7lA
+**실행 동영상 :** https://www.youtube.com/watch?v=AlTTtl3l7lA
 
 <div>
-<img src="./images/vr_fire/vr_fire01.png" width="250">
-<img src="./images/vr_fire/vr_fire02.png" width="250">
-<img src="./images/vr_fire/vr_fire03.png" width="250">
+<img src="./images/vr_fire/vr_fire01.png" width="350">
+<img src="./images/vr_fire/vr_fire02.png" width="350">
+<img src="./images/vr_fire/vr_fire03.png" width="350">
+</div>
+
+### VR 화재대처 교육 플랫폼
+
+> 개발기간 : 2018.09 ~ 2018.12
+> 한림대학교 > 노원상(졸업 프로젝트)
+
+- Technical Lead
+
+```sh
+  Unity(C#,virtual reality)
+```
+
+- Participation
+
+```sh
+ 캐릭터 움직임 제어 개발
+ 타겟 충돌처리 & 이벤트 처리 개발
+ 불 파티클 개발,음성개발
+ 캐릭터 응시점 개발
+```
+
+<div>
+<img src="./images/collectVR/collect_VR1.png" width="250">
+<img src="./images/collectVR/collect_VR2.png" width="250">
+<img src="./images/collectVR/collect_VR3.png" width="250">
+<img src="./images/collectVR/collect_VR4.png" width="250">
 </div>
