@@ -410,8 +410,8 @@
 ```
 
 <div>
-<img src="./images/collectVR/collect_VR1.png" width="250">
-<img src="./images/collectVR/collect_VR2.png" width="250">
-<img src="./images/collectVR/collect_VR3.png" width="250">
-<img src="./images/collectVR/collect_VR4.png" width="250">
+<img src="./images/collectVR/collect_VR1.jpeg" width="250">
+<img src="./images/collectVR/collect_VR2.jpeg" width="250">
+<img src="./images/collectVR/collect_VR3.jpeg" width="250">
+<img src="./images/collectVR/collect_VR4.jpeg" width="250">
 </div>
