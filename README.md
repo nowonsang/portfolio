@@ -66,7 +66,7 @@
   '나하고(NAHAGO)앱'은 중소기업·소상공인 등이 개정 근로기준법에서 요구하는 급여(임금)명세서 의무 교부에 쉽게 대응할 수 있도록 근무시간· 
    급여관리 서비스를 제공하는 직장인용 앱 플랫폼입니다
 
-  (기사내용: "https://www.newswire.co.kr/newsRead.php?no=938207")
+  (기사내용: https://www.newswire.co.kr/newsRead.php?no=938207)
   (구글스토어 사이트: https://play.google.com/store/search?q=%EB%82%98%ED%95%98%EA%B3%A0&c=apps)
 ```
 
