@@ -65,9 +65,6 @@
 ```sh
   '나하고(NAHAGO)앱'은 중소기업·소상공인 등이 개정 근로기준법에서 요구하는 급여(임금)명세서 의무 교부에 쉽게 대응할 수 있도록 근무시간· 
    급여관리 서비스를 제공하는 직장인용 앱 플랫폼입니다
-
-  (기사내용: https://www.newswire.co.kr/newsRead.php?no=938207)
-  (구글스토어 사이트: https://play.google.com/store/search?q=%EB%82%98%ED%95%98%EA%B3%A0&c=apps)
 ```
 
 - Technical Lead
@@ -90,6 +87,9 @@
   본인부인방지 모듈 제작(PIN,FACE ID,FIDO,NICE 인증)
   보안툴 암호화 모듈 세팅 & 계약 인증서 개발 
 ```
+
+ - [기사내용](https://www.jobplanet.co.kr/companies/81407/landing/%EB%8D%94%EC%A1%B4%EB%B9%84%EC%A6%88%EC%98%A8)
+ - [구글스토어 사이트](https://play.google.com/store/search?q=%EB%82%98%ED%95%98%EA%B3%A0&c=apps)
 
 <div>
 <img src="./images/nahago/nahago_image1.png" width="150">
