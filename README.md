@@ -88,8 +88,8 @@
   보안툴 암호화 모듈 세팅 & 계약 인증서 개발 
 ```
 
- - [기사내용](https://www.jobplanet.co.kr/companies/81407/landing/%EB%8D%94%EC%A1%B4%EB%B9%84%EC%A6%88%EC%98%A8)
- - [구글스토어 사이트](https://play.google.com/store/search?q=%EB%82%98%ED%95%98%EA%B3%A0&c=apps)
+**기사내용 :** (https://www.jobplanet.co.kr/companies/81407/landing/%EB%8D%94%EC%A1%B4%EB%B9%84%EC%A6%88%EC%98%A8)
+**구글스토어 사이트 :**(https://play.google.com/store/search?q=%EB%82%98%ED%95%98%EA%B3%A0&c=apps)
 
 <div>
 <img src="./images/nahago/nahago_image1.png" width="150">
@@ -119,9 +119,6 @@
 나에게 맞춰진 디지털 세상, 내가 중심인 디지털 세상을 뜻하는 '나야나(NAYANA) 앱'은 핸드폰 만으로 언제 어디서나 개인의 신원·자격을 안전하게 증명할 
 수 있는 블록체인 기반의 분산신원증명(DID) 및 클라우드 기술이 적용된 앱으로써. 강원도민 사람들 위주로 비대면 신원인증 서비스를 통해 주민센 
 터 등 기관 방문 없이 휴대폰으로 각종 보조금을 신청하거나 지급받을 수 있는 앱입니다
-
-(기사내용: https://www.yna.co.kr/view/AKR20210512051200062)
-(구글스토어 사이트: https://play.google.com/store/search?q=%EB%82%98%EC%95%BC%EB%82%98&c=apps)
 ```
 
 - Technical Lead
@@ -145,6 +142,9 @@
   명함 모듈/카메라 모듈 개발 및 고도화
   알림톡/노티카운트 개발
 ```
+
+**기사내용 :** https://www.youtube.com/watch?v=Tn1CjH51_ns
+**구글스토어 사이트 :** https://play.google.com/store/search?q=%EB%82%98%EC%95%BC%EB%82%98&c=apps
 
 <div>
 <img src="./images/nayana/nayana_image18.jpg" width="150">
@@ -176,8 +176,6 @@
 ```sh
   'WEHAGO ONE 앱'은 정부 프로젝트 과학기술정보통신부·한국인터넷진흥원(KISA)의 ‘2020 블록체인 민간주도 국민 프로젝트’ 선정 과제로 선보인 블록체인 기 
   술 기반의 소상공인과 개인을 위한 간편계약(구두계약) 앱 플랫폼입니다
-  
-  (기사내용: https://www.ekoreanews.co.kr/news/articleView.html?idxno=47853)
 ```
 
 - Technical Lead
@@ -199,6 +197,8 @@
   계약 채팅생성 프로세스 개발
   녹화 음성파일,녹화 화상파일,화상대화,음성대화 채팅 알림톡 개발
 ```
+
+**기사내용 :** https://www.ekoreanews.co.kr/news/articleView.html?idxno=47853
 
 <div>
 <img src="./images/wehagoOne/wehagoOne_image1.jpg" width="150">
@@ -268,9 +268,6 @@
 ```sh
 '위하고(WEHAGO) 앱은' 기업의 다양한 업무환경에 필요한 온라인 비즈니스 플랫폼으로써 (원활한 소통, 효율적인 업무관리, 서비스연동, 신속한 업무처리, 안전한 데이터관 리등)의 
 서비스를 제공하는 모바일 앱
-
-(참고사이트: https://www.wehago.com/landing/ko/home/)
-(구글스토어 사이트: https://play.google.com/store/apps/details?id=com.duzon.android.lulubizpotal)
 ```
 
 - Technical Lead
@@ -294,6 +291,9 @@
   로컬라이징처리(영어, 일본어)
   150개의 레거시 QA Jira 이슈처리(뉴스,거래처,조직도,연락처,공지사항,잠금설정)
 ```
+
+**참고사이트 :** https://www.wehago.com/landing/ko/home/
+**구글스토어 사이트 :** https://play.google.com/store/apps/details?id=com.duzon.android.lulubizpotal
 
 ##### 메인/뉴스
 
@@ -341,7 +341,6 @@
 
 ```sh
 '한글공부 한글천재 앱'은 한국어교육,난독중극복 및 언어치료에 도움을 주는 한글교육앱 플랫폼입니다
-(구글스토어 사이트: https://play.google.com/store/apps/details?id=com.clusoft.hangulzzang_app&hl=ko&gl=US)
 ```
 
 - Technical Lead
@@ -361,7 +360,7 @@
   영상 재생 개발
 ```
 
-
+**구글스토어 사이트 :** https://play.google.com/store/apps/details?id=com.clusoft.hangulzzang_app&hl=ko&gl=US
 **플랫폼 소개 영상 :** https://www.youtube.com/watch?v=Tn1CjH51_ns
 
 <div>
