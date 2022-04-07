@@ -60,6 +60,16 @@
 > 개발기간 : 2021.11.28 ~ 현재 진행중
 > (주)더존비즈온 > 모바일개발팀(노원상 연구원)
 
+- Introduction
+
+```sh
+  '나하고(NAHAGO)앱'은 중소기업·소상공인 등이 개정 근로기준법에서 요구하는 급여(임금)명세서 의무 교부에 쉽게 대응할 수 있도록 근무시간· 
+   급여관리 서비스를 제공하는 직장인용 앱 플랫폼입니다
+
+  (기사내용: https://www.newswire.co.kr/newsRead.php?no=938207)
+  (구글스토어 사이트: https://play.google.com/store/search?q=%EB%82%98%ED%95%98%EA%B3%A0&c=apps)
+```
+
 - Technical Lead
 
 ```sh
@@ -102,6 +112,17 @@
 
 > 개발기간 : 2020.07 ~ 2021.03
 > (주)더존비즈온 > 모바일개발팀(노원상 연구원)
+
+- Introduction
+
+```sh
+  나에게 맞춰진 디지털 세상, 내가 중심인 디지털 세상을 뜻하는 '나야나(NAYANA) 앱'은 핸드폰 만으로 언제 어디서나 개인의 신원·자격을 안전하게 증명할 
+  수 있는 블록체인 기반의 분산신원증명(DID) 및 클라우드 기술이 적용된 앱으로써. 강원도민 사람들 위주로 비대면 신원인증 서비스를 통해 주민센 
+  터 등 기관 방문 없이 휴대폰으로 각종 보조금을 신청하거나 지급받을 수 있는 앱입니다
+
+  (기사내용: https://www.yna.co.kr/view/AKR20210512051200062)
+  (구글스토어 사이트: https://play.google.com/store/search?q=%EB%82%98%EC%95%BC%EB%82%98&c=apps)
+```
 
 - Technical Lead
 
@@ -150,6 +171,15 @@
 > 개발기간 : 2020.07 ~ 2021.03
 > (주)더존비즈온 > 모바일개발팀(노원상 연구원)
 
+- Introduction
+
+```sh
+  'WEHAGO ONE 앱'은 정부 프로젝트 과학기술정보통신부·한국인터넷진흥원(KISA)의 ‘2020 블록체인 민간주도 국민 프로젝트’ 선정 과제로 선보인 블록체인 기 
+  술 기반의 소상공인과 개인을 위한 간편계약(구두계약) 앱 플랫폼입니다
+  
+  (기사내용: https://www.ekoreanews.co.kr/news/articleView.html?idxno=47853)
+```
+
 - Technical Lead
 
 ```sh
@@ -186,6 +216,13 @@
 
 > 개발기간 : 2020.02 ~ 2020.04
 > (주)더존비즈온 > 모바일개발팀(노원상 연구원)
+
+- Introduction
+
+```sh
+   '위하고 SIGN 앱'은 중소기업·소상공인 등이 비대면으로 플랫폼 자체내에 회사 서명 업무를 진행 및 관리를 할수있게 서비스를 제공하는
+   직장인용 앱 플랫폼입니다
+```
 
 - Technical Lead
 
@@ -225,6 +262,16 @@
 
 > 개발기간 : 2019.05 ~ 진행중
 > (주)더존비즈온 > 모바일개발팀(노원상 연구원)
+
+- Introduction
+
+```sh
+'위하고(WEHAGO) 앱은' 기업의 다양한 업무환경에 필요한 온라인 비즈니스 플랫폼으로써 (원활한 소통, 효율적인 업무관리, 서비스연동, 신속한 업무처리, 안전한 데이터관 리등)의 
+서비스를 제공하는 모바일 앱
+
+(참고사이트: https://www.wehago.com/landing/ko/home/)
+(구글스토어 사이트: https://play.google.com/store/apps/details?id=com.duzon.android.lulubizpotal)
+```
 
 - Technical Lead
 
@@ -287,8 +334,15 @@
 
 ### 한글공부 한글천재 
 
-> 개발기간 : 2018.06 ~ 2018.08
+> 개발기간 : 2017-12 ~ 2018.02
 > (주)클루소프트 > 모바일 개발팀(노원상 인턴)
+
+- Introduction
+
+```sh
+'한글공부 한글천재 앱'은 한국어교육,난독중극복 및 언어치료에 도움을 주는 한글교육앱 플랫폼입니다
+(구글스토어 사이트: https://play.google.com/store/apps/details?id=com.clusoft.hangulzzang_app&hl=ko&gl=US)
+```
 
 - Technical Lead
 
