@@ -88,9 +88,6 @@
   보안툴 암호화 모듈 세팅 & 계약 인증서 개발 
 ```
 
-**기사내용 :** (https://www.jobplanet.co.kr/companies/81407/landing/%EB%8D%94%EC%A1%B4%EB%B9%84%EC%A6%88%EC%98%A8)
-**구글스토어 사이트 :**(https://play.google.com/store/search?q=%EB%82%98%ED%95%98%EA%B3%A0&c=apps)
-
 <div>
 <img src="./images/nahago/nahago_image1.png" width="150">
 <img src="./images/nahago/nahago_image2.png" width="150">
@@ -143,9 +140,6 @@
   알림톡/노티카운트 개발
 ```
 
-**기사내용 :** https://www.youtube.com/watch?v=Tn1CjH51_ns
-**구글스토어 사이트 :** https://play.google.com/store/search?q=%EB%82%98%EC%95%BC%EB%82%98&c=apps
-
 <div>
 <img src="./images/nayana/nayana_image18.jpg" width="150">
 <img src="./images/nayana/nayana_image3.jpg" width="150">
@@ -197,8 +191,6 @@
   계약 채팅생성 프로세스 개발
   녹화 음성파일,녹화 화상파일,화상대화,음성대화 채팅 알림톡 개발
 ```
-
-**기사내용 :** https://www.ekoreanews.co.kr/news/articleView.html?idxno=47853
 
 <div>
 <img src="./images/wehagoOne/wehagoOne_image1.jpg" width="150">
@@ -292,9 +284,6 @@
   150개의 레거시 QA Jira 이슈처리(뉴스,거래처,조직도,연락처,공지사항,잠금설정)
 ```
 
-**참고사이트 :** https://www.wehago.com/landing/ko/home/
-**구글스토어 사이트 :** https://play.google.com/store/apps/details?id=com.duzon.android.lulubizpotal
-
 ##### 메인/뉴스
 
 <div>
@@ -359,9 +348,6 @@
   메인 개발
   영상 재생 개발
 ```
-
-**구글스토어 사이트 :** https://play.google.com/store/apps/details?id=com.clusoft.hangulzzang_app&hl=ko&gl=US
-**플랫폼 소개 영상 :** https://www.youtube.com/watch?v=Tn1CjH51_ns
 
 <div>
 <img src="./images/hangle/hangle02.jpeg" width="350">
