@@ -349,6 +349,8 @@
   영상 재생 개발
 ```
 
+**플랫폼 소개 영상 :** https://www.youtube.com/watch?v=OSsHPK1mCjo
+
 <div>
 <img src="./images/hangle/hangle02.jpeg" width="350">
 <img src="./images/hangle/hangle03.jpeg" width="350">
