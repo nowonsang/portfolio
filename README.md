@@ -9,7 +9,7 @@
 
 # 경력
 
-- (주)더존비즈온 (정규직활동 2019.07.15 ~)
+- (주)더존비즈온 (정규직활동 2019.07.15 ~ 2022.01.13)
   - [더존비즈온 회사 정보확인](https://www.jobplanet.co.kr/companies/81407/landing/%EB%8D%94%EC%A1%B4%EB%B9%84%EC%A6%88%EC%98%A8)
 - (주)제튼(인턴활동 2019.02 ~ 2019.06)
   - [제튼 회사 정보확인](https://www.saramin.co.kr/zf_user/company-info/view/csn/VUVwS0RuV0hsTDJGUnBmWG5WaVkxdz09/company_nm/(%EC%A3%BC)%EC%A0%9C%ED%8A%BC)
