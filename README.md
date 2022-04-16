@@ -73,7 +73,7 @@
  React-Native(javaScript,TypeScript,Java,kotlin)
  Security(Proguard, Rooting guard, RSA, AES, Sign)
  Dependency managment(npm, pods, gradle, python script )
- Redux pattern(redux-observable,redux Hooks)
+ Redux pattern(Redux-observable,Redux Hook)
  certification(self-authentication,fingerPrint,faceID,simple authentication)
  CI/CD(Gitlab, Fastlane)
 ```
@@ -219,10 +219,10 @@
 - Technical Lead
 
 ```sh
-  React-Native(TypeScript, junit, Objective-C, Java)
+  React-Native(TypeScript, Expo)
   Redux pattern(redux-observable)
   Security(Proguard, Rooting guard, RSA, AES)
-  Dependency managment(yarn, pods, gradle, python script,firebase)
+  Dependency managment(yarn,python script,firebase)
   CI/CD(Gitlab, FastLane)
 ```
 
