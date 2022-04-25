@@ -475,7 +475,7 @@
 - Technical Lead
 
 ```sh
-  Unity(C#,virtual reality)
+  Unity(C#,virtual reality,OVRPlyaerController)
 ```
 
 - Participation
