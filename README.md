@@ -265,9 +265,8 @@
 - Technical Lead
 
 ```sh
-  And(kotlin,Java12)
-  pattern(RxJava)
-  Network(JSONObject,HttpURLConnection)
+  And(kotlin,Java12,RxJava)
+  Network(RestfulApi)
   Security(Proguard,RSA, AES)
   Dependency managment(firebase)
   CI/CD(Gitlab, FastLane)
