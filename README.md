@@ -267,6 +267,7 @@
 ```sh
   And(kotlin,Java12,RxJava)
   Network(RestfulApi)
+  Pattern(MVC)
   Security(Proguard,RSA, AES)
   Dependency managment(firebase)
   CI/CD(Gitlab, FastLane)
