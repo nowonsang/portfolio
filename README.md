@@ -9,7 +9,7 @@
 
 # 경력
 
-- (주)동화기업 (정규직활동 2022.07.05 ~ 2025.03.21)
+- (주)동화기업 (정규직활동 2022.07.05 ~ 진행중)
   - [동화기업 회사 정보확인](https://www.dongwha.com/main/main.asp)
 - (주)더존비즈온 (정규직활동 2019.07.15 ~ 2022.01.13)
   - [더존비즈온 회사 정보확인](https://www.jobplanet.co.kr/companies/81407/landing/%EB%8D%94%EC%A1%B4%EB%B9%84%EC%A6%88%EC%98%A8)
@@ -41,8 +41,9 @@
 - Android(Java,kotlin)
   - 3개의 앱 개발
 - 하이브리드 앱(Morpheus,Java,Object-C,jquery,Spring,Mysql,AWS)
-  - 약 10개의 앱 유지보수
+  - 약 5개의 앱 유지보수
 - 하이브리드 웹앱(Morpheus,WebView,Native bridge)
+  - 2개의 앱 유지보수
   - 2개의 앱 개발
 - VR/AR(C#)
   - unity를 이용한 3개의 교육앱 개발
@@ -77,27 +78,28 @@
 
 ## <br>
 
-# 하이브리드앱 프로젝트
-
-<br>
+# hybrid 프로젝트
 
 ## 하이브리드 앱 (직원관리,원재료 관리,자재 영업관리,대리점 영업관리 모바일 앱) 유지보수/고도화
 
-> 유지보수 : 2022.07.05 ~ 현재진행중
-> (주)동화기업 > 모바일담당 (노원상 대리)
+> <br>유지보수 : 2022.07.05 ~ 현재진행중 <br><br>
+> (주)동화기업 > 모바일담당 (노원상 대리) <br><br>
+> 대상앱: GreenNet, D-RMS , D-Sales, D-Partners , It-service <br><br>
 
 - Introduction
 
 ```sh
- '그린넷(GreenNet), D-RMS , D-Sales , D-Partners , IT-Service 5가지 모바일앱'은 사내 자재 관리와 특정 목질 원재료에 대한 (출고 관리 & 출고 처리기능)을 함께 제공하고 영업 관리에 필요한 (자재주문, 출고, 시공 , AS 및 배송시스템)등을 관리하며 회사차원에서 일어나는
- 결재,직원관리, 조직문화 , 이슈관리 등 조직내에 일어나는 모든 행위와 업무 처리를 지원하는 모바일 앱입니다.
+'그린넷(GreenNet)', 'D-RMS', 'D-Sales', 'D-Partners', 'it-service' 5가지 모바일 앱은
+사내 자재 관리 및 특정 목질 원재료의 출고 관리와 출고 처리 기능을 제공하며,
+영업 관리에 필요한 자재 주문, 출고, 시공, A/S, 배송 시스템, 원재료 관리 등을 지원합니다.
+또한, 결재, 직원 관리, 조직 문화, 이슈 관리 등 회사 전반에서 발생하는 다양한 행위와 업무 처리를 통합적으로 지원하는 모바일 애플리케이션입니다.
 ```
 
 - Technical Lead
 
 ```sh
   And(Java17,RxJava,Webview)
-  ios(Object-C)
+  ios(Object-C,WKWebView)
   CrossPlatform(Morpheus,javaScript,jQuery,CSS)
   Network(RestfulApi,Spring,AWS)
   Monitoring(Whatap,crashReport)
@@ -142,6 +144,46 @@
 <img src="./images/hybridApp/D-RMS2.png" width="150">
 </div>
 
+<br>
+
+## 하이브리드 웹앱 (생산관리,운송사관리,운송장,베트남 원재료관리) 유지보수/고도화
+
+> <br>유지보수 : 2022.07.05 ~ 현재진행중 <br><br>
+> (주)동화기업 > 모바일담당 (노원상 대리) <br><br>
+> 대상앱 : D-Logis, Smart-Factory, D-RMS VN <br><br>
+
+```sh
+'D-Logis', 'Smart-Factory', 'D-RMS VN' 3개의 모바일앱은
+배송 기사들이 운송장을 효율적으로 출력하여 고객에게 정확한 제품을 전달할 수 있도록 지원하고,
+공정 현황과 제품 오더 스케줄을 데이터와 연계하여 관리하며,
+베트남 지역의 원재료를 효율적으로 관리하고 업무를 처리할 수 있도록 돕는 모바일 애플리케이션입니다.
+```
+
+- Technical Lead
+
+```sh
+  And(Java17,Webview)
+  ios(Object-C,WKWebView)
+  CrossPlatform(Morpheus,javaScript,jQuery,CSS)
+```
+
+- Participation
+
+```sh
+  파일 다운로드 기능 추가
+  서브앱 로그인 기능 추가
+  Web <-> Native Bridge 모듈 개발 (ios/android) -> 토스트 메세지표시,앱스토리지 저장/조회,시스템 브라우저 호출, 앱전역변수 저장/조회
+```
+
+<div>
+  <img src="./images/hybridApp/webApp/App1.png" width="150">
+  <img src="./images/hybridApp/webApp/Smart-Factory.jpeg" width="150">
+  <img src="./images/hybridApp/webApp/D-FactoryIn2.png" width="150">
+  <img src="./images/hybridApp/webApp/D-Logis.jpeg" width="150" >
+  <img src="./images/hybridApp/webApp/DRMS_VN.jpeg" width="150" >
+  <img src="./images/hybridApp/webApp/NaitveModule.png" width="150">
+</div>
+
 ---
 
 <br><br>
@@ -163,8 +205,7 @@
 - Technical Lead
 
 ```sh
- React-Native(javaScript,TypeScript,Java,kotlin)
- Security(Proguard, Rooting guard, RSA, AES, Sign)
+ CrossPlatform(Morpheus)
  Dependency managment(npm, pods, gradle, python script )
  Redux pattern(Redux-observable,Redux Hook)
  certification(self-authentication,fingerPrint,faceID,simple authentication)
