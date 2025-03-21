@@ -135,13 +135,13 @@
 <img src="./images/hybridApp/D-Sales.jpeg" width="150">
 <img src="./images/hybridApp/D-Sales1.png" width="150">
 <img src="./images/hybridApp/D-Sales2.png" width="150">
-<img src="./images/hybridApp/D-Sales3.png" width="150">
 <img src="./images/hybridApp/D-Sales4.png" width="150">
 <img src="./images/hybridApp/D-Sales5.png" width="150">
 <img src="./images/hybridApp/D-Partners.png" width="150">
 <img src="./images/hybridApp/D-Partners2.png" width="150">
 <img src="./images/hybridApp/D-RMS.png" width="150">
 <img src="./images/hybridApp/D-RMS2.png" width="150">
+<img src="./images/hybridApp/it-service.png" width="150">
 </div>
 
 <br>
