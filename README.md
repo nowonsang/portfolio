@@ -1,6 +1,6 @@
 # 노원상
 
-안녕하세요 Android , React-Native 프론트 개발 3년차 경험이 있는 개발자 노원상 연구원입니다
+안녕하세요 Android , React-Native , Cross-Platform(Android,IOS) ,서버 (Spring) 경험이 있는 5년차 개발자 노원상 연구원입니다
 제가 맡게된 임무를 책임감 있게 마무리하는 개발자가 되는것 열정을 잃지 않고 끈임없이 성장해 나가는
 그런 개발자가 되도록 노력하는것이 저의 방향이자 목표입니다.
 그렇기에 현실에 안주하지 않고 더 좋은 방향으로 성장해 나아가길 선호하는 편입니다.
@@ -10,7 +10,7 @@
 # 경력
 
 - (주)동화기업 (정규직활동 2022.07.05 ~ 2025.03.21)
-  - [더존비즈온 회사 정보확인](https://www.jobplanet.co.kr/companies/81407/landing/%EB%8D%94%EC%A1%B4%EB%B9%84%EC%A6%88%EC%98%A8)
+  - [동화기업 회사 정보확인](https://www.dongwha.com/main/main.asp)
 - (주)더존비즈온 (정규직활동 2019.07.15 ~ 2022.01.13)
   - [더존비즈온 회사 정보확인](https://www.jobplanet.co.kr/companies/81407/landing/%EB%8D%94%EC%A1%B4%EB%B9%84%EC%A6%88%EC%98%A8)
 - (주)제튼(인턴활동 2019.02 ~ 2019.06)
@@ -20,12 +20,30 @@
 
 # 보유 기술
 
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB.svg?&style=flat-square&logo=React&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=TypeScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=black)
+![Morpheus](https://img.shields.io/badge/Morpheus-6C4AB6.svg?&style=flat-square&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?&style=flat-square&logo=jQuery&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat-square&logo=Android%20Studio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?&style=flat-square&logo=Kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=OpenJDK&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?&style=flat-square&logo=Xcode&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-438EFF.svg?&style=flat-square&logo=Apple&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=flat-square&logo=Amazon%20AWS&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white)
+
 - React-Native(TypeScript,JavaScript)
   - 4개의 앱 개발
 - Android(Java,kotlin)
   - 3개의 앱 개발
-- 하이브리드앱(Java,Object-C,jquery,Spring,Mysql,AWS)
-  - 12개의 앱 유지보수
+- 하이브리드 앱(Morpheus,Java,Object-C,jquery,Spring,Mysql,AWS)
+  - 약 10개의 앱 유지보수
+- 하이브리드 웹앱(Morpheus,WebView,Native bridge)
+  - 2개의 앱 개발
 - VR/AR(C#)
   - unity를 이용한 3개의 교육앱 개발
 
@@ -57,9 +75,79 @@
 </a>
 </div>
 
+## <br>
+
+# 하이브리드앱 프로젝트
+
+<br>
+
+## 하이브리드 앱 (직원관리,원재료 관리,자재 영업관리,대리점 영업관리 모바일 앱) 유지보수/고도화
+
+> 유지보수 : 2022.07.05 ~ 현재진행중
+> (주)동화기업 > 모바일담당 (노원상 대리)
+
+- Introduction
+
+```sh
+ '그린넷(GreenNet), D-RMS , D-Sales , D-Partners , IT-Service 5가지 모바일앱'은 사내 자재 관리와 특정 목질 원재료에 대한 (출고 관리 & 출고 처리기능)을 함께 제공하고 영업 관리에 필요한 (자재주문, 출고, 시공 , AS 및 배송시스템)등을 관리하며 회사차원에서 일어나는
+ 결재,직원관리, 조직문화 , 이슈관리 등 조직내에 일어나는 모든 행위와 업무 처리를 지원하는 모바일 앱입니다.
+```
+
+- Technical Lead
+
+```sh
+  And(Java17,RxJava,Webview)
+  ios(Object-C)
+  CrossPlatform(Morpheus,javaScript,jQuery,CSS)
+  Network(RestfulApi,Spring,AWS)
+  Monitoring(Whatap,crashReport)
+  DB(Mysql)
+  Pattern(MVC)
+  Security(Proguard,RSA, AES)
+  Dependency managment(firebase,Upns,Apns)
+  CI/CD(CodeCommit)
+```
+
+- Participation
+
+```sh
+  [1인 유지보수 및 고도화]
+
+  그린넷 모바일앱 (전자결재,조직도,경조사,업무시스템,인포메이션...)
+  D-RMS 모바일앱 (입고현황,업체조회..)
+  D-Sales 모바일앱 (주문요청,출고요청,직시공조회,주문배송현황,일일 영업현황,재고조회...)
+  D-Partners 모바일 앱 (대리점 주문요청,AS 특판/기사,직시공..)
+  IT-Service 모바일 앱 (이슈관리,문의내역 ...)
+  모바일용 API 개발(Spring)
+  서버관리 (AWS,EC2,RDS,Redis)
+  IOS,Android(앱 현상관리,인증서관리)
+  약 120개이상의 자체개선개발 및 & 신규개발 & 이슈처리
+```
+
+<div>
+<img src="./images/hybridApp/GreenNet1.jpeg" width="150">
+<img src="./images/hybridApp/GreenNet2.jpeg" width="150">
+<img src="./images/hybridApp/GreenNet3.jpeg" width="150">
+<img src="./images/hybridApp/GreenNet9.png" width="150">
+<img src="./images/hybridApp/D-Sales.jpeg" width="150">
+<img src="./images/hybridApp/D-Sales1.png" width="150">
+<img src="./images/hybridApp/D-Sales2.png" width="150">
+<img src="./images/hybridApp/D-Sales3.png" width="150">
+<img src="./images/hybridApp/D-Sales4.png" width="150">
+<img src="./images/hybridApp/D-Sales5.png" width="150">
+<img src="./images/hybridApp/D-Partners.png" width="150">
+<img src="./images/hybridApp/D-Partners2.png" width="150">
+<img src="./images/hybridApp/D-RMS.png" width="150">
+<img src="./images/hybridApp/D-RMS2.png" width="150">
+</div>
+
+---
+
+<br><br>
+
 # React-Native 프로젝트
 
-### 나하고 (임금명세서 , 출퇴근관리 , 연말정산 직원관리 모바일 앱)
+## 나하고 (임금명세서 , 출퇴근관리 , 연말정산 직원관리 모바일 앱)
 
 > 개발기간 : 2021.11.28 ~ 현재 진행중
 > (주)더존비즈온 > 모바일개발팀(노원상 연구원)
@@ -107,7 +195,7 @@
 <img src="./images/nahago/nahago_image14.png" width="150">
 </div>
 
-### 나야나(강원도청 플렛폼 앱)
+## 나야나(강원도청 플렛폼 앱)
 
 > 개발기간 : 2020.07 ~ 2021.03
 > (주)더존비즈온 > 모바일개발팀(노원상 연구원)
@@ -161,7 +249,7 @@
 <img src="./images/nayana/nayana_image17.png" width="150">
 </div>
 
-### 위하고원(블록체인 간편계약 모바일 앱)
+## 위하고원(블록체인 간편계약 모바일 앱)
 
 > 개발기간 : 2020.07 ~ 2021.03
 > (주)더존비즈온 > 모바일개발팀(노원상 연구원)
@@ -204,7 +292,7 @@
 <img src="./images/wehagoOne/wehagoOne_image9.png" width="150">
 </div>
 
-### 위하고 Sign (회사 전자서명 앱)
+## 위하고 Sign (회사 전자서명 앱)
 
 > 개발기간 : 2020.02 ~ 2020.04
 > (주)더존비즈온 > 모바일개발팀(노원상 연구원)
@@ -249,9 +337,13 @@
 <img src="./images/wehagoSign/wehagoSign_image13.jpeg" width="150">
 </div>
 
+---
+
+<br><br>
+
 # Android 프로젝트
 
-### 위하고 And 앱(B to B 협업) 유지보수/고도화
+## 위하고 And 앱(B to B 협업) 유지보수/고도화
 
 > 개발기간 : 2019.05 ~ 진행중
 > (주)더존비즈온 > 모바일개발팀(노원상 연구원)
