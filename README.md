@@ -9,19 +9,23 @@
 
 # 경력
 
+- (주)동화기업 (정규직활동 2022.07.05 ~ 2025.03.21)
+  - [더존비즈온 회사 정보확인](https://www.jobplanet.co.kr/companies/81407/landing/%EB%8D%94%EC%A1%B4%EB%B9%84%EC%A6%88%EC%98%A8)
 - (주)더존비즈온 (정규직활동 2019.07.15 ~ 2022.01.13)
   - [더존비즈온 회사 정보확인](https://www.jobplanet.co.kr/companies/81407/landing/%EB%8D%94%EC%A1%B4%EB%B9%84%EC%A6%88%EC%98%A8)
 - (주)제튼(인턴활동 2019.02 ~ 2019.06)
-  - [제튼 회사 정보확인](https://www.saramin.co.kr/zf_user/company-info/view/csn/VUVwS0RuV0hsTDJGUnBmWG5WaVkxdz09/company_nm/(%EC%A3%BC)%EC%A0%9C%ED%8A%BC)
+  - [제튼 회사 정보확인](<https://www.saramin.co.kr/zf_user/company-info/view/csn/VUVwS0RuV0hsTDJGUnBmWG5WaVkxdz09/company_nm/(%EC%A3%BC)%EC%A0%9C%ED%8A%BC>)
 - (주)클루소프트(인턴활동 2018.06 ~ 2018.08)
-  - [클루소프트 회사 확인](https://www.saramin.co.kr/zf_user/company-info/view/csn/bDd0Rmx6UWM3d0VjTENDYlhtLzIvZz09/company_nm/(%EC%A3%BC)%ED%81%B4%EB%A3%A8%EC%86%8C%ED%94%84%ED%8A%B8)
+  - [클루소프트 회사 확인](<https://www.saramin.co.kr/zf_user/company-info/view/csn/bDd0Rmx6UWM3d0VjTENDYlhtLzIvZz09/company_nm/(%EC%A3%BC)%ED%81%B4%EB%A3%A8%EC%86%8C%ED%94%84%ED%8A%B8>)
 
-# 보유 기술 
+# 보유 기술
 
 - React-Native(TypeScript,JavaScript)
-  - 4개의 앱 개발 
-- Android(Java,kotlin) 
-  - 3개의 앱 개발 
+  - 4개의 앱 개발
+- Android(Java,kotlin)
+  - 3개의 앱 개발
+- 하이브리드앱(Java,Object-C,jquery,Spring,Mysql,AWS)
+  - 12개의 앱 유지보수
 - VR/AR(C#)
   - unity를 이용한 3개의 교육앱 개발
 
@@ -63,7 +67,7 @@
 - Introduction
 
 ```sh
- '나하고(NAHAGO)앱'은 중소기업·소상공인 등이 개정 근로기준법에서 요구하는 급여(임금)명세서 의무 교부에 쉽게 대응할 수 있도록 근무시간· 
+ '나하고(NAHAGO)앱'은 중소기업·소상공인 등이 개정 근로기준법에서 요구하는 급여(임금)명세서 의무 교부에 쉽게 대응할 수 있도록 근무시간·
  급여관리 서비스를 제공하는 직장인용 앱 플랫폼입니다
 ```
 
@@ -85,7 +89,7 @@
   계정관리(요금제 해지,비밀번호찾기,아이디찾기,간편비밀번호찾기,로그아웃,회사추가,회사해지)개발
   위하고앱 연동 개발
   본인부인방지 모듈 제작(PIN,FACE ID,FIDO,NICE 인증)
-  보안툴 암호화 모듈 세팅 & 계약 인증서 개발 
+  보안툴 암호화 모듈 세팅 & 계약 인증서 개발
 ```
 
 <div>
@@ -103,8 +107,6 @@
 <img src="./images/nahago/nahago_image14.png" width="150">
 </div>
 
-
-
 ### 나야나(강원도청 플렛폼 앱)
 
 > 개발기간 : 2020.07 ~ 2021.03
@@ -113,8 +115,8 @@
 - Introduction
 
 ```sh
- 나에게 맞춰진 디지털 세상, 내가 중심인 디지털 세상을 뜻하는 '나야나(NAYANA) 앱'은 핸드폰 만으로 언제 어디서나 개인의 신원·자격을 안전하게 증명할 
- 수 있는 블록체인 기반의 분산신원증명(DID) 및 클라우드 기술이 적용된 앱으로써. 강원도민 사람들 위주로 비대면 신원인증 서비스를 통해 주민센 
+ 나에게 맞춰진 디지털 세상, 내가 중심인 디지털 세상을 뜻하는 '나야나(NAYANA) 앱'은 핸드폰 만으로 언제 어디서나 개인의 신원·자격을 안전하게 증명할
+ 수 있는 블록체인 기반의 분산신원증명(DID) 및 클라우드 기술이 적용된 앱으로써. 강원도민 사람들 위주로 비대면 신원인증 서비스를 통해 주민센
  터 등 기관 방문 없이 휴대폰으로 각종 보조금을 신청하거나 지급받을 수 있는 앱입니다
 ```
 
@@ -159,7 +161,6 @@
 <img src="./images/nayana/nayana_image17.png" width="150">
 </div>
 
-
 ### 위하고원(블록체인 간편계약 모바일 앱)
 
 > 개발기간 : 2020.07 ~ 2021.03
@@ -168,7 +169,7 @@
 - Introduction
 
 ```sh
- 'WEHAGO ONE 앱'은 정부 프로젝트 과학기술정보통신부·한국인터넷진흥원(KISA)의 ‘2020 블록체인 민간주도 국민 프로젝트’ 선정 과제로 선보인 블록체인 기 
+ 'WEHAGO ONE 앱'은 정부 프로젝트 과학기술정보통신부·한국인터넷진흥원(KISA)의 ‘2020 블록체인 민간주도 국민 프로젝트’ 선정 과제로 선보인 블록체인 기
  술 기반의 소상공인과 개인을 위한 간편계약(구두계약) 앱 플랫폼입니다
 ```
 
@@ -203,7 +204,6 @@
 <img src="./images/wehagoOne/wehagoOne_image9.png" width="150">
 </div>
 
-
 ### 위하고 Sign (회사 전자서명 앱)
 
 > 개발기간 : 2020.02 ~ 2020.04
@@ -231,6 +231,7 @@
 ```sh
   앱 1인 개발
 ```
+
 <div>
 <img src="./images/wehagoSign/wehagoSign_image1.jpeg" width="150">
 <img src="./images/wehagoSign/wehagoSign_image2.jpeg" width="150">
@@ -258,7 +259,7 @@
 - Introduction
 
 ```sh
- '위하고(WEHAGO) 앱은' 기업의 다양한 업무환경에 필요한 온라인 비즈니스 플랫폼으로써 (원활한 소통, 효율적인 업무관리, 서비스연동, 신속한 업무처리, 안전한 데이터관 리등)의 
+ '위하고(WEHAGO) 앱은' 기업의 다양한 업무환경에 필요한 온라인 비즈니스 플랫폼으로써 (원활한 소통, 효율적인 업무관리, 서비스연동, 신속한 업무처리, 안전한 데이터관 리등)의
  서비스를 제공하는 모바일 앱입니다
 ```
 
@@ -321,7 +322,7 @@
 <img src="./images/wehago/etc/wehago_Etc04.jpeg" width="180" height="450">
 </div>
 
-### 한글공부 한글천재 
+### 한글공부 한글천재
 
 > 개발기간 : 2017-12 ~ 2018.02
 > (주)클루소프트 > 모바일 개발팀(노원상 인턴)
@@ -417,9 +418,7 @@
   1인 개발
 ```
 
-
 **실행 동영상 :** https://www.youtube.com/watch?v=5yDfrHHk-Uk
-
 
 <div>
 <img src="./images/fire_education/fire01.png" width="250">
