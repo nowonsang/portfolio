@@ -165,6 +165,7 @@
   And(Java17,Webview)
   ios(Object-C,WKWebView)
   CrossPlatform(Morpheus,javaScript,jQuery,CSS)
+  Native Bridge (ios/android)
 ```
 
 - Participation
@@ -172,7 +173,7 @@
 ```sh
   파일 다운로드 기능 추가
   서브앱 로그인 기능 추가
-  Web <-> Native Bridge 모듈 개발 (ios/android) -> 토스트 메세지표시,앱스토리지 저장/조회,시스템 브라우저 호출, 앱전역변수 저장/조회
+  Web <-> Native Bridge 모듈 개발 (토스트 메세지표시,앱스토리지 저장/조회,시스템 브라우저 호출, 앱전역변수 저장/조회)
 ```
 
 <div>
