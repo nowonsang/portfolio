@@ -193,6 +193,44 @@
   <img src="./images/hybridApp/webApp/NaitveModule.png" width="150">
 </div>
 
+## VRGDW Store (베트남 고객용 주문관리 모바일 앱)
+
+> <br>개발기간 : 2023.11.20 ~ 2024.01.25 <br><br>
+> (주)동화기업 > 모바일담당 (노원상 대리) <br><br>
+
+```sh
+'VRGDW Store'는 고객이 모바일로 제품을 주문하고, 주문 현황과 보고서를 확인할 수 있는 비즈니스 전용 모바일 애플리케이션입니다.
+```
+
+- Technical Lead
+
+```sh
+  And(Java17,Webview)
+  ios(Object-C,WKWebView)
+  CrossPlatform(Morpheus,javaScript,jQuery,CSS)
+  Native Bridge (ios/android)
+```
+
+- Participation
+
+```sh
+  [1인 개발]
+
+  WebView,WKWebView 새로고침 모션 추가
+  push 알림 추가
+  Web <-> Native Bridge 모듈 개발 (토스트 메세지표시,앱스토리지 저장/조회,시스템 브라우저 호출, 앱전역변수 저장/조회)
+  GooglePlay 공개 배포
+  AppStore 비공개 배포
+```
+
+<br>
+
+<div>
+  <img src="./images/hybridApp/webApp/VRGDW-Store1.png" width="150">
+  <img src="./images/hybridApp/webApp/VRGDW-Store2.png" width="150">
+  <img src="./images/hybridApp/webApp/VRGDW-Store3.png" width="150">
+</div>
+
 <br>
 
 ## VRGDW D-Sales (베트남 자재 영업관리 모바일 앱)
@@ -235,47 +273,7 @@
   <img src="./images/hybridApp/webApp/VRGDW-Sales4.png" width="150">
 </div>
 
----
-
-<br>
-
-## VRGDW Store (베트남 고객용 주문관리 모바일 앱)
-
-> <br>개발기간 : 2023.11.20 ~ 2023.01.25 <br><br>
-> (주)동화기업 > 모바일담당 (노원상 대리) <br><br>
-
-```sh
-'VRGDW Store'는 고객이 모바일로 제품을 주문하고, 주문 현황과 보고서를 확인할 수 있는 비즈니스 전용 모바일 애플리케이션입니다.
-```
-
-- Technical Lead
-
-```sh
-  And(Java17,Webview)
-  ios(Object-C,WKWebView)
-  CrossPlatform(Morpheus,javaScript,jQuery,CSS)
-  Native Bridge (ios/android)
-```
-
-- Participation
-
-```sh
-  [1인 개발]
-
-  WebView,WKWebView 새로고침 모션 추가
-  push 알림 추가
-  Web <-> Native Bridge 모듈 개발 (토스트 메세지표시,앱스토리지 저장/조회,시스템 브라우저 호출, 앱전역변수 저장/조회)
-  GooglePlay 공개 배포
-  AppStore 비공개 배포
-```
-
-<br>
-
-<div>
-  <img src="./images/hybridApp/webApp/VRGDW-Store1.png" width="150">
-  <img src="./images/hybridApp/webApp/VRGDW-Store2.png" width="150">
-  <img src="./images/hybridApp/webApp/VRGDW-Store3.png" width="150">
-</div>
+## IOS ,Android 앱 현상관리
 
 ---
 
