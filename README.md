@@ -126,6 +126,8 @@
   약 120개이상의 자체개선개발 및 & 신규개발 & 이슈처리
 ```
 
+<br>
+
 <div>
 <img src="./images/hybridApp/app.png" width="150">
 <img src="./images/hybridApp/GreenNet1.jpeg" width="150">
@@ -171,10 +173,16 @@
 - Participation
 
 ```sh
+
+  [1인 유지보수 및 고도화]
+
   파일 다운로드 기능 추가
   서브앱 로그인 기능 추가
   Web <-> Native Bridge 모듈 개발 (토스트 메세지표시,앱스토리지 저장/조회,시스템 브라우저 호출, 앱전역변수 저장/조회)
+
 ```
+
+<br>
 
 <div>
   <img src="./images/hybridApp/webApp/App1.png" width="150">
@@ -183,6 +191,90 @@
   <img src="./images/hybridApp/webApp/D-Logis.jpeg" width="150" >
   <img src="./images/hybridApp/webApp/DRMS_VN.jpeg" width="150" >
   <img src="./images/hybridApp/webApp/NaitveModule.png" width="150">
+</div>
+
+<br>
+
+## VRGDW D-Sales (베트남 자재 영업관리 모바일 앱)
+
+> <br>개발기간 : 2022.09.20 ~ 2023.12.31 <br><br>
+> (주)동화기업 > 모바일담당 (노원상 대리) <br><br>
+
+```sh
+'VRGDW D-Sales' 모바일앱은 베트남 지역에서의 수기로 이루어지던 영업, 물류 업무 프로세스를 디지털 전환하여 휴먼 에러를 줄이고 업무 효율성을 높여 이용 고객의 편의성을 높이고자
+만든 영업 지원용 모바일 애플리케이션입니다.
+```
+
+- Technical Lead
+
+```sh
+  And(Java17,Webview)
+  ios(Object-C,WKWebView)
+  CrossPlatform(Morpheus,javaScript,jQuery,CSS)
+  Native Bridge (ios/android)
+```
+
+- Participation
+
+```sh
+  [1인 개발]
+
+  WebView,WKWebView 새로고침 모션 추가
+  push 알림 추가
+  Web <-> Native Bridge 모듈 개발 (토스트 메세지표시,앱스토리지 저장/조회,시스템 브라우저 호출, 앱전역변수 저장/조회)
+  GooglePlay 공개 배포
+  AppStore 비공개 배포
+```
+
+<br>
+
+<div>
+  <img src="./images/hybridApp/webApp/VRGDW-Sales1.png" width="150">
+  <img src="./images/hybridApp/webApp/VRGDW-Sales2.png" width="150">
+  <img src="./images/hybridApp/webApp/VRGDW-Sales3.png" width="150">
+  <img src="./images/hybridApp/webApp/VRGDW-Sales4.png" width="150">
+</div>
+
+---
+
+<br>
+
+## VRGDW Store (베트남 고객용 주문관리 모바일 앱)
+
+> <br>개발기간 : 2023.11.20 ~ 2023.01.25 <br><br>
+> (주)동화기업 > 모바일담당 (노원상 대리) <br><br>
+
+```sh
+'VRGDW Store'는 고객이 모바일로 제품을 주문하고, 주문 현황과 보고서를 확인할 수 있는 비즈니스 전용 모바일 애플리케이션입니다.
+```
+
+- Technical Lead
+
+```sh
+  And(Java17,Webview)
+  ios(Object-C,WKWebView)
+  CrossPlatform(Morpheus,javaScript,jQuery,CSS)
+  Native Bridge (ios/android)
+```
+
+- Participation
+
+```sh
+  [1인 개발]
+
+  WebView,WKWebView 새로고침 모션 추가
+  push 알림 추가
+  Web <-> Native Bridge 모듈 개발 (토스트 메세지표시,앱스토리지 저장/조회,시스템 브라우저 호출, 앱전역변수 저장/조회)
+  GooglePlay 공개 배포
+  AppStore 비공개 배포
+```
+
+<br>
+
+<div>
+  <img src="./images/hybridApp/webApp/VRGDW-Store1.png" width="150">
+  <img src="./images/hybridApp/webApp/VRGDW-Store2.png" width="150">
+  <img src="./images/hybridApp/webApp/VRGDW-Store3.png" width="150">
 </div>
 
 ---
