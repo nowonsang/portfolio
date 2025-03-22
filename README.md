@@ -273,8 +273,6 @@
   <img src="./images/hybridApp/webApp/VRGDW-Sales4.png" width="150">
 </div>
 
-## IOS ,Android 앱 현상관리
-
 ---
 
 <br><br>
