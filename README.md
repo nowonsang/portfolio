@@ -101,7 +101,7 @@
   And(Java17,RxJava,Webview)
   ios(Object-C,WKWebView)
   CrossPlatform(Morpheus,javaScript,jQuery,CSS)
-  Network(RestfulApi,Spring,AWS)
+  Network(RestfulApi,Spring)
   Monitoring(Whatap,crashReport)
   DB(Mysql)
   Pattern(MVC)
@@ -110,20 +110,19 @@
   CI/CD(CodeCommit)
 ```
 
-- Participation
+- Key Responsibilities
 
 ```sh
   [1인 유지보수 및 고도화]
 
-  그린넷 모바일앱 (전자결재,조직도,경조사,업무시스템,인포메이션...)
-  D-RMS 모바일앱 (입고현황,업체조회..)
-  D-Sales 모바일앱 (주문요청,출고요청,직시공조회,주문배송현황,일일 영업현황,재고조회...)
-  D-Partners 모바일 앱 (대리점 주문요청,AS 특판/기사,직시공..)
-  IT-Service 모바일 앱 (이슈관리,문의내역 ...)
-  모바일용 API 개발(Spring)
-  서버관리 (AWS,EC2,RDS,Redis)
-  IOS,Android(앱 현상관리,인증서관리)
-  약 120개이상의 자체개선개발 및 & 신규개발 & 이슈처리
+  모바일 로그인 통합체계 개발 (API,클라이언트) (AD인증 -> M365 로그인)
+  모바일 push 디테일 컨트롤 기능 개발 (API,클라이언트) (전자결재 -> IOS,Android 뱃지 카운트 동기화)
+  모바일 AI 스마트렌즈 개발 (자재 패턴정보 분석,추천)
+  Web <-> 모바일 앱 Connect 단축링크 개발 (API,클라이언트)
+  모바일 (원지재고 조회,BI 서비스, 휴가신청, 인포메이션, 업무서비스, 긴급공지사항) 신규개발
+  모바일 AS 기사/특판 ImagePicker 쟈체개선 (이미지 로드 속도 약 10초 → 1초 , 저화질 -> 초고화질)
+
+  약 150개이상의 개선개발 및 & 자체개선 & 이슈처리 (GreenNet, D-RMS, D-Sales, D-Partners, IT-Service)
 ```
 
 <br>
@@ -168,9 +167,12 @@
   ios(Object-C,WKWebView)
   CrossPlatform(Morpheus,javaScript,jQuery,CSS)
   Native Bridge (ios/android)
+  Security(Proguard)
+  Dependency managment(firebase,Upns,Apns)
+  CI/CD(CodeCommit)
 ```
 
-- Participation
+- Key Responsibilities
 
 ```sh
 
@@ -209,9 +211,12 @@
   ios(Object-C,WKWebView)
   CrossPlatform(Morpheus,javaScript,jQuery,CSS)
   Native Bridge (ios/android)
+  Security(Proguard)
+  Dependency managment(firebase,Upns,Apns)
+  CI/CD(CodeCommit)
 ```
 
-- Participation
+- Key Responsibilities
 
 ```sh
   [1인 개발]
@@ -246,13 +251,16 @@
 - Technical Lead
 
 ```sh
-  And(Java17,Webview)
-  ios(Object-C,WKWebView)
-  CrossPlatform(Morpheus,javaScript,jQuery,CSS)
+  And (Java17,Webview)
+  ios (Object-C,WKWebView)
+  CrossPlatform (Morpheus,javaScript,jQuery,CSS)
   Native Bridge (ios/android)
+  Security (Proguard)
+  Dependency managment (firebase,Upns,Apns)
+  CI/CD (CodeCommit)
 ```
 
-- Participation
+- Key Responsibilities
 
 ```sh
   [1인 개발]
@@ -287,7 +295,7 @@
   ios (AppStore,Enterprise)
 ```
 
-- Participation
+- Key Responsibilities
 
 ```sh
 [Android]
@@ -312,6 +320,45 @@ APNS 인증서 (p12 -> p8) 변환작업 적용 (Sandbox+Product)
   <img src="./images/store/app2.png" width="165">
   <img src="./images/store/app3.png" width="300">
 </div>
+
+<br><br>
+
+## 모바일 앱 서버 & 인프라 관리 (AWS, Spring)
+
+> <br>유지보수 : 2022.07.05 ~ 현재진행중 <br><br>
+> (주)동화기업 > 모바일담당 (노원상 대리) <br><br>
+
+- Technical Lead
+
+```sh
+  AWS (EC2, RDS, Redis, Route 53, Network ACL, CloudFront, Waf)
+  Application Server (Tomcat8)
+  Build Tool (Maven)
+  Framework (Spring Framework 4, MyBatis, Stored Procedure)
+  Architecture Pattern (MVC)
+  Database: (MySQL)
+  Security: (JWT, RSA, AES, OAuth)
+  OS: (Linux)
+  Monitoring: (Whatap)
+```
+
+- Key Responsibilities
+
+```sh
+  [1인 유지보수]
+
+   모바일 API 개발 및 정기적인 유지보수(서버용량 관리 , CPU 관리, Heap Memory 관리)
+   Aurora Mysql(2.11.2) 5.7 → Aurora Mysql(3.0.x) 8.0 (메이저 업그레이드 진행)
+   Redis 클러스터 (3.2.10) -> Redis (7.0.7) 업그레이드 진행
+   인프라 트래픽관리 (WAF,ACL)
+```
+
+<div>
+  <img src="./images/infra/server1.png" width="300">
+  <img src="./images/infra/server2.png" width="430">
+</div>
+
+<br><br>
 
 ---
 
