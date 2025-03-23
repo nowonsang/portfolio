@@ -273,9 +273,9 @@
   <img src="./images/hybridApp/webApp/VRGDW-Sales4.png" width="150">
 </div>
 
-<br><br><br>
+<br><br>
 
-# IOS,Android 앱 현상관리 (Store,Enterprise)
+## IOS,Android 앱 현상관리 (Store,Enterprise)
 
 > <br>유지보수 : 2022.07.05 ~ 현재진행중 <br><br>
 > (주)동화기업 > 모바일담당 (노원상 대리) <br><br>
