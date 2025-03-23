@@ -273,9 +273,49 @@
   <img src="./images/hybridApp/webApp/VRGDW-Sales4.png" width="150">
 </div>
 
+<br><br><br>
+
+# IOS,Android 앱 현상관리 (Store,Enterprise)
+
+> <br>유지보수 : 2022.07.05 ~ 현재진행중 <br><br>
+> (주)동화기업 > 모바일담당 (노원상 대리) <br><br>
+
+- Technical Lead
+
+```sh
+  And (GoogleStore,Release apk)
+  ios (AppStore,Enterprise)
+```
+
+- Participation
+
+```sh
+[Android]
+
+Android SDK 29 -> SDK 35 배포
+Google 보안정책 변경대응 (Android)
+Google 프로텍트 감지 & 출처 미상 App 대응
+FCM -> HTTP v1로 변경작업 진행
+
+[IOS]
+
+Xcode (13.2 -> 16.2)
+Apple 보안정책 변경대응 (IOS)
+IOS (기업용,스토어용 계정) 관리
+IOS 인증서 관리 (push,profile,distriution)
+APNS 인증서 (p12 -> p8) 변환작업 적용 (Sandbox+Product)
+배포관리 (비공개배포,공개배포)
+```
+
+<div>
+  <img src="./images/store/app1.png" width="150">
+  <img src="./images/store/app2.png" width="165">
+  <img src="./images/store/app3.png" width="300">
+</div>
+
 ---
 
-<br><br>
+<br><br><br>
 
 # React-Native 프로젝트
 
