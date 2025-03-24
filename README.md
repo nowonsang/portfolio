@@ -1,15 +1,18 @@
 # 노원상
 
-안녕하세요 Android , React-Native , Cross-Platform(Android,IOS) ,서버 (Spring) 경험이 있는 5년차 개발자 노원상 연구원입니다
-제가 맡게된 임무를 책임감 있게 마무리하는 개발자가 되는것 열정을 잃지 않고 끈임없이 성장해 나가는
-그런 개발자가 되도록 노력하는것이 저의 방향이자 목표입니다.
-그렇기에 현실에 안주하지 않고 더 좋은 방향으로 성장해 나아가길 선호하는 편입니다.
-최근 수행한 회사업무에서 연구원 경력에 대리팀장을 도맡아 개발팀을 이끌어보았던 경력이 있고 협의,회의를 통해
-성공적으로 서비스를 운영할수 있도록 전체적인 진행을 총괄한 경험이 있습니다.
+안녕하세요.React Native, Android, iOS 그리고 Spring 기반 서버 개발 경험을 두루 갖춘 6년 차 개발자 노원상 대리입니다.
+
+저는 맡은 일에 끝까지 책임을 다하는 개발자이며, 열정을 잃지 않고 끊임없이 성장하는 것을 삶의 목표로 삼고 있습니다. 현실에 안주하지 않고 항상 더 나은 방향을 고민하며, 지속적인 발전을 중요하게 생각합니다.
+
+더존에 재직 중에는 연구원 역할과 더불어 대리급 팀장 역할을 겸임하며 개발팀을 이끈 경험이 있습니다. 이후 동화기업에 합류해, 다양한 웹 서비스 중 모바일 부문을 전담하게 되었으며, 관련된 협의와 회의를 주도하며 서비스가 안정적으로 운영될 수 있도록 프로젝트 전반을 총괄하고 있습니다.
+
+이러한 경험을 통해 기술적인 역량은 물론 소통과 리더십 측면에서도 많은 성장을 이뤘습니다.현재는 Android와 iOS 각각 별도로 10개 이상의 모바일 앱을 단독으로 유지보수해온 경력을 갖추고 있으며, 모바일 환경뿐만 아니라 서버와 인프라까지 전반적인 기술 요소들을 폭넓게 관리하고 있습니다.
+
+이처럼 다방면에서 요구되는 기술 수행 능력을 바탕으로, 저는 일반적인 모바일 개발자보다 더 깊이 있고 넓은 기술 지식과 실무 경험을 갖추고 있다고 자부합니다.
 
 # 경력
 
-- (주)동화기업 (정규직활동 2022.07.05 ~ 진행중)
+- (주)동화기업 (정규직활동 2022.07.06 ~ 진행중)
   - [동화기업 회사 정보확인](https://www.dongwha.com/main/main.asp)
 - (주)더존비즈온 (정규직활동 2019.07.15 ~ 2022.01.13)
   - [더존비즈온 회사 정보확인](https://www.jobplanet.co.kr/companies/81407/landing/%EB%8D%94%EC%A1%B4%EB%B9%84%EC%A6%88%EC%98%A8)
@@ -36,15 +39,21 @@
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=flat-square&logo=Amazon%20AWS&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white)
 
-- React-Native(TypeScript,JavaScript)
-  - 4개의 앱 개발
-- Android(Java,kotlin)
-  - 3개의 앱 개발
 - 하이브리드 앱(Morpheus,Java,Object-C,jquery,Spring,Mysql,AWS)
   - 약 5개의 앱 유지보수
 - 하이브리드 웹앱(Morpheus,WebView,Native bridge)
   - 2개의 앱 유지보수
   - 2개의 앱 개발
+- IOS,Android 앱 현상관리
+  - Store
+  - Enterprise
+- 모바일 서버 관리
+  - AWS
+  - Spring
+- React-Native(TypeScript,JavaScript)
+  - 4개의 앱 개발
+- Android(Java,kotlin)
+  - 3개의 앱 개발
 - VR/AR(C#)
   - unity를 이용한 3개의 교육앱 개발
 
@@ -82,7 +91,7 @@
 
 ## 하이브리드 앱 (직원관리,원재료 관리,자재 영업관리,대리점 영업관리 모바일 앱) 유지보수/고도화
 
-> <br>유지보수 : 2022.07.05 ~ 현재진행중 <br><br>
+> <br>유지보수 : 2022.07.06 ~ 현재진행중 <br><br>
 > (주)동화기업 > 모바일담당 (노원상 대리) <br><br>
 > 대상앱: GreenNet, D-RMS , D-Sales, D-Partners , It-service <br><br>
 
@@ -150,7 +159,7 @@
 
 ## 하이브리드 웹앱 (생산관리,운송사관리,운송장,베트남 원재료관리) 유지보수/고도화
 
-> <br>유지보수 : 2022.07.05 ~ 현재진행중 <br><br>
+> <br>유지보수 : 2022.07.06 ~ 현재진행중 <br><br>
 > (주)동화기업 > 모바일담당 (노원상 대리) <br><br>
 > 대상앱 : D-Logis, Smart-Factory, D-RMS VN <br><br>
 
@@ -286,7 +295,7 @@
 
 ## IOS,Android 앱 현상관리 (Store,Enterprise)
 
-> <br>유지보수 : 2022.07.05 ~ 현재진행중 <br><br>
+> <br>유지보수 : 2022.07.06 ~ 현재진행중 <br><br>
 > (주)동화기업 > 모바일담당 (노원상 대리) <br><br>
 
 - Technical Lead
@@ -326,7 +335,7 @@ APNS 인증서 (p12 -> p8) 변환작업 적용 (Sandbox+Product)
 
 ## 모바일 앱 서버 & 인프라 관리 (AWS, Spring)
 
-> <br>유지보수 : 2022.07.05 ~ 현재진행중 <br><br>
+> <br>유지보수 : 2022.07.06 ~ 현재진행중 <br><br>
 > (주)동화기업 > 모바일담당 (노원상 대리) <br><br>
 
 - Technical Lead
@@ -382,6 +391,7 @@ APNS 인증서 (p12 -> p8) 변환작업 적용 (Sandbox+Product)
 - Technical Lead
 
 ```sh
+ React-Native(TypeScript, junit, Java,kotlin)
  Dependency managment(npm, pods, gradle, python script )
  Redux pattern(Redux-observable,Redux Hook)
  certification(self-authentication,fingerPrint,faceID,simple authentication)
@@ -429,7 +439,7 @@ APNS 인증서 (p12 -> p8) 변환작업 적용 (Sandbox+Product)
 - Technical Lead
 
 ```sh
-  React-Native(TypeScript, junit, Objective-C, Java,kotlin)
+  React-Native(TypeScript, junit, Java,kotlin)
   Redux pattern(redux-observable)
   Cache(SQLite, Typeorm)
   Security(Proguard, Rooting guard, RSA, AES)
@@ -482,7 +492,7 @@ APNS 인증서 (p12 -> p8) 변환작업 적용 (Sandbox+Product)
 - Technical Lead
 
 ```sh
-  React-Native(TypeScript, junit, Objective-C, Java)
+  React-Native(TypeScript, junit, Java)
   Redux pattern(redux-observable)
   Cache(SQLite, Typeorm)
   Security(Proguard, Rooting guard, RSA, AES)
