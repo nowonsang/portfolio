@@ -129,20 +129,21 @@
 
 <div>
 <img src="./images/hybridApp/app.png" width="150">
-<img src="./images/hybridApp/GreenNet1.jpeg" width="150">
-<img src="./images/hybridApp/GreenNet2.jpeg" width="150">
-<img src="./images/hybridApp/GreenNet3.jpeg" width="150">
-<img src="./images/hybridApp/GreenNet9.png" width="150">
-<img src="./images/hybridApp/D-Sales.jpeg" width="150">
-<img src="./images/hybridApp/D-Sales1.png" width="150">
-<img src="./images/hybridApp/D-Sales2.png" width="150">
-<img src="./images/hybridApp/D-Sales4.png" width="150">
-<img src="./images/hybridApp/D-Sales5.png" width="150">
-<img src="./images/hybridApp/D-Partners.png" width="150">
-<img src="./images/hybridApp/D-Partners2.png" width="150">
-<img src="./images/hybridApp/D-RMS.png" width="150">
-<img src="./images/hybridApp/D-RMS2.png" width="150">
-<img src="./images/hybridApp/it-service.png" width="150">
+<img src="./images/hybridApp/image_1.png" width="150">
+<img src="./images/hybridApp/image_2.png" width="150">
+<img src="./images/hybridApp/image_3.png" width="150">
+<img src="./images/hybridApp/image_4.png" width="150">
+<img src="./images/hybridApp/image_5.png" width="150">
+<img src="./images/hybridApp/image_6.png" width="150">
+<img src="./images/hybridApp/image_7.png" width="150">
+<img src="./images/hybridApp/image_9.png" width="150">
+<img src="./images/hybridApp/image_10.png" width="150">
+<img src="./images/hybridApp/image_11.png" width="150">
+<img src="./images/hybridApp/image_12.png" width="150">
+<img src="./images/hybridApp/image_13.png" width="150">
+<img src="./images/hybridApp/image_14.png" width="150">
+<img src="./images/hybridApp/image_15.png" width="150">
+<img src="./images/hybridApp/image_16.png" width="150">
 </div>
 
 <br>
@@ -381,7 +382,6 @@ APNS 인증서 (p12 -> p8) 변환작업 적용 (Sandbox+Product)
 - Technical Lead
 
 ```sh
- CrossPlatform(Morpheus)
  Dependency managment(npm, pods, gradle, python script )
  Redux pattern(Redux-observable,Redux Hook)
  certification(self-authentication,fingerPrint,faceID,simple authentication)
