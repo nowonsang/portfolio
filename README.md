@@ -199,9 +199,9 @@
 <div>
   <img src="./images/hybridApp/webApp/App1.png" width="150">
   <img src="./images/hybridApp/webApp/Smart-Factory.jpeg" width="150">
-  <img src="./images/hybridApp/webApp/D-FactoryIn2.png" width="150">
   <img src="./images/hybridApp/webApp/D-Logis.jpeg" width="150" >
   <img src="./images/hybridApp/webApp/DRMS_VN.jpeg" width="150" >
+  <img src="./images/hybridApp/webApp/D-FactoryIn2.png" width="150">
   <img src="./images/hybridApp/webApp/NaitveModule.png" width="150">
 </div>
 
