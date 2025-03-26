@@ -89,7 +89,7 @@
 
 # hybrid 프로젝트
 
-## 하이브리드 앱 (직원관리,원재료 관리,자재 영업관리,대리점 영업관리 모바일 앱) 유지보수/고도화
+## 하이브리드 앱 (직원관리, 원재료 관리, 자재 영업관리, 대리점 영업관리) 유지보수/고도화
 
 > <br>유지보수 : 2022.07.06 ~ 현재진행중 <br><br>
 > 동화기업(주) > 모바일담당 (노원상 대리) <br><br>
@@ -107,31 +107,31 @@
 - Technical Lead
 
 ```sh
-  And(Java17,RxJava,Webview)
-  ios(Object-C,WKWebView)
-  CrossPlatform(Morpheus,javaScript,jQuery,CSS)
-  Network(RestfulApi,Spring)
-  Monitoring(Whatap,crashReport)
-  DB(Mysql)
-  Pattern(MVC)
-  Security(Proguard,RSA, AES)
-  Dependency managment(firebase,Upns,Apns)
-  CI/CD(CodeCommit)
+And(Java17,RxJava,Webview)
+ios(Object-C,WKWebView)
+CrossPlatform(Morpheus,javaScript,jQuery,CSS)
+Network(RestfulApi,Spring)
+Monitoring(Whatap,crashReport)
+DB(Mysql)
+Pattern(MVC)
+Security(Proguard,RSA, AES)
+Dependency managment(firebase,Upns,Apns)
+CI/CD(CodeCommit)
 ```
 
 - Key Responsibilities
 
 ```sh
-  [1인 유지보수 & 고도화 및 신규개발]
+[1인 유지보수 & 고도화 및 신규개발]
 
-  모바일 로그인 통합체계 개발 (AD인증 -> M365 oAuth 로그인)
-  모바일 push 디테일 컨트롤 기능 개발 (전자결재 -> IOS,Android 뱃지 카운트 동기화)
-  모바일 AI 스마트렌즈 개발 (자재 패턴정보 분석,추천)
-  Web <-> 모바일 앱 Connect 단축링크 개발
-  모바일 (원지재고 조회,BI 서비스, 휴가신청, 인포메이션, 업무서비스, 긴급공지사항) 신규개발
-  모바일 AS 기사/특판 ImagePicker 쟈체개선 (이미지 로드 속도 약 10초 → 1초 , 저화질 -> 초고화질)
+모바일 로그인 통합 인증체계 개발 (AD인증 -> M365 oAuth 로그인)
+모바일 push 디테일 컨트롤 기능 개발 (전자결재 -> IOS , Android 뱃지 카운트 동기화)
+모바일 AI 스마트렌즈 개발
+web <-> 모바일 앱 접속 단축링크 개발
+모바일 (원지재고 조회 , BI 서비스, 휴가신청, 인포메이션, 업무 서비스, 긴급공지사항) 신규 서비스 개발
+모바일 AS 기사/특판 ImagePicker 자체개선 (이미지 로드 속도 약 10초 -> 1초 , 저화질 -> 초고화질)
 
-  약 150개이상의 개선개발 및 & 자체개선 & 이슈처리 (GreenNet, D-RMS, D-Sales, D-Partners, IT-Service)
+약 100개 이상의 개선개발 및 자체개선 & 이슈처리 (GreenNet, D-RMS, D-Sales, D-Partners, IT-Service)
 ```
 
 <br>
@@ -163,6 +163,8 @@
 > 동화기업(주) > 모바일담당 (노원상 대리) <br><br>
 > 대상앱 : D-Logis, Smart-Factory, D-RMS VN <br><br>
 
+- Introduction
+
 ```sh
 'D-Logis', 'Smart-Factory', 'D-RMS VN' 3개의 모바일앱은
 배송 기사들이 운송장을 효율적으로 출력하여 고객에게 정확한 제품을 전달할 수 있도록 지원하고,
@@ -173,24 +175,24 @@
 - Technical Lead
 
 ```sh
-  And(Java17,Webview)
-  ios(Object-C,WKWebView)
-  CrossPlatform(Morpheus,javaScript,jQuery,CSS)
-  Native Bridge (ios/android)
-  Security(Proguard)
-  Dependency managment(firebase,Upns,Apns)
-  CI/CD(CodeCommit)
+And(Java17,Webview)
+ios(Object-C,WKWebView)
+CrossPlatform(Morpheus,javaScript,jQuery,CSS)
+Native Bridge (ios/android)
+Security(Proguard)
+Dependency managment(firebase,Upns,Apns)
+CI/CD(CodeCommit)
 ```
 
 - Key Responsibilities
 
 ```sh
 
-  [1인 유지보수 및 고도화]
+[1인 유지보수 및 고도화]
 
-  파일 다운로드 기능 추가
-  서브앱 로그인 기능 추가
-  Web <-> Native Bridge 모듈 개발 (토스트 메세지표시,앱스토리지 저장/조회,시스템 브라우저 호출, 앱전역변수 저장/조회)
+파일 다운로드 기능 추가
+서브앱 로그인 기능 추가
+WebView Bridge 개발 ( 토스트 메세지표시, 앱스토리지 저장/조회 , 시스템 브라우저 호출 , 앱 전역변수 저장/조회)
 
 ```
 
@@ -210,6 +212,8 @@
 > <br>개발기간 : 2023.11.20 ~ 2024.01.25 <br><br>
 > 동화기업(주) > 모바일담당 (노원상 대리) <br><br>
 
+- Introduction
+
 ```sh
 'VRGDW Store'는 고객이 모바일로 제품을 주문하고, 주문 현황과 보고서를 확인할 수 있는 비즈니스 전용 모바일 애플리케이션입니다.
 ```
@@ -217,25 +221,26 @@
 - Technical Lead
 
 ```sh
-  And(Java17,Webview)
-  ios(Object-C,WKWebView)
-  CrossPlatform(Morpheus,javaScript,jQuery,CSS)
-  Native Bridge (ios/android)
-  Security(Proguard)
-  Dependency managment(firebase,Upns,Apns)
-  CI/CD(CodeCommit)
+And(Java17,Webview)
+ios(Object-C,WKWebView)
+CrossPlatform(Morpheus,javaScript,jQuery,CSS)
+Native Bridge (ios/android)
+Security(Proguard)
+Dependency managment(firebase,Upns,Apns)
+CI/CD(CodeCommit)
 ```
 
 - Key Responsibilities
 
 ```sh
-  [1인 개발]
+[1인 개발]
 
-  WebView,WKWebView 새로고침 모션 추가
-  push 알림 추가
-  Web <-> Native Bridge 모듈 개발 (토스트 메세지표시,앱스토리지 저장/조회,시스템 브라우저 호출, 앱전역변수 저장/조회)
-  GooglePlay 공개 배포
-  AppStore 비공개 배포
+WebView Bridge 개발 ( 토스트 메세지표시, 앱스토리지 저장/조회 , 시스템 브라우저 호출 , 앱 전역변수 저장/조회)
+Mobile Push 연동 (Android , ios)
+WebView, WKWebView -> 모션 및 파일 다운로드 기능 추가
+GooglePlay 공개 배포
+AppStore 비공개 배포
+
 ```
 
 <br>
@@ -253,6 +258,8 @@
 > <br>개발기간 : 2022.09.20 ~ 2023.12.31 <br><br>
 > 동화기업(주) > 모바일담당 (노원상 대리) <br><br>
 
+- Introduction
+
 ```sh
 'VRGDW D-Sales' 모바일앱은 베트남 지역에서의 수기로 이루어지던 영업, 물류 업무 프로세스를 디지털 전환하여 휴먼 에러를 줄이고 업무 효율성을 높여 이용 고객의 편의성을 높이고자
 만든 영업 지원용 모바일 애플리케이션입니다.
@@ -261,25 +268,25 @@
 - Technical Lead
 
 ```sh
-  And (Java17,Webview)
-  ios (Object-C,WKWebView)
-  CrossPlatform (Morpheus,javaScript,jQuery,CSS)
-  Native Bridge (ios/android)
-  Security (Proguard)
-  Dependency managment (firebase,Upns,Apns)
-  CI/CD (CodeCommit)
+And (Java17,Webview)
+ios (Object-C,WKWebView)
+CrossPlatform (Morpheus,javaScript,jQuery,CSS)
+Native Bridge (ios/android)
+Security (Proguard)
+Dependency managment (firebase,Upns,Apns)
+CI/CD (CodeCommit)
 ```
 
 - Key Responsibilities
 
 ```sh
-  [1인 개발]
+[1인 개발]
 
-  WebView,WKWebView 새로고침 모션 추가
-  push 알림 추가
-  Web <-> Native Bridge 모듈 개발 (토스트 메세지표시,앱스토리지 저장/조회,시스템 브라우저 호출, 앱전역변수 저장/조회)
-  GooglePlay 공개 배포
-  AppStore 비공개 배포
+WebView Bridge 개발 ( 토스트 메세지표시, 앱스토리지 저장/조회 , 시스템 브라우저 호출 , 앱 전역변수 저장/조회)
+Mobile Push 연동 (Android , ios)
+WebView, WKWebView -> 모션 및 파일 다운로드 기능 추가
+GooglePlay 공개 배포
+AppStore 비공개 배포
 ```
 
 <br>
@@ -301,28 +308,20 @@
 - Technical Lead
 
 ```sh
-  And (GoogleStore,Release apk)
-  ios (AppStore,Enterprise)
+And (GoogleStore,Release apk)
+ios (AppStore,Enterprise)
 ```
 
 - Key Responsibilities
 
 ```sh
-[Android]
-
-Android SDK 29 -> SDK 35 배포
-Google 보안정책 변경대응 (Android)
-Google 프로텍트 감지 & 출처 미상 App 대응
-FCM -> HTTP v1로 변경작업 진행
-
-[IOS]
-
-Xcode (13.2 -> 16.2)
-Apple 보안정책 변경대응 (IOS)
-IOS (기업용,스토어용 계정) 관리
-IOS 인증서 관리 (push,profile,distriution)
-APNS 인증서 (p12 -> p8) 변환작업 적용 (Sandbox+Product)
-배포관리 (비공개배포,공개배포)
+Android (SDK29 -> SDK 35) update
+IOS (13.2 -> 16.2) update
+Google, Apple 보안 정책 대응
+Play Google Console ,  App Store Connect ( 계정, 스토어 앱, 기업용 앱 , 공개/비공개 배포) 관리
+모바일 인증서관리 (distribution , apns , profile)
+Google 프로텍트 감지 & 출처 미상 App 대응 경험
+FCM -> v1 로 변경작업
 ```
 
 <div>
@@ -341,36 +340,33 @@ APNS 인증서 (p12 -> p8) 변환작업 적용 (Sandbox+Product)
 - Technical Lead
 
 ```sh
-  AWS (EC2, RDS, Redis, Route 53, Network ACL, CloudFront, Waf)
-  Application Server (Tomcat8)
-  Build Tool (Maven)
-  Framework (Spring Framework 4, MyBatis, Stored Procedure)
-  Architecture Pattern (MVC)
-  Database: (MySQL)
-  Security: (JWT, RSA, AES, OAuth)
-  OS: (Linux)
-  Monitoring: (Whatap)
+AWS (EC2, RDS, Redis, Route 53, Network ACL, CloudFront, Waf)
+Application Server (Tomcat8)
+Build Tool (Maven)
+Framework (Spring Framework 4, MyBatis, Stored Procedure)
+Architecture Pattern (MVC)
+Database: (MySQL)
+Security: (JWT, RSA, AES, OAuth)
+OS: (Linux)
+Monitoring: (Whatap)
 ```
 
 - Key Responsibilities
 
 ```sh
-  [1인 유지보수]
+[1인 유지보수]
 
-   모바일 API 개발 및 정기적인 유지보수(서버용량 관리 , CPU 관리, Heap Memory 관리)
-   Aurora Mysql(2.11.2) 5.7 → Aurora Mysql(3.0.x) 8.0 (메이저 업그레이드 진행)
-   Redis 클러스터 (3.2.10) -> Redis (7.0.7) 업그레이드 진행
-   인프라 트래픽관리 (WAF,ACL)
+모바일 API 개발 및 정기적인 유지보수 ( 서버용량 관리 , CPU 관리 , Heap Memory 관리)
+Aurora Mysql(2.11.2) 5.7 → Aurora Mysql(3.0.x) 8.0 (메이저 업그레이드 진행)
+Redis 클러스터 (3.2.10) -> Redis (7.0.7) 업그레이드 진행
+트래픽관리 (WAF,ACL)
+
 ```
 
 <div>
   <img src="./images/infra/server1.png" width="300">
   <img src="./images/infra/server2.png" width="430">
 </div>
-
-<br><br>
-
----
 
 <br><br><br>
 
