@@ -192,7 +192,7 @@ CI/CD(CodeCommit)
 
 파일 다운로드 기능 추가
 서브앱 로그인 기능 추가
-WebView Bridge 개발 ( 토스트 메세지표시, 앱스토리지 저장/조회 , 시스템 브라우저 호출 , 앱 전역변수 저장/조회)
+JavaScript Bridge 개발 ( 토스트 메세지표시, 앱스토리지 저장/조회 , 시스템 브라우저 호출 , 앱 전역변수 저장/조회)
 
 ```
 
@@ -235,7 +235,7 @@ CI/CD(CodeCommit)
 ```sh
 [1인 개발]
 
-WebView Bridge 개발 ( 토스트 메세지표시, 앱스토리지 저장/조회 , 시스템 브라우저 호출 , 앱 전역변수 저장/조회)
+JavaScript Bridge 개발 ( 토스트 메세지표시, 앱스토리지 저장/조회 , 시스템 브라우저 호출 , 앱 전역변수 저장/조회)
 Mobile Push 연동 (Android , ios)
 WebView, WKWebView -> 모션 및 파일 다운로드 기능 추가
 GooglePlay 공개 배포
@@ -282,7 +282,7 @@ CI/CD (CodeCommit)
 ```sh
 [1인 개발]
 
-WebView Bridge 개발 ( 토스트 메세지표시, 앱스토리지 저장/조회 , 시스템 브라우저 호출 , 앱 전역변수 저장/조회)
+javaSCript Bridge 개발 ( 토스트 메세지표시, 앱스토리지 저장/조회 , 시스템 브라우저 호출 , 앱 전역변수 저장/조회)
 Mobile Push 연동 (Android , ios)
 WebView, WKWebView -> 모션 및 파일 다운로드 기능 추가
 GooglePlay 공개 배포
