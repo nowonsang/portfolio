@@ -315,6 +315,8 @@ ios (AppStore,Enterprise)
 - Key Responsibilities
 
 ```sh
+[1인 유지보수]
+
 Android (SDK29 -> SDK 35) update
 IOS (13.2 -> 16.2) update
 Google, Apple 보안 정책 대응
