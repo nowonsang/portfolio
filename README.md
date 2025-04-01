@@ -130,7 +130,6 @@ CI/CD(CodeCommit)
 web <-> 모바일 앱 접속 단축링크 개발
 모바일 (원지재고 조회 , BI 서비스, 휴가신청, 인포메이션, 업무 서비스, 긴급공지사항) 신규 서비스 개발
 모바일 AS 기사/특판 ImagePicker 자체개선 (이미지 로드 속도 약 10초 -> 1초 , 저화질 -> 초고화질)
-
 약 100개 이상의 개선개발 및 자체개선 & 이슈처리 (GreenNet, D-RMS, D-Sales, D-Partners, IT-Service)
 ```
 
@@ -390,7 +389,7 @@ Redis 클러스터 (3.2.10) -> Redis (7.0.7) 업그레이드 진행
 
 ```sh
  React-Native(TypeScript, junit, Java,kotlin)
- Dependency managment(npm, pods, gradle, python script )
+ Dependency managment(npm, pods, gradle,script )
  Redux pattern(Redux-observable,Redux Hook)
  certification(self-authentication,fingerPrint,faceID,simple authentication)
  CI/CD(Gitlab, Fastlane)
@@ -584,9 +583,9 @@ Redis 클러스터 (3.2.10) -> Redis (7.0.7) 업그레이드 진행
 - Technical Lead
 
 ```sh
-  And(kotlin,Java12,RxJava)
+  And(kotlin,Java,RxJava)
   Network(RestfulApi)
-  Pattern(MVC)
+  Pattern(MVC,MVVM)
   Security(Proguard,RSA, AES)
   Dependency managment(firebase)
   CI/CD(Gitlab, FastLane)
