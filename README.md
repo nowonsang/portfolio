@@ -44,7 +44,7 @@
 - 하이브리드 웹앱(Morpheus,WebView,Native bridge)
   - 2개의 앱 유지보수
   - 2개의 앱 개발
-- IOS,Android 앱 현상관리
+- IOS,Android 앱 형상관리
   - Store
   - Enterprise
 - 모바일 서버 관리
@@ -299,7 +299,7 @@ AppStore 비공개 배포
 
 <br><br>
 
-## IOS,Android 앱 현상관리 (Store,Enterprise)
+## IOS,Android 앱 형상관리 (Store,Enterprise)
 
 > <br>유지보수 : 2022.07.06 ~ 현재진행중 <br><br>
 > 동화기업(주) > 모바일담당 (노원상 대리) <br><br>
