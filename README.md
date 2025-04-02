@@ -307,8 +307,8 @@ AppStore 비공개 배포
 - Technical Lead
 
 ```sh
-And (GoogleStore,Release apk)
-ios (AppStore,Enterprise)
+And (GoogleStore,Release apk,Java17)
+ios (AppStore,Enterprise,Object-C)
 ```
 
 - Key Responsibilities
@@ -347,7 +347,7 @@ Build Tool (Maven)
 Framework (Spring Framework 4, MyBatis, Stored Procedure)
 Architecture Pattern (MVC)
 Database: (MySQL)
-Security: (JWT, RSA, AES, OAuth)
+Security: (JWT, OAuth)
 OS: (Linux)
 Monitoring: (Whatap)
 ```
@@ -388,7 +388,7 @@ Redis 클러스터 (3.2.10) -> Redis (7.0.7) 업그레이드 진행
 - Technical Lead
 
 ```sh
- React-Native(TypeScript, junit, Java,kotlin)
+ React-Native(TypeScript, Java,kotlin)
  Dependency managment(npm, pods, gradle,script )
  Redux pattern(Redux-observable,Redux Hook)
  certification(self-authentication,fingerPrint,faceID,simple authentication)
@@ -436,7 +436,7 @@ Redis 클러스터 (3.2.10) -> Redis (7.0.7) 업그레이드 진행
 - Technical Lead
 
 ```sh
-  React-Native(TypeScript, junit, Java,kotlin)
+  React-Native(TypeScript,Java,kotlin)
   Redux pattern(redux-observable)
   Cache(SQLite, Typeorm)
   Security(Proguard, Rooting guard, RSA, AES)
@@ -489,7 +489,7 @@ Redis 클러스터 (3.2.10) -> Redis (7.0.7) 업그레이드 진행
 - Technical Lead
 
 ```sh
-  React-Native(TypeScript, junit, Java)
+  React-Native(TypeScript, Java)
   Redux pattern(redux-observable)
   Cache(SQLite, Typeorm)
   Security(Proguard, Rooting guard, RSA, AES)
