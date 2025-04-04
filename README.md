@@ -115,7 +115,7 @@ Monitoring(Whatap)
 DB(Mysql)
 Pattern(MVC)
 Security(Proguard,RSA, AES)
-Dependency managment(firebase,Upns,Apns)
+Dependency managment(firebase,Apns)
 CI/CD(CodeCommit)
 ```
 
@@ -224,7 +224,7 @@ ios(Object-C,WKWebView)
 CrossPlatform(Morpheus,javaScript,jQuery,CSS)
 Native Bridge (ios/android)
 Security(Proguard)
-Dependency managment(firebase,Upns,Apns)
+Dependency managment(firebase,Apns)
 CI/CD(CodeCommit)
 ```
 
@@ -271,7 +271,7 @@ ios (Object-C,WKWebView)
 CrossPlatform (Morpheus,javaScript,jQuery,CSS)
 Native Bridge (ios/android)
 Security (Proguard)
-Dependency managment (firebase,Upns,Apns)
+Dependency managment (firebase,Apns)
 CI/CD (CodeCommit)
 ```
 
