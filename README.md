@@ -388,6 +388,7 @@ Redis 클러스터 (3.2.10) -> Redis (7.0.7) 업그레이드 진행
 
 ```sh
  React-Native(TypeScript, Java,kotlin)
+ Security(Proguard,Rooting guard,RSA,AES,Sign)
  Dependency managment(npm, pods, gradle,script )
  Redux pattern(Redux-observable,Redux Hook)
  certification(self-authentication,fingerPrint,faceID,simple authentication)
