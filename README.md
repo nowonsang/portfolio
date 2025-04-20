@@ -195,7 +195,7 @@ AI Utilization(GPT-4 , Grok3)
 
 ## 하이브리드 웹앱 (생산관리,운송사관리,운송장,베트남 원재료관리) 유지보수/고도화
 
-**앱명**: D-Logis , Smart-Factory , D-RMS VN (3종)
+**앱명**: D-Logis , Smart-Factory , D-RMS VN (3종)<br>
 **회사**: 동화기업㈜  
 **기간**: 2022.07.06 ~ 현재  
 **운영 인원**: 1인 단독 운영  
