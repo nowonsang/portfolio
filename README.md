@@ -19,16 +19,16 @@
 [동화기업 회사정보 확인](https://www.dongwha.com/main/main.asp)
 
 - **하이브리드 앱 5종 단독 유지보수 및 기능 개선**
-  - GreenNet, D-RMS, D-Sales, D-Partners, IT-Service
+  - GreenNet, D-RMS, D-Sales, D-Partners, IT-Service<br>
 - **하이브리드 웹앱 3종 단독 유지보수**
   - D-Logis, Smart-Factory, D-RMS VN
 - **신규 앱 개발**
   - VRGDW Store (베트남 고객용 주문관리 앱)
-  - VRGDW D-Sales (베트남 자재 영업관리 앱)
-- **10개 이상의 Android/iOS 하이브리드 앱 단독 운영 및 스토어 배포**
-- **Spring + MySQL 기반 API 및 AWS 서버/인프라 운영**
-- **JWT, OAuth 2.0 기반 보안 인증 설계 및 적용**
-- **Web <-> Native Bridge & Native Module 설계 및 적용**
+  - VRGDW D-Sales (베트남 자재 영업관리 앱)<br>
+- **10개 이상의 Android/iOS 하이브리드 앱 단독 운영 및 스토어 배포**<br>
+- **Spring + MySQL 기반 API 및 AWS 서버/인프라 운영**<br>
+- **JWT, OAuth 2.0 기반 보안 인증 설계 및 적용**<br>
+- **Web <-> Native Bridge & Native Module 설계 및 적용**<br>
 
 ### 🔹 (주) 더존비즈온 | 2019.07.15 ~ 2022.01.13
 
@@ -38,15 +38,15 @@
   - Nahago (임금명세서, 출퇴근관리, 연말정산 기능)
   - NAYANA → 우리도 (강원도청 강원도민 대상)
   - WehagoOne (정부 과제 블록체인 간편계약)
-  - WehagoSign (전자서명 인증 서비스)
+  - WehagoSign (전자서명 인증 서비스)<br>
 - **Android 앱 유지보수 및 기능 개선**
-  - Wehago (B2B 협업 플랫폼)
+  - Wehago (B2B 협업 플랫폼)<br>
 - **보안 기술 경험**
-  - Sign-Then-Encrypt (RSA + AES + Signature)
-- **회사 내 최초 React Native 프로젝트 도입 및 아키텍처 설계 주도**
-- **정부 과제 프로젝트 성공경험 -> 정부 지원금 지급 및 성과 인정**
-- **JIRA, GitLab, Wiki 기반의 협업 환경 운영**
-- **Redux 상태관리 사내 전체 교육 진행 (+테크톡)**
+  - Sign-Then-Encrypt (RSA + AES + Signature)<br>
+- **회사 내 최초 React Native 프로젝트 도입 및 아키텍처 설계 주도**<br>
+- **정부 과제 프로젝트 성공경험 -> 정부 지원금 지급 및 성과 인정**<br>
+- **JIRA, GitLab, Wiki 기반의 협업 환경 운영**<br>
+- **Redux 상태관리 사내 전체 교육 진행 (+테크톡)**<br>
 
 ### 🔹 인턴 활동
 
