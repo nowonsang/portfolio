@@ -112,13 +112,13 @@
 
 <div>
 <a href="https://github.com/nowonsang/portfolio/blob/main/images/education/education1_file.pdf">
-<img src="./images/education/education_1.png" width="450">
+<img src="./images/education/education_1.png" width="300">
 </a>
 <a href="https://github.com/nowonsang/portfolio/blob/main/images/education/education2_file.pdf">
-<img src="./images/education/education_2.png" width="450">
+<img src="./images/education/education_2.png" width="300">
 </a>
 <a href="https://github.com/nowonsang/portfolio/blob/main/images/education/education3_file.pdf">
-<img src="./images/education/education_3.png" width="450">
+<img src="./images/education/education_3.png" width="300">
 </a>
 </div>
 
