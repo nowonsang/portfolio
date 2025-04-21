@@ -149,21 +149,19 @@
 
 ### ⚙️ 기술 스택 (Technical Lead)
 
-```sh
-Android(Java, RxJava, WebView)
-iOS(Objective-C, WKWebView)
-Hybrid(Morpheus,JavaScript, jQuery, CSS)
-Backend(Spring, RESTful API)
-DB(MySQL,Sqlite)
-Architecture(Clean Architecture)
-Security(Proguard, OAuth 2.0, JWT)
-Push & Dependency(Firebase, APNs)
-Debugging(Chrome DevTools, Safari Web Inspector, Remote Log)
-CI/CD(CodeCommit, CodeBuild, CodeDeploy, AWS pipeLine)
-Certificate Management(Signing, Provisioning, Key 관리)
-Monitoring(Whatap, Google Analytics)
-AI Utilization(GPT-4 , Grok3)
-```
+- **Android**: Java, RxJava, WebView
+- **iOS**: Objective-C, WKWebView
+- **Hybrid**: Morpheus, JavaScript, jQuery, CSS
+- **Backend**: Spring, RESTful API
+- **DB**: MySQL, SQLite
+- **Architecture**: Clean Architecture
+- **Security**: Proguard, OAuth 2.0, JWT
+- **Push & Dependency**: Firebase, APNs
+- **Debugging**: Chrome DevTools, Safari Web Inspector, Remote Log
+- **CI/CD**: CodeCommit, CodeBuild, CodeDeploy, AWS Pipeline
+- **Certificate Management**: Signing, Provisioning, Key 관리
+- **Monitoring**: Whatap, Google Analytics
+- **AI Utilization**: GPT-4, Grok3
 
 ### 🚀 주요 성과 (Key Achievements)
 
@@ -214,20 +212,17 @@ AI Utilization(GPT-4 , Grok3)
 
 ### ⚙️ 기술 스택 (Technical Lead)
 
-```sh
-Android (Java, WebView, URL Scheme, File Download, Custom Popup)
-iOS (Objective-C, WKWebView, Safari Inspector, Provisioning)
-Hybrid (Morpheus, JavaScript, jQuery, CSS)
-Native Module (Android/iOS JS Bridge)
-WebView Control (Window, File Download, Console Redirect)
-Debugging (Chrome DevTools, Safari Web Inspector, Remote Log)
-Security (Proguard, KeyStore/Keychain)
-Dependency Management (Firebase, APNs)
-CI/CD(CodeCommit, CodeBuild, CodeDeploy, AWS pipeLine)
-Certificate Management (Signing, Provisioning, Key)
-Monitoring (Whatap, Google Analytics)
-AI Utilization (GPT-4, Cursor)
-```
+- **Android**: Java, WebView, URL Scheme, File Download, Custom Popup
+- **iOS**: Objective-C, WKWebView, Safari Inspector, Provisioning
+- **Hybrid**: Morpheus, JavaScript, jQuery, CSS
+- **Native Module**: Android/iOS JS Bridge
+- **WebView Control**: Window, File Download, Console Redirect
+- **Debugging**: Chrome DevTools, Safari Web Inspector, Remote Log
+- **Dependency Management**: Firebase, APNs
+- **CI/CD**: CodeCommit, CodeBuild, CodeDeploy, AWS Pipeline
+- **Certificate Management**: Signing, Provisioning, Key
+- **Monitoring**: Whatap, Google Analytics
+- **AI Utilization**: GPT-4, Cursor
 
 ### 🚀 주요 성과 (Key Achievements)
 
@@ -265,20 +260,18 @@ JS ↔ Native 연동 구조 직접 구현 (브릿지 모듈을 직접 설계 및
 
 ### ⚙️ 기술 스택 (Technical Lead)
 
-```sh
-Android(Java, WebView, URL Scheme, File Download, Custom Popup)
-iOS(Objective-C, WKWebView, Safari Inspector, Provisioning 관리)
-Hybrid(Morpheus, JavaScript, jQuery, CSS)
-NativeModule(Android/iOS JS Bridge 구현)
-WebView Control(Window, File Download, Console Redirect)
-Debugging(Chrome DevTools, Safari Web Inspector, Remote Log)
-Security(Proguard, KeyStore/Keychain)
-Dependency Management(Firebase, APNs)
-CI/CD(CodeCommit, CodeBuild, CodeDeploy, AWS pipeLine)
-Certificate Management(Signing, Provisioning, Key 관리)
-Monitoring(Whatap , Google Analytics)
-AI Utilization(GPT-4, Cursor)
-```
+- **Android**: Java, WebView, URL Scheme, File Download, Custom Popup
+- **iOS**: Objective-C, WKWebView, Safari Inspector, Provisioning 관리
+- **Hybrid**: Morpheus, JavaScript, jQuery, CSS
+- **Native Module**: Android/iOS JS Bridge 구현
+- **WebView Control**: Window, File Download, Console Redirect
+- **Debugging**: Chrome DevTools, Safari Web Inspector, Remote Log
+- **Security**: Proguard
+- **Dependency Management**: Firebase, APNs
+- **CI/CD**: CodeCommit, CodeBuild, CodeDeploy, AWS Pipeline
+- **Certificate Management**: Signing, Provisioning, Key 관리
+- **Monitoring**: Whatap, Google Analytics
+- **AI Utilization**: GPT-4, Cursor
 
 ### 🚀 주요 성과 (Key Achievements)
 
@@ -317,19 +310,17 @@ GooglePlay ,AppStore 배포
 
 ### ⚙️ 기술 스택 (Technical Lead)
 
-```sh
-Android(Java, WebView, URL Scheme, File Download, Custom Popup)
-iOS(Objective-C, WKWebView, Safari Inspector, Provisioning 관리)
-Hybrid(Morpheus, JavaScript, jQuery, CSS)
-NativeModule(Android/iOS JS Bridge 구현)
-WebView Control(Window, File Download, Console Redirect)
-Debugging(Chrome DevTools, Safari Web Inspector, Remote Log)
-Security(Proguard, KeyStore/Keychain)
-Dependency Management(Firebase, APNs)
-CI/CD(CodeCommit, CodeBuild, CodeDeploy, AWS pipeLine)
-Certificate Management(Signing, Provisioning, Key 관리)
-Monitoring(Whatap , Google Analytics)
-```
+- **Android**: Java, WebView, URL Scheme, File Download, Custom Popup
+- **iOS**: Objective-C, WKWebView, Safari Inspector, Provisioning 관리
+- **Hybrid**: Morpheus, JavaScript, jQuery, CSS
+- **Native Module**: Android/iOS JS Bridge 구현
+- **WebView Control**: Window, File Download, Console Redirect
+- **Debugging**: Chrome DevTools, Safari Web Inspector, Remote Log
+- **Security**: Proguard
+- **Dependency Management**: Firebase, APNs
+- **CI/CD**: CodeCommit, CodeBuild, CodeDeploy, AWS Pipeline
+- **Certificate Management**: Signing, Provisioning, Key 관리
+- **Monitoring**: Whatap, Google Analytics
 
 ### 🚀 주요 성과 (Key Achievements)
 
@@ -365,12 +356,10 @@ Google Play 및 Apple App Store 내 앱 런칭 완료 (국내/해외 배포 경�
 
 ### ⚙️ 기술 스택 (Technical Lead)
 
-```sh
-Deployment: Google Play Console, Apple App Store, Apple Enterprise
-Monitoring: Whatap, Google Analytics
-App Authentication and Security: Apple Provisioning, Developer Certificate
-Version Control: Semantic Versioning
-```
+- **Deployment**: Google Play Console, Apple App Store, Apple Enterprise
+- **Monitoring**: Whatap, Google Analytics
+- **App Authentication and Security**: Apple Provisioning, Developer Certificate
+- **Version Control**: Semantic Versioning
 
 ### 🚀 주요 성과 (Key Achievements)
 
@@ -402,16 +391,14 @@ Google Play Protect 미확인 앱 경고 대응
 
 ### ⚙️ 기술 스택 (Technical Lead)
 
-```sh
-AWS (EC2, RDS (Aurora MySQL 8.0), ElastiCache (Redis), Route 53, CloudFront, WAF, Network ACL)
-Application Server (Tomcat)
-Build Tool (Maven, CodeBuild, CodeCommit)
-Framework (Spring, MyBatis, Stored Procedure)
-Database (MySQL)
-OS: (Linux)
-Monitoring: (Whatap, AWS CloudWatch)
-기타: (Shell Script, crontab)
-```
+- **AWS**: EC2, RDS (Aurora MySQL 8.0), ElastiCache (Redis), Route 53, CloudFront, WAF, Network ACL
+- **Application Server**: Tomcat
+- **Build Tool**: Maven, CodeBuild, CodeCommit
+- **Framework**: Spring, MyBatis, Stored Procedure
+- **Database**: MySQL
+- **OS**: Linux
+- **Monitoring**: Whatap, AWS CloudWatch
+- **기타**: Shell Script, crontab
 
 ### 🚀 주요 성과 (Key Achievements)
 
@@ -448,18 +435,16 @@ AWS Aurora MySQL 업그레이드: Aurora MySQL (2.11.2 / 5.7) → Aurora MySQL (
 
 ### ⚙️ 기술 스택 (Technical Lead)
 
-```sh
-React Native (TypeScript, JavaScript)
-State Management (Redux, Redux Toolkit, Redux-Observable, React Context, React Query)
-React (Hooks 기반 함수형 컴포넌트 개발, Class → Function Component 전환 경험)
-Architecture (Clean Architecture, MVVM)
-Reactive Programming (ReactiveX, RxJS, RxJava)
-Authentication & Authorization (OAuth 2.0, Self-authentication, Fingerprint, Face ID, Simple Auth)
-API Integration (RESTful API, Axios, Retrofit)
-Native Module (Android Java/Kotlin)
-Security (Proguard, Rooting Guard, RSA, AES, App Signature)
-Dependency Management (NPM, CocoaPods, Gradle, Shell Script)
-```
+- **React Native**: TypeScript, JavaScript
+- **State Management**: Redux, Redux Toolkit, Redux-Observable, React Context, React Query
+- **React**: Hooks 기반 함수형 컴포넌트 개발, Class → Function Component 전환 경험
+- **Architecture**: Clean Architecture, MVVM
+- **Reactive Programming**: ReactiveX, RxJS, RxJava
+- **Authentication & Authorization**: OAuth 2.0, Self-authentication, Fingerprint, Face ID, Simple Auth
+- **API Integration**: RESTful API, Axios, Retrofit
+- **Native Module**: Android Java/Kotlin
+- **Security**: Proguard, Rooting Guard, RSA, AES, App Signature
+- **Dependency Management**: NPM, CocoaPods, Gradle, Shell Script
 
 ### 🚀 주요 성과 (Key Achievements)
 
@@ -468,7 +453,7 @@ Dependency Management (NPM, CocoaPods, Gradle, Shell Script)
 계정 관리 기능 구현 (회사 추가/해지, 간편비밀번호, 아이디/비밀번호 찾기 등)
 위하고앱 연동 기능 개발 및 통합 테스트 수행
 본인확인 모듈 구축 (PIN, Face ID, FIDO, NICE 인증 연동)
-보안 툴 연동 및 암호화 모듈 구성, 모바일 인증서 등록 기능 구현
+보안툴 암호화 모듈 세팅 & 전자서명 인증서 개발
 ```
 
 <div>
@@ -502,20 +487,18 @@ Dependency Management (NPM, CocoaPods, Gradle, Shell Script)
 
 ### ⚙️ 기술 스택 (Technical Lead)
 
-```sh
-React Native (TypeScript, JavaScript)
-Native Module (Android Java/Kotlin)
-State Management (Redux, Redux Toolkit, redux-observable, Middleware)
-React (Class Component)
-Reactive Programming (ReactiveX)
-Real-Time Communication (Jitsi-Meet 커스터마이징, WebRTC)
-Architecture (Clean Architecture)
-API Integration (RESTful API, Ajax,fetch)
-Local Storage & Caching (SQLite, TypeORM, Secure Storage (Keychain, Keystore))
-Security (Proguard, Rooting Guard, RSA, AES)
-Dependency Management (Yarn, CocoaPods, Gradle, Shell Script)
-Cloud Platform (Firebase)
-```
+- **React Native**: TypeScript, JavaScript
+- **Native Module**: Android Java/Kotlin
+- **State Management**: Redux, Redux Toolkit, redux-observable, Middleware
+- **React**: Class Component
+- **Reactive Programming**: ReactiveX
+- **Real-Time Communication**: Jitsi-Meet 커스터마이징, WebRTC
+- **Architecture**: Clean Architecture
+- **API Integration**: RESTful API, Ajax, fetch
+- **Local Storage & Caching**: SQLite, TypeORM, Secure Storage (Keychain, Keystore)
+- **Security**: Proguard, Rooting Guard, RSA, AES
+- **Dependency Management**: Yarn, CocoaPods, Gradle, Shell Script
+- **Cloud Platform**: Firebase
 
 ### 🚀 주요 성과 (Key Achievements)
 
@@ -546,6 +529,8 @@ Cloud Platform (Firebase)
 <img src="./images/nayana/nayana_image17.png" width="150">
 </div>
 
+<br>
+
 ## 위하고원(블록체인 간편계약 모바일 앱)
 
 **앱명**: WehagoOne <br>
@@ -557,26 +542,22 @@ Cloud Platform (Firebase)
 
 ### 🔍 프로젝트 소개
 
-```sh
- 정부 프로젝트 과학기술정보통신부·한국인터넷진흥원(KISA)의 ‘2020 블록체인 민간주도 국민 프로젝트’ 선정 과제로 선보인 블록체인 기술 기반의 소상공인과 개인을 위한 간편계약(구두계약) 앱 플랫폼
-```
+- 정부 프로젝트 과학기술정보통신부·한국인터넷진흥원(KISA)의 ‘2020 블록체인 민간주도 국민 프로젝트’ 선정 과제로 선보인 블록체인 기술 기반의 소상공인과 개인을 위한 간편계약(구두계약) 앱 플랫폼
 
 ### ⚙️ 기술 스택 (Technical Lead)
 
-```sh
-React Native (TypeScript, JavaScript)
-Native Module (Android Java/Kotlin)
-State Management (Redux, Redux Toolkit, redux-observable, Middleware)
-React (Class Component)
-Reactive Programming (ReactiveX)
-Real-Time Communication (Jitsi-Meet 커스터마이징, WebRTC)
-Architecture (Clean Architecture)
-API Integration (RESTful API, ajax, fetch)
-Local Storage & Caching (SQLite, TypeORM, Secure Storage (Keychain, Keystore))
-Security (Proguard, Rooting Guard, RSA, AES)
-Dependency Management (Yarn, CocoaPods, Gradle, Shell Script)
-Cloud Platform (Firebase)
-```
+- **React Native**: TypeScript, JavaScript
+- **Native Module**: Android Java/Kotlin
+- **State Management**: Redux, Redux Toolkit, redux-observable, Middleware
+- **React**: Class Component
+- **Reactive Programming**: ReactiveX
+- **Real-Time Communication**: Jitsi-Meet 커스터마이징, WebRTC
+- **Architecture**: Clean Architecture
+- **API Integration**: RESTful API, ajax, fetch
+- **Local Storage & Caching**: SQLite, TypeORM, Secure Storage (Keychain, Keystore)
+- **Security**: Proguard, Rooting Guard, RSA, AES
+- **Dependency Management**: Yarn, CocoaPods, Gradle, Shell Script
+- **Cloud Platform**: Firebase
 
 ### 🚀 주요 성과 (Key Achievements)
 
@@ -613,20 +594,18 @@ Cloud Platform (Firebase)
 
 ### ⚙️ 기술 스택 (Technical Lead)
 
-```sh
-React Native (Expo, TypeScript, JavaScript)
-Native Module (Android Java/Kotlin, iOS)
-React (Class Component 기반 개발 – componentDidMount, componentDidUpdate 등 Lifecycle 활용)
-State Management (Redux, redux-observable)
-Reactive Programming (ReactiveX)
-Architecture (Clean Architecture)
-Authentication & Authorization (OAuth 2.0)
-API Integration (RESTful API,ajax,fetch)
-Security (Proguard, Rooting Guard, RSA, AES)
-Local Storage & Caching (SQLite, Secure Storage (Keychain, Keystore))
-Dependency Management (Yarn, Shell Script)
-Cloud Platform (Firebase)
-```
+- **React Native**: Expo, TypeScript, JavaScript
+- **Native Module**: Android Java/Kotlin, iOS
+- **React**: Class Component 기반 개발 – componentDidMount, componentDidUpdate 등 Lifecycle 활용
+- **State Management**: Redux, redux-observable
+- **Reactive Programming**: ReactiveX
+- **Architecture**: Clean Architecture
+- **Authentication & Authorization**: OAuth 2.0
+- **API Integration**: RESTful API, ajax, fetch
+- **Security**: Proguard, Rooting Guard, RSA, AES
+- **Local Storage & Caching**: SQLite, Secure Storage (Keychain, Keystore)
+- **Dependency Management**: Yarn, Shell Script
+- **Cloud Platform**: Firebase
 
 ### 🚀 주요 성과 (Key Achievements)
 
@@ -671,23 +650,19 @@ Sign-Then-Encypt (RSA + AES + Signature) 을 이용한 보안 인증서 개발
 
 ### 🔍 프로젝트 소개
 
-```sh
- 기업의 다양한 업무환경에 필요한 온라인 비즈니스 플랫폼으로써 (원활한 소통, 효율적인 업무관리, 서비스연동, 신속한 업무처리, 안전한 데이터관 리등)의 서비스를 제공하는 모바일 앱입니다
-```
+- 기업의 다양한 업무환경에 필요한 온라인 비즈니스 플랫폼으로써 (원활한 소통, 효율적인 업무관리, 서비스연동, 신속한 업무처리, 안전한 데이터관 리등)의 서비스를 제공하는 모바일 앱입니다
 
 ### ⚙️ 기술 스택 (Technical Lead)
 
-```sh
-And (Java, Kotlin)
-Architecture (Clean Architecture,AAC)
-Reactive Programming (ReactiveX)
-API (Retrofit, Gson, OkHttp)
-Network (RESTful API)
-Push (Firebase Cloud Messaging)
-Storage (SharedPreferences, SQLite)
-Security (Proguard)
-Dependency Management (Firebase, Gradle)
-```
+- **Android**: Java, Kotlin
+- **Architecture**: Clean Architecture, AAC
+- **Reactive Programming**: ReactiveX
+- **API**: Retrofit, Gson, OkHttp
+- **Network**: RESTful API
+- **Push**: Firebase Cloud Messaging
+- **Storage**: SharedPreferences, SQLite
+- **Security**: Proguard
+- **Dependency Management**: Firebase, Gradle
 
 ### 🚀 주요 성과 (Key Achievements)
 
@@ -754,15 +729,12 @@ Dependency Management (Firebase, Gradle)
 
 ### ⚙️ 기술 스택 (Technical Lead)
 
-```sh
-And (Java, Android Studio)
-Drawing (Canvas, Paint, Path, Bitmap)
-Video Playback (VideoView, MediaPlayer)
-Touch Event Handling (onTouchEvent)
-Cache (SQLite)
-Security (Proguard, Rooting Guard)
-CI/CD (GitLab, Fastlane)
-```
+- **Android**: Java, Android Studio
+- **Drawing**: Canvas, Paint, Path, Bitmap
+- **Video Playback**: VideoView, MediaPlayer
+- **Touch Event Handling**: onTouchEvent
+- **Cache**: SQLite
+- **Security**: Proguard, Rooting Guard
 
 ### 🚀 주요 성과 (Key Achievements)
 
@@ -792,15 +764,12 @@ CI/CD (GitLab, Fastlane)
 
 ### ⚙️ 기술 스택 (Technical Lead)
 
-```sh
-And (Java, Android Studio)
-Drawing (Canvas, Paint, Path, Bitmap)
-Video Playback (VideoView, MediaPlayer)
-Touch Event Handling (onTouchEvent)
-Cache (SQLite)
-Security (Proguard, Rooting Guard)
-CI/CD (GitLab, Fastlane)
-```
+- **Android**: Java, Android Studio
+- **Drawing**: Canvas, Paint, Path, Bitmap
+- **Video Playback**: VideoView, MediaPlayer
+- **Touch Event Handling**: onTouchEvent
+- **Cache**: SQLite
+- **Security**: Proguard, Rooting Guard
 
 ### 🚀 주요 성과 (Key Achievements)
 
@@ -836,9 +805,7 @@ CI/CD (GitLab, Fastlane)
 
 ### ⚙️ 기술 스택 (Technical Lead)
 
-```sh
-  Unity(C#,vuforia,VR CardBoard)
-```
+- **Unity**: C#, Vuforia, VR Cardboard
 
 ### 🚀 주요 성과 (Key Achievements)
 
@@ -867,9 +834,7 @@ CI/CD (GitLab, Fastlane)
 
 ### ⚙️ 기술 스택 (Technical Lead)
 
-```sh
-  Unity(C#,VR CardBoard)
-```
+- **Unity**: C#, Vuforia, VR Cardboard
 
 ### 🚀 주요 성과 (Key Achievements)
 
@@ -900,9 +865,7 @@ CI/CD (GitLab, Fastlane)
 
 ### ⚙️ 기술 스택 (Technical Lead)
 
-```sh
-  Unity(C#,virtual reality,OVRPlyaerController)
-```
+- **Unity**: C#, Virtual Reality, OVRPlayerController
 
 ### 🚀 주요 성과 (Key Achievements)
 
