@@ -1,4 +1,4 @@
-# 노원상 | 6년 차 모바일 풀스택 개발자
+# 노원상 | 5년 차 모바일 풀스택 개발자
 
 안녕하세요. **React Native, Android, iOS, Spring 기반 서버 개발 경험을 두루 갖춘 모바일 풀스택 개발자 노원상 대리**입니다.
 
@@ -12,7 +12,7 @@
 
 <br>
 
-## 경력 요약
+## 경력 요약 (총 경력 : 5년 4개월)
 
 ### 🔹 동화기업(주) | 2022.07.06 ~ 재직중
 
@@ -77,14 +77,17 @@
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=flat-square&logo=Amazon%20AWS&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white)
 
-| 주요 사용 언어 / 기술 | 상세 내용                                                                                                                                                              |
-| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Java**              | - Android 네이티브 기능 & 모듈 개발<br>- WebView Bridge 구현<br>- Spring 기반 API 개발<br>- JWT, OAuth 2.0 인증 처리<br>- 모바일 백엔드 연동 포함한 풀사이클 개발 경험 |
-| **JavaScript**        | - Morpheus, JitsiMeet 기반 모바일 하이브리드 UI 개발 및 기능 개발<br>- JavaScript Bridge 직접 구현                                                                     |
-| **TypeScript**        | - React Native 기반 앱 개발<br>- Redux, React Query, RxJS 상태 관리 연계<br>- 안정적인 앱 구조 설계 및 구현 <br>- 비동기 통신 로직 설계                                |
-| **Objective-C**       | - iOS 네이티브 기능 & 모듈 개발<br>- WKWebView Bridge 구현<br>- iOS 배포 및 정책 대응                                                                                  |
-| **HTML & CSS**        | - 하이브리드 앱 내 웹 콘텐츠 마크업 및 스타일링<br>- 반응형 UI 적용<br>- 다수의 html 직접 구현                                                                         |
-| **Kotlin**            | - Kotlin 기반 명함 촬영 모듈 고도화                                                                                                                                    |
+## 🛠️ 기술 스택 및 상세 경험
+
+| 주요 사용 언어 / 기술 | 상세 내용                                                                                                                                                                                                                                                  |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Java**              | - Android 네이티브 기능 및 커스텀 모듈 개발<br>- WebView ↔ Native 간 양방향 Bridge 구현<br>- Spring 기반 REST API 서버 구축 및 운영<br>- JWT, OAuth 2.0 기반 인증 처리 및 보안 로직 구현<br>- Android 클라이언트와 백엔드 연동을 포함한 풀사이클 개발 경험 |
+| **TypeScript**        | - React Native 기반 하이브리드 앱 다수 단독 개발<br>- Redux, React Query, RxJS 등 상태 관리 라이브러리 적용<br>- 앱 구조 개선 및 안정적인 아키텍처 설계 경험<br>- 비동기 처리 및 에러 핸들링 로직 체계화                                                   |
+| **JavaScript**        | - Morpheus 기반 하이브리드 웹 앱 UI 및 기능 개발<br>- JavaScript-Native Bridge 직접 구현<br>- JitsiMeet 기반 화상/음성 기능 연동 및 커스터마이징                                                                                                           |
+| **Kotlin**            | - Android 카메라 모듈 기능 고도화 (명함 인식 등)<br>- Java-Kotlin 혼합 환경에서의 안정성 개선 및 리팩토링                                                                                                                                                  |
+| **Objective-C**       | - iOS 네이티브 모듈 개발 및 WKWebView Bridge 구성<br>- Safari Web Inspector를 활용한 디버깅 및 성능 개선<br>- 기업용 배포 정책 대응 및 App Store 릴리즈                                                                                                    |
+| **HTML / CSS**        | - 하이브리드 앱 내 웹 콘텐츠 마크업 및 스타일링<br>- 반응형 UI 직접 구현<br>- 다양한 스크린 사이즈 대응 및 웹 접근성 개선                                                                                                                                  |
+| **기타 환경**         | - Android Studio, Xcode를 통한 멀티 플랫폼 개발 환경 운용<br>- AWS 기반 EC2, RDS, S3, CloudFront 인프라 구성 및 운영<br>- MySQL DB 설계 및 쿼리 튜닝 경험<br>- GitLab CI/CD ,CodeCommit ,CodeBuild ,CodeDeploy 기반 자동화 배포 파이프라인 구성            |
 
 ---
 
