@@ -130,7 +130,7 @@
 
 # hybrid 프로젝트
 
-## 하이브리드 앱 (GreenNet, D-RMS, D-Sales, D-Partners, it-Servies) 유지보수/고도화
+## 하이브리드 앱 (GreenNet, D-RMS, D-Sales, D-Partners, it-Service) 유지보수/고도화
 
 **앱명**: GreenNet, D-RMS, D-Sales, D-Partners, IT-Service (총 5개의 모바일앱)  
 **회사**: 동화기업㈜  
@@ -168,7 +168,7 @@ AI Utilization(GPT-4 , Grok3)
 ### 🚀 주요 성과 (Key Achievements)
 
 ```sh
-모바일 통합 로그인 체계 (AD -> M365 oAuth 2.0) 구축
+모바일 통합 로그인 체계 (AD -> M365 oAuth 2.0) 구축 (모바일 클라이언트와 백엔드를 포함한 풀사이클 개발)
 전자결재 푸시 뱃지 동기화 ( IOS / Android )
 스마트렌즈 & 재고조회 등 신규 서비스 (10종 이상 개발)
 이미지 로딩 성능 개선
@@ -234,7 +234,6 @@ AI Utilization (GPT-4, Cursor)
 ```sh
 WebView 커스터마이징을 통한 사용자 경험 개선 (URL 스킴 감지, 팝업 처리, 파일 다운로드 등 WebView 내부 기능을 커스터마이징)
 JS ↔ Native 연동 구조 직접 구현 (브릿지 모듈을 직접 설계 및 개발 )
-보안 저장소를 활용한 사용자 민감 정보 보호 (Android Keystore, iOS Keychain)
 서브앱 로그인 연동 기능 신규 구현 (URL Scheme , AD -> OAuth)
 약 15건 이상의 기능 개선
 ```
