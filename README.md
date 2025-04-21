@@ -856,7 +856,7 @@ CI/CD (GitLab, Fastlane)
 <img src="./images/fire_education/fire03.png" width="250">
 </div>
 
-### VR 화재안전 플랫폼(인턴)
+## VR 화재안전 플랫폼(인턴)
 
 **회사**: (주)제튼 <br>
 **기간**: 2019.02 ~ 2019.03 <br>
@@ -889,7 +889,7 @@ CI/CD (GitLab, Fastlane)
 <img src="./images/vr_fire/vr_fire03.png" width="350">
 </div>
 
-### VR 화재 체험 플랫폼 (인턴)
+## VR 화재 체험 플랫폼 (인턴)
 
 **소속**: 한림대학교 <br>
 **기간**: 2018.09 ~ 2018.12 <br>
