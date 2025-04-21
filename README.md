@@ -28,6 +28,7 @@
 - **10개 이상의 Android/iOS 하이브리드 앱 단독 운영 및 스토어 배포**<br>
 - **Spring + MySQL 기반 API 및 AWS 서버/인프라 운영**<br>
 - **JWT, OAuth 2.0 기반 보안 인증 설계 및 적용**<br>
+- **모바일 클라이언트와 백엔드를 포함한 풀사이클 개발 경험**<br>
 - **Web <-> Native Bridge & Native Module 설계 및 적용**<br>
 
 ### 🔹 (주) 더존비즈온 | 2019.07.15 ~ 2022.01.13
@@ -43,10 +44,10 @@
   - Wehago (B2B 협업 플랫폼)<br>
 - **보안 기술 경험**
   - Sign-Then-Encrypt (RSA + AES + Signature)<br>
-- **회사 내 최초 React Native 프로젝트 도입 및 아키텍처 설계 주도**<br>
+- **회사 내 최초 React Native 프로젝트 도입 및 아키텍처 설계 주도(+ 사내 전체 교육)**<br>
+- **전자서명 모바일 인증서 구현 경험 (모바일 Sign-Then-Encrypt 보안 흐름을 설계 및 구현)**<br>
 - **정부 과제 프로젝트 성공경험 -> 정부 지원금 지급 및 성과 인정**<br>
 - **JIRA, GitLab, Wiki 기반의 협업 환경 운영**<br>
-- **Redux 상태관리 사내 전체 교육 진행 (+테크톡)**<br>
 
 ### 🔹 인턴 활동
 
@@ -87,7 +88,7 @@
 | **Kotlin**            | - Android 카메라 모듈 기능 고도화 (명함 인식 등)<br>- Java-Kotlin 혼합 환경에서의 안정성 개선 및 리팩토링                                                                                                                                                  |
 | **Objective-C**       | - iOS 네이티브 모듈 개발 및 WKWebView Bridge 구성<br>- Safari Web Inspector를 활용한 디버깅 및 성능 개선<br>- 기업용 배포 정책 대응 및 App Store 릴리즈                                                                                                    |
 | **HTML / CSS**        | - 하이브리드 앱 내 웹 콘텐츠 마크업 및 스타일링<br>- 반응형 UI 직접 구현<br>- 다양한 스크린 사이즈 대응 및 웹 접근성 개선                                                                                                                                  |
-| **기타 환경**         | - Android Studio, Xcode를 통한 멀티 플랫폼 개발 환경 운용<br>- AWS 기반 EC2, RDS, S3, CloudFront 인프라 구성 및 운영<br>- MySQL DB 설계 및 쿼리 튜닝 경험<br>- GitLab CI/CD ,CodeCommit ,CodeBuild ,CodeDeploy 기반 자동화 배포 파이프라인 구성            |
+| **기타 환경**         | - Android Studio, Xcode를 통한 멀티 플랫폼 개발 환경 운용<br>- AWS 기반 EC2, RDS, CloudFront 인프라 구성 및 운영<br>- MySQL DB 운영/관리<br>- CodeCommit ,CodeBuild ,CodeDeploy 기반 배포 관리                                                             |
 
 ---
 
@@ -102,7 +103,7 @@
 - JIRA, Confluence(Wiki)를 활용한 일정 및 문서 관리
 - EsLint, Prettier를 통한 코드 품질 및 일관성 유지
 - App Store, Google Play Console을 통한 모바일 앱 스토어 배포 경험
-- AWS (EC2, S3, RDS), Whatap 등을 활용한 인프라 운영 및 모니터링 경험
+- AWS (EC2, RDS), Whatap 등을 활용한 인프라 운영 및 모니터링 경험
 - 다양한 프로젝트에서 아키텍처 설계 및 기술 도입 주도
    → 회사 내 최초 React Native 하이브리드 프로젝트 도입 및 팀 내 기술 전파
 ```
@@ -129,9 +130,9 @@
 
 # hybrid 프로젝트
 
-## 하이브리드 앱 (직원관리, 원재료 관리, 자재 영업관리, 대리점 영업관리) 유지보수/고도화
+## 하이브리드 앱 (GreenNet, D-RMS, D-Sales, D-Partners, it-Servies) 유지보수/고도화
 
-**앱명**: GreenNet, D-RMS, D-Sales, D-Partners, IT-Service (총 5종)  
+**앱명**: GreenNet, D-RMS, D-Sales, D-Partners, IT-Service (총 5개의 모바일앱)  
 **회사**: 동화기업㈜  
 **기간**: 2022.07.06 ~ 현재  
 **운영 인원**: 1인 단독 운영  
@@ -153,14 +154,14 @@ Android(Java, RxJava, WebView)
 iOS(Objective-C, WKWebView)
 Hybrid(Morpheus,JavaScript, jQuery, CSS)
 Backend(Spring, RESTful API)
-DB(MySQL)
-Architecture(MVC, MVVM)
+DB(MySQL,Sqlite)
+Architecture(Clean Architecture)
 Security(Proguard, OAuth 2.0, JWT)
 Push & Dependency(Firebase, APNs)
-Debugging(Chrome DevTools, chrome Inspector, Safari Web Inspector, Remote Log)
-CI/CD(CodeCommit, CodeDeploy,SourceTree)
+Debugging(Chrome DevTools, Safari Web Inspector, Remote Log)
+CI/CD(CodeCommit, CodeBuild, CodeDeploy, AWS pipeLine)
 Certificate Management(Signing, Provisioning, Key 관리)
-Monitoring(Whatap, CrashReport, Google Analytics)
+Monitoring(Whatap, Google Analytics)
 AI Utilization(GPT-4 , Grok3)
 ```
 
@@ -196,9 +197,9 @@ AI Utilization(GPT-4 , Grok3)
 
 <br>
 
-## 하이브리드 웹앱 (생산관리,운송사관리,운송장,베트남 원재료관리) 유지보수/고도화
+## 하이브리드 웹앱 (D-Logis, Smart-Factory, D-RMS VN) 유지보수/고도화
 
-**앱명**: D-Logis , Smart-Factory , D-RMS VN (3종)<br>
+**앱명**: D-Logis , Smart-Factory , D-RMS VN (총 3개의 모바일앱)<br>
 **회사**: 동화기업㈜  
 **기간**: 2022.07.06 ~ 현재  
 **운영 인원**: 1인 단독 운영  
@@ -222,7 +223,7 @@ WebView Control (Window, File Download, Console Redirect)
 Debugging (Chrome DevTools, Safari Web Inspector, Remote Log)
 Security (Proguard, KeyStore/Keychain)
 Dependency Management (Firebase, APNs)
-CI/CD (CodeCommit, CodeDeploy, SourceTree)
+CI/CD(CodeCommit, CodeBuild, CodeDeploy, AWS pipeLine)
 Certificate Management (Signing, Provisioning, Key)
 Monitoring (Whatap, CrashReport, Google Analytics)
 AI Utilization (GPT-4, Cursor)
@@ -271,10 +272,10 @@ iOS(Objective-C, WKWebView, Safari Inspector, Provisioning 관리)
 Hybrid(Morpheus, JavaScript, jQuery, CSS)
 NativeModule(Android/iOS JS Bridge 구현)
 WebView Control(Window, File Download, Console Redirect)
-Debugging(Chrome DevTools, chrome Inspector, Safari Web Inspector, Remote Log)
+Debugging(Chrome DevTools, Safari Web Inspector, Remote Log)
 Security(Proguard, KeyStore/Keychain)
 Dependency Management(Firebase, APNs)
-CI/CD(CodeCommit,CodeDeploy, SourceTree)
+CI/CD(CodeCommit, CodeBuild, CodeDeploy, AWS pipeLine)
 Certificate Management(Signing, Provisioning, Key 관리)
 Monitoring(Whatap, CrashReport, Google Analytics)
 AI Utilization(GPT-4, Cursor)
@@ -323,10 +324,10 @@ iOS(Objective-C, WKWebView, Safari Inspector, Provisioning 관리)
 Hybrid(Morpheus, JavaScript, jQuery, CSS)
 NativeModule(Android/iOS JS Bridge 구현)
 WebView Control(Window, File Download, Console Redirect)
-Debugging(Chrome DevTools, chrome Inspector, Safari Web Inspector, Remote Log)
+Debugging(Chrome DevTools, Safari Web Inspector, Remote Log)
 Security(Proguard, KeyStore/Keychain)
 Dependency Management(Firebase, APNs)
-CI/CD(CodeCommit, CodeDeploy,SourceTree)
+CI/CD(CodeCommit, CodeBuild, CodeDeploy, AWS pipeLine)
 Certificate Management(Signing, Provisioning, Key 관리)
 Monitoring(Whatap, CrashReport, Google Analytics)
 AI Utilization(GPT-4, Cursor)
@@ -368,9 +369,8 @@ Google Play 및 Apple App Store 내 앱 런칭 완료 (국내/해외 배포 경�
 
 ```sh
 Deployment: Google Play Console, Apple App Store, Apple Enterprise
-Monitoring: Whatap, CrashReport, Google Analytics
+Monitoring: Whatap, Google Analytics
 App Authentication and Security: Apple Provisioning, Developer Certificate
-Devices: UDID 등록, 테스트 기기 관리
 Version Control: Semantic Versioning
 ```
 
@@ -407,10 +407,9 @@ Google Play Protect 미확인 앱 경고 대응
 ```sh
 AWS (EC2, RDS (Aurora MySQL 8.0), ElastiCache (Redis), Route 53, CloudFront, WAF, Network ACL)
 Application Server (Tomcat)
-Build Tool (Maven, CodeDeploy, CodeCommit)
+Build Tool (Maven, CodeBuild, CodeCommit)
 Framework (Spring, MyBatis, Stored Procedure)
 Database (MySQL)
-Security (JWT, OAuth)
 OS: (Linux)
 Monitoring: (Whatap, AWS CloudWatch)
 기타: (Shell Script, crontab)
@@ -510,10 +509,11 @@ React Native (TypeScript, JavaScript)
 Native Module (Android Java/Kotlin)
 State Management (Redux, Redux Toolkit, redux-observable, Middleware)
 React (Class Component)
+Reactive Programming (ReactiveX)
 Real-Time Communication (Jitsi-Meet 커스터마이징, WebRTC)
 Architecture (Clean Architecture)
 API Integration (RESTful API, Ajax,fetch)
-Local Storage & Caching (SQLite, TypeORM)
+Local Storage & Caching (SQLite, TypeORM, Secure Storage (Keychain, Keystore))
 Security (Proguard, Rooting Guard, RSA, AES)
 Dependency Management (Yarn, CocoaPods, Gradle, Shell Script)
 Cloud Platform (Firebase)
@@ -570,10 +570,11 @@ React Native (TypeScript, JavaScript)
 Native Module (Android Java/Kotlin)
 State Management (Redux, Redux Toolkit, redux-observable, Middleware)
 React (Class Component)
+Reactive Programming (ReactiveX)
 Real-Time Communication (Jitsi-Meet 커스터마이징, WebRTC)
 Architecture (Clean Architecture)
 API Integration (RESTful API, ajax, fetch)
-Local Storage & Caching (SQLite, TypeORM)
+Local Storage & Caching (SQLite, TypeORM, Secure Storage (Keychain, Keystore))
 Security (Proguard, Rooting Guard, RSA, AES)
 Dependency Management (Yarn, CocoaPods, Gradle, Shell Script)
 Cloud Platform (Firebase)
@@ -619,11 +620,12 @@ React Native (Expo, TypeScript, JavaScript)
 Native Module (Android Java/Kotlin, iOS)
 React (Class Component 기반 개발 – componentDidMount, componentDidUpdate 등 Lifecycle 활용)
 State Management (Redux, redux-observable)
-Reactive Programming (ReactiveX, RxJS)
+Reactive Programming (ReactiveX)
 Architecture (Clean Architecture)
 Authentication & Authorization (OAuth 2.0)
 API Integration (RESTful API,ajax,fetch)
 Security (Proguard, Rooting Guard, RSA, AES)
+Local Storage & Caching (SQLite, Secure Storage (Keychain, Keystore))
 Dependency Management (Yarn, Shell Script)
 Cloud Platform (Firebase)
 ```
@@ -678,11 +680,12 @@ Sign-Then-Encypt (RSA + AES + Signature) 을 이용한 보안 인증서 개발
 ### ⚙️ 기술 스택 (Technical Lead)
 
 ```sh
-And (Kotlin, Java, RxJava)
-Pattern (MVVM, MVC)
+And (Java, Kotlin)
+Architecture (Clean Architecture,AAC)
+Reactive Programming (ReactiveX)
 API (Retrofit, Gson, OkHttp)
 Network (RESTful API)
-Push (Firebase Cloud Messaging, Notification Channel)
+Push (Firebase Cloud Messaging)
 Storage (SharedPreferences, SQLite)
 Security (Proguard)
 Dependency Management (Firebase, Gradle)
