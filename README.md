@@ -225,7 +225,7 @@ Security (Proguard, KeyStore/Keychain)
 Dependency Management (Firebase, APNs)
 CI/CD(CodeCommit, CodeBuild, CodeDeploy, AWS pipeLine)
 Certificate Management (Signing, Provisioning, Key)
-Monitoring (Whatap, CrashReport, Google Analytics)
+Monitoring (Whatap, Google Analytics)
 AI Utilization (GPT-4, Cursor)
 ```
 
@@ -276,7 +276,7 @@ Security(Proguard, KeyStore/Keychain)
 Dependency Management(Firebase, APNs)
 CI/CD(CodeCommit, CodeBuild, CodeDeploy, AWS pipeLine)
 Certificate Management(Signing, Provisioning, Key 관리)
-Monitoring(Whatap, CrashReport, Google Analytics)
+Monitoring(Whatap , Google Analytics)
 AI Utilization(GPT-4, Cursor)
 ```
 
@@ -328,14 +328,13 @@ Security(Proguard, KeyStore/Keychain)
 Dependency Management(Firebase, APNs)
 CI/CD(CodeCommit, CodeBuild, CodeDeploy, AWS pipeLine)
 Certificate Management(Signing, Provisioning, Key 관리)
-Monitoring(Whatap, CrashReport, Google Analytics)
-AI Utilization(GPT-4, Cursor)
+Monitoring(Whatap , Google Analytics)
 ```
 
 ### 🚀 주요 성과 (Key Achievements)
 
 ```sh
-글로벌 대상 WebView 하이브리드 앱을 설계부터 배포까지 단독으로 개발 (기획, 구현, 테스트, 스토어 등록 전 과정 주도)
+글로벌 대상 WebView 하이브리드 앱을 설계부터 배포까지 단독으로 개발 (구현, 테스트, 스토어 등록 전 과정 주도)
 WebView 고도화로 사용자 경험(UX) 향상 실현 (URL 스킴 처리, 커스텀 팝업, 파일 다운로드 기능 최적화)
 JS ↔ Native 연동 구조 커스터마이징 (브릿지 설계 및 자체 Native 모듈 개발로 웹-앱 간 통신 안정화)
 플랫폼별 보안 저장소 적용으로 민감 정보 보호 강화 (Android Keystore, iOS Keychain 연동)
