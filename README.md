@@ -88,7 +88,7 @@
 | **Kotlin**            | - Android 카메라 모듈 기능 고도화 (명함 인식 등)<br>- Java-Kotlin 혼합 환경에서의 안정성 개선 및 리팩토링                                                                                                                                                  |
 | **Objective-C**       | - iOS 네이티브 모듈 개발 및 WKWebView Bridge 구성<br>- Safari Web Inspector를 활용한 디버깅 및 성능 개선<br>- 기업용 배포 정책 대응 및 App Store 릴리즈                                                                                                    |
 | **HTML / CSS**        | - 하이브리드 앱 내 웹 콘텐츠 마크업 및 스타일링<br>- 반응형 UI 직접 구현<br>- 다양한 스크린 사이즈 대응 및 웹 접근성 개선                                                                                                                                  |
-| **기타 환경**         | - Android Studio, Xcode를 통한 멀티 플랫폼 개발 환경 운용<br>- AWS 기반 EC2, RDS, CloudFront 인프라 구성 및 운영<br>- MySQL DB 운영/관리<br>- CodeCommit ,CodeBuild ,CodeDeploy 기반 배포 관리                                                             |
+| **기타 환경**         | - Android Studio, Xcode를 통한 멀티 플랫폼 개발 환경 운용<br>- AWS 기반 EC2, RDS, CloudFront 운영<br>- MySQL DB 운영/관리<br>- CodeCommit ,CodeBuild ,CodeDeploy 기반 배포 관리                                                                            |
 
 ---
 
