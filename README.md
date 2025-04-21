@@ -12,7 +12,7 @@
 
 <br>
 
-## 경력 요약 (총 경력 : 5년 3개월)
+## [경력 (총 경력 : 5년 3개월)](https://docs.google.com/document/d/1B1eQd1Us20KvDmV4xaWLfBjsgQQYylV8PdRoiVhkQqQ/edit?tab=t.0)
 
 ### 🔹 동화기업(주) | 2022.07.06 ~ 재직중
 
