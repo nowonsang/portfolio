@@ -80,15 +80,15 @@
 
 ## 🛠️ 기술 스택 및 상세 경험
 
-| 주요 사용 언어 / 기술 | 상세 내용                                                                                                                                                                                                                                                  |
-| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Java**              | - Android 네이티브 기능 및 커스텀 모듈 개발<br>- WebView ↔ Native 간 양방향 Bridge 구현<br>- Spring 기반 REST API 서버 구축 및 운영<br>- JWT, OAuth 2.0 기반 인증 처리 및 보안 로직 구현<br>- Android 클라이언트와 백엔드 연동을 포함한 풀사이클 개발 경험 |
-| **TypeScript**        | - React Native 기반 하이브리드 앱 다수 단독 개발<br>- Redux, React Query, RxJS 등 상태 관리 라이브러리 적용<br>- 앱 구조 개선 및 안정적인 아키텍처 설계 경험<br>- 비동기 처리 및 에러 핸들링 로직 체계화                                                   |
-| **JavaScript**        | - Morpheus 기반 하이브리드 웹 앱 UI 및 기능 개발<br>- JavaScript-Native Bridge 직접 구현<br>- JitsiMeet 기반 화상/음성 기능 연동 및 커스터마이징                                                                                                           |
-| **Kotlin**            | - Android 카메라 모듈 기능 고도화 (명함 인식 등)<br>- Java-Kotlin 혼합 환경에서의 안정성 개선 및 리팩토링                                                                                                                                                  |
-| **Objective-C**       | - iOS 네이티브 모듈 개발 및 WKWebView Bridge 구성<br>- Safari Web Inspector를 활용한 디버깅 및 성능 개선<br>- 기업용 배포 정책 대응 및 App Store 릴리즈                                                                                                    |
-| **HTML / CSS**        | - 하이브리드 앱 내 웹 콘텐츠 마크업 및 스타일링<br>- 반응형 UI 직접 구현<br>- 다양한 스크린 사이즈 대응 및 웹 접근성 개선                                                                                                                                  |
-| **기타 환경**         | - Android Studio, Xcode를 통한 멀티 플랫폼 개발 환경 운용<br>- AWS 기반 EC2, RDS, CloudFront 운영<br>- MySQL DB 운영/관리<br>- CodeCommit ,CodeBuild ,CodeDeploy 기반 배포 관리                                                                            |
+| 주요 사용 언어 / 기술 | 상세 내용                                                                                                                                                                                                                                             |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Java**              | - Android 네이티브 기능 및 커스텀 모듈 개발<br>- WebView ↔ Native 간 양방향 Bridge 구현<br>- Spring 기반 REST API 서버 구축 및 운영<br>- JWT, OAuth 2.0 기반 인증 처리 및 보안 로직 구현<br>- Android 클라이언트와 백엔드를 포함한 풀사이클 개발 경험 |
+| **TypeScript**        | - React Native 기반 하이브리드 앱 다수 단독 개발<br>- Redux, React Query, RxJS 등 상태 관리 라이브러리 적용<br>- 앱 구조 개선 및 안정적인 아키텍처 설계 경험<br>- 비동기 처리 및 에러 핸들링 로직 체계화                                              |
+| **JavaScript**        | - Morpheus 기반 하이브리드 웹 앱 UI 및 기능 개발<br>- JavaScript-Native Bridge 직접 구현<br>- JitsiMeet 기반 화상/음성 기능 연동 및 커스터마이징                                                                                                      |
+| **Kotlin**            | - Android 카메라 모듈 기능 고도화 (명함 인식 등)<br>- Java-Kotlin 혼합 환경에서의 안정성 개선 및 리팩토링                                                                                                                                             |
+| **Objective-C**       | - iOS 네이티브 모듈 개발 및 WKWebView Bridge 구성<br>- Safari Web Inspector를 활용한 디버깅 및 성능 개선<br>- 기업용 배포 정책 대응 및 App Store 릴리즈                                                                                               |
+| **HTML / CSS**        | - 하이브리드 앱 내 웹 콘텐츠 마크업 및 스타일링<br>- 반응형 UI 직접 구현<br>- 다양한 스크린 사이즈 대응 및 웹 접근성 개선                                                                                                                             |
+| **기타 환경**         | - Android Studio, Xcode를 통한 멀티 플랫폼 개발 환경 운용<br>- AWS 기반 EC2, RDS, CloudFront 운영<br>- MySQL DB 운영/관리<br>- CodeCommit ,CodeBuild ,CodeDeploy 기반 배포 관리                                                                       |
 
 ---
 
@@ -212,8 +212,8 @@
 
 ### ⚙️ 기술 스택 (Technical Lead)
 
-- **Android**: Java, WebView, URL Scheme, File Download, Custom Popup
-- **iOS**: Objective-C, WKWebView, Safari Inspector, Provisioning
+- **Android**: Java, WebView
+- **iOS**: Objective-C, WKWebView
 - **Hybrid**: Morpheus, JavaScript, jQuery, CSS
 - **Native Module**: Android/iOS JS Bridge
 - **WebView Control**: Window, File Download, Console Redirect
@@ -260,8 +260,8 @@ JS ↔ Native 연동 구조 직접 구현 (브릿지 모듈을 직접 설계 및
 
 ### ⚙️ 기술 스택 (Technical Lead)
 
-- **Android**: Java, WebView, URL Scheme, File Download, Custom Popup
-- **iOS**: Objective-C, WKWebView, Safari Inspector, Provisioning 관리
+- **Android**: Java, WebView
+- **iOS**: Objective-C, WKWebView
 - **Hybrid**: Morpheus, JavaScript, jQuery, CSS
 - **Native Module**: Android/iOS JS Bridge 구현
 - **WebView Control**: Window, File Download, Console Redirect
@@ -310,8 +310,8 @@ GooglePlay ,AppStore 배포
 
 ### ⚙️ 기술 스택 (Technical Lead)
 
-- **Android**: Java, WebView, URL Scheme, File Download, Custom Popup
-- **iOS**: Objective-C, WKWebView, Safari Inspector, Provisioning 관리
+- **Android**: Java, WebView
+- **iOS**: Objective-C, WKWebView
 - **Hybrid**: Morpheus, JavaScript, jQuery, CSS
 - **Native Module**: Android/iOS JS Bridge 구현
 - **WebView Control**: Window, File Download, Console Redirect
@@ -437,11 +437,11 @@ AWS Aurora MySQL 업그레이드: Aurora MySQL (2.11.2 / 5.7) → Aurora MySQL (
 
 - **React Native**: TypeScript, JavaScript
 - **State Management**: Redux, Redux Toolkit, Redux-Observable, React Context, React Query
-- **React**: Hooks 기반 함수형 컴포넌트 개발, Class → Function Component 전환 경험
-- **Architecture**: Clean Architecture, MVVM
-- **Reactive Programming**: ReactiveX, RxJS, RxJava
+- **React**: Hooks 기반 함수형 컴포넌트로 개발, Class → Function Component 전환 경험
+- **Architecture**: Clean Architecture
+- **Reactive Programming**: ReactiveX
 - **Authentication & Authorization**: OAuth 2.0, Self-authentication, Fingerprint, Face ID, Simple Auth
-- **API Integration**: RESTful API, Axios, Retrofit
+- **API Integration**: RESTful API, Axios, Retrofit , ajax , fetch
 - **Native Module**: Android Java/Kotlin
 - **Security**: Proguard, Rooting Guard, RSA, AES, App Signature
 - **Dependency Management**: NPM, CocoaPods, Gradle, Shell Script
