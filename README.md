@@ -35,7 +35,7 @@
 
 [(주)더존비즈온 회사정보 확인](https://www.jobplanet.co.kr/companies/81407/landing/%EB%8D%94%EC%A1%B4%EB%B9%84%EC%A6%88%EC%98%A8)
 
-- **React Native 기반 신규 앱 개발**
+- **React Native 기반 신규 앱 4개 개발**
   - Nahago (임금명세서, 출퇴근관리, 연말정산 기능)
   - NAYANA → 우리도 (강원도청 강원도민 대상)
   - WehagoOne (정부 과제 블록체인 간편계약)
