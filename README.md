@@ -37,7 +37,7 @@
 
 - **React Native 기반 신규 앱 4개 개발**
   - Nahago (임금명세서, 출퇴근관리, 연말정산 기능)
-  - NAYANA → 우리도 (강원도청 강원도민 대상)
+  - NAYANA → 우리도 (강원도청 모바일 앱)
   - WehagoOne (정부 과제 블록체인 간편계약)
   - WehagoSign (전자서명 인증 서비스)<br>
 - **Android 앱 유지보수 및 기능 개선**
