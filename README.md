@@ -12,7 +12,7 @@
 
 <br>
 
-## 경력 (총 경력 : 5년 3개월)
+## 경력 (총 경력 : 5년 5개월)
 
 ### 🔹 동화기업(주) | 2022.07.06 ~ 재직중
 
@@ -161,7 +161,7 @@
 - **CI/CD**: CodeCommit, CodeBuild, CodeDeploy, AWS Pipeline
 - **Certificate Management**: Signing, Provisioning, Key 관리
 - **Monitoring**: Whatap, Google Analytics
-- **AI Utilization**: GPT-4, Grok3
+- **AI Utilization**: Cursor AI, uxPliot, anima
 
 ### 🚀 주요 성과 (Key Achievements)
 
@@ -222,7 +222,7 @@
 - **CI/CD**: CodeCommit, CodeBuild, CodeDeploy, AWS Pipeline
 - **Certificate Management**: Signing, Provisioning, Key
 - **Monitoring**: Whatap, Google Analytics
-- **AI Utilization**: GPT-4, Cursor
+- **AI Utilization**: GPT-4, Cursor AI
 
 ### 🚀 주요 성과 (Key Achievements)
 
@@ -271,7 +271,7 @@ JS ↔ Native 연동 구조 직접 구현 (브릿지 모듈을 직접 설계 및
 - **CI/CD**: CodeCommit, CodeBuild, CodeDeploy, AWS Pipeline
 - **Certificate Management**: Signing, Provisioning, Key 관리
 - **Monitoring**: Whatap, Google Analytics
-- **AI Utilization**: GPT-4, Cursor
+- **AI Utilization**: GPT-4, Cursor AI
 
 ### 🚀 주요 성과 (Key Achievements)
 
