@@ -197,7 +197,7 @@
 - **Backend** : Java 21, Spring Boot 3.x, JPA/Hibernate, MySQL, SQLite
 - **DevOps & Infra** : AWS (Amplify, ALB, S3), CI/CD (CodeBuild/Deploy), Gradle
 - **Security & Auth** : Spring Security, M365 OAuth 2.0, JWT, Proguard
-- **Push & Monitoring** : FCM v1, APNs, Firebase Analytics, WhaTap
+- **Push & Monitoring** : FCM v1, APNs, Firebase Analytics, WhaTap, Android Vitals
 - **AI & Tools** : Cursor AI, ,uxPilot , Claude, Figma Mcp, Playwright , shrimp-task-manager ,NapKin, FileMcp
 
 ### 🚀 주요 성과 & 비즈니스 임팩트 (Key Achievements)
