@@ -128,56 +128,72 @@
 
 ## <br>
 
-# 모바일 플랫폼 1위 기업 유라클 회사에서 만든 Morpheus 솔루션 -> 단 2명으로 자체 기술력으로 내재화
+# 기업용 모바일 통합 플랫폼 자체 구축 (상용 솔루션 내재화)
 
-## 자체 솔루션 개발 (모바일 관리자 페이지, push 서버 , 리소스배포 , 하이브리드 앱(react-native, expo))
+## 💰 외부 의존도 0% 달성, 단 2명의 인원으로 상용 솔루션(Morpheus) 완벽 대체
 
 **회사** : 동화기업(주)<br>
-**기간** : 2025.05.01 ~ 2025.12.31<br>
-**개발** : 2인 개발<br>
-**담당역할** : vue3,nuxt,springBoot,react-native,CI,CD,expo,기획,디자인 모든분야를 설계 및 담당<br>
-**핵심성과** : 기업용 앱을 빠르게 만들수 있게 모바일 플랫폼 1위 기업 유라클(회사)에서 제공하는 Morpheus 프로그램을 React-Native, Expo용 동화기업만의 프로그램으로 내재화<br>
+**기간** : 2025.05.01 ~ 2025.12.31 (8개월)<br>
+**개발** : 핵심 개발 2인 (Technical Lead)<br>
+**담당역할** : 기획, 아키텍처 설계, 풀스택 개발, UI/UX 디자인, 인프라(AWS), CI/CD, 배포 및 운영 총괄<br>
+**핵심성과** : 기술 종속성 완전 해결<br>
+**비즈니스 임팩트** : 국내 모바일 플랫폼 1위 기업 유라클 Morpheus 솔루션을 React Native + Expo 기반 자체 플랫폼으로 100% 대체<br>
 
-### 🔍 프로젝트 소개
+### 🔍 프로젝트 개요 & 핵심 가치
 
-외부 모바일 솔루션에 의존하던 구조를 단 2명으로 완전히 내재화하고,
-기획·설계·개발·운영 전 영역을 주도한 사내 모바일 플랫폼 구축 프로젝트
+**"불가능을 가능으로 만든 기술 내재화 프로젝트"**
 
-- 모바일 관리자 페이지: api, apikey, push, OTA, 리소스, 디바이스 관리, 버전관리 , 앱스토어 , 모니터링 & 대시보드 포함 회사 전용 모바일 관리자 페이지 구축
-- 모바일용 push 서버 자체 구축 : SpringBoot firebase v1 api 체계로 slient push, public push , push 사용자 관리 체계 구축
-- 모바일 (React-Native, Expo) 환경 자체 구축 : Morpheus 솔루션에 맞게 구현된 js기반 하이브리드 앱을 React-Native , expo 용으로 전환
+국내 1위 모바일 플랫폼 솔루션(Morpheus)에 의존하던 기존 구조를 탈피하고, React Native & Expo 기반의 자체 기술 환경으로 100% 전환한 프로젝트입니다. 기존 솔루션의 기술 종속성 문제를 해결했으며, **기획부터 운영까지 전 과정을 주도하여 단 2명의 인원으로 엔터프라이즈급 모바일 생태계를 성공적으로 구축**했습니다.
+
+#### 🎯 **핵심 구축 시스템**
+
+- **🖥️ 모바일 관리자 플랫폼**: API/APIKey 관리, Push 시스템, OTA 배포, 리소스 관리, 디바이스 관리, 버전 관리, 앱스토어 연동, 실시간 모니터링 & 대시보드
+- **📱 Push 서버 자체 구축**: Spring Boot + Firebase v1 API 기반 Silent/Public Push, 사용자별 Push 관리 체계
+- **⚡ 크로스플랫폼 환경**: Morpheus 종속 JS 하이브리드 앱을 React Native + Expo 네이티브 환경으로 완전 전환
+
+#### 💡 **기술적 도전과 해결**
+
+- **Legacy Migration**: 기존 Morpheus 종속 코드베이스를 React Native 아키텍처로 완전 재설계
+- **Performance Optimization**: 네이티브 수준의 성능을 위한 Clean Architecture 적용
+- **DevOps 자동화**: AWS 기반 CI/CD 파이프라인 구축으로 배포 자동화 달성
 
 ### ⚙️ 기술 스택 (Technical Lead)
 
-- **Web/Frontend**: Vue 3 , Nuxt 3 , TypeScript , Tailwind CSS , Pinia , Highcharts
-- **Backend** : Java21, Spring Boot 3.x , RESTful API, OpenAPI (Swagger)
+- **Mobile (Cross-Platform)**: React Native, Expo (Prebuild), TypeScript, WebView
 - **Android**: Kotlin , WebView , Firebase
-- **ios** : Swift , WKWebView
-- **Mobile (Cross-Platform)** : React-Native , ExpoPrebuild , TypeScript , JavaScript
-- **State & Data** : Redux Toolkit , React-Query
-- **Hybrid App** : WebView , Hybrid App , OTA Bundle Update System
-- **Database** : MySQL (JPA / Hibernate) , SQLite
-- **Architecture** : clean Architecture , Layered Architecture
-- **Security**: Spring Security, Proguard , OAuth 2.0 , JWT
-- **Push & Messging** : Firebase Cloud Messaging (FCM) , Apple Push Notification service (APNs)
-- **Cloud & Infrastructure** : AWS Amplify , Application Load Balancer (ALB) , S3
-- **CI/CD** : Gradle ,AWS CodeBuild, AWS CodeDeploy
-- **Monitoring** : Firebase Analytics , whatap
-- **Tooling** : EsLint, Prettier , Junit 5 , Jest
-- **Planning** : File mcp , Shrimp Task Manage mcp
-- **Design** : UXpliot , Figma mcp ,
-- **test** : Playwright mcp
-- **AI Utilization** : Cursor AI , claude
+- **ios** : Swift , WKWebView , APNS
+- **Frontend (Admin)** : Vue 3, Nuxt 3, TypeScript, Tailwind CSS, Pinia, Highcharts
+- **Backend** : Java 21, Spring Boot 3.x, JPA/Hibernate, MySQL, SQLite
+- **DevOps & Infra** : AWS (Amplify, ALB, S3), CI/CD (CodeBuild/Deploy), Gradle
+- **Security & Auth** : Spring Security, OAuth 2.0, JWT, Proguard
+- **Push & Monitoring** : FCM v1, APNs, Firebase Analytics, WhaTap
+- **AI Utilization** : Cursor AI, Claude, uxpliot, file mcp , Shrimp Task Manage , Figma mcp , Playwright mcp , NapKin 설계
 
-### 🚀 주요 성과 (Key Achievements)
+### 🚀 주요 성과 & 비즈니스 임팩트 (Key Achievements)
+
+#### 📊 **전략적 성과**
 
 ```sh
-모바일 플랫폼 1위 기업 유라클 Morpheus 솔루션을 대체하여 React Native + Expo 기반 사내 전용 모바일 플랫폼을 2인 체제로 내재화
-모바일 관리자 페이지 전체 아키텍처 설계 및 구현 (Vue3 + Nuxt3 + Spring Boot 기반 풀스택 단독 구축)
-모바일 Push 서버 자체 구축 및 운영 체계 확립 (Spring Boot + FCM v1 API 기반 Push 서버 직접 설계)
-React Native · Expo 아키텍처 설계 리드 (Clean Architecture 기반 RN/Expo 구조 설계)
-기획 · 디자인 · 인프라까지 포함한 기술 리더 역할 수행 (기획 · UX · 디자인 · 배포 · 운영 전반 총괄)
+🔧 외부 기술 종속성 0% 달성 (완전 자체 기술 스택)
+👥 최소 인력으로 최대 효과 (2인 → 엔터프라이즈급 플랫폼 구축)
 ```
+
+#### 🎯 **기술적 성과**
+
+```sh
+🏗️  엔터프라이즈 모바일 플랫폼 풀스택 아키텍처 설계 & 구현 (Vue3 + Spring Boot + React Native)
+📱  크로스플랫폼 네이티브 앱 개발 환경 구축 (React Native + Expo + Clean Architecture)
+🔔  실시간 Push 시스템 자체 개발 (Spring Boot + FCM v1 API + 사용자 관리)
+☁️  AWS 클라우드 인프라 설계 & CI/CD 파이프라인 구축 (CodeBuild + CodeDeploy + ALB)
+🎨  기획 · UX/UI 디자인 · 개발 · 운영 전 과정 Technical Leadership
+```
+
+#### 🏆 **리더십 & 임팩트**
+
+- **Technical Lead**: 단 2명의 개발 인력으로 기술 방향성 결정 및 아키텍처 설계 주도
+- **Full-Cycle Ownership**: 기획 → 설계 → 개발 → 배포 → 운영까지 전 과정 책임
+- **Legacy Modernization**: 레거시 시스템을 최신 기술 스택으로 성공적 전환
+- **Cost Optimization**: 외부 솔루션 의존도 제거를 통한 TCO 대폭 절감
 
 <br>
 <div>
