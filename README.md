@@ -1,18 +1,18 @@
-# 노원상 | 5년 차 모바일 풀스택 개발자
+# 노원상 | 6년 차 모바일 풀스택 개발자
 
-안녕하세요. **React Native, Android, iOS, Spring 기반 서버 개발 경험을 두루 갖춘 모바일 풀스택 개발자 노원상 대리**입니다.
+안녕하세요. **React Native, Android, iOS, Spring 기반 서버 개발 경험을 두루 갖춘 모바일 풀스택 개발자 노원상**입니다.
 
 저는 맡은 일에 끝까지 책임을 다하며, 현실에 안주하지 않고 **지속적인 성장과 개선**을 중요하게 여깁니다.  
-더존비즈온 재직 중에는 회사 내 최초로 **크로스 플랫폼 도입을 성공하였고** React Native, 사내 테크톡을 통해 상태관리 아키텍처 등
-기술 교육을 전사적으로 주도했습니다.
-이후 동화기업에 재직하여 \*\*10개 이상의 앱을 단독 유지보수 및 운영하면서 모바일 전반의 기술 의사결정과 커뮤니케이션을 주도하고 있습니다.
+더존비즈온 재직 중에는 회사 내 최초로 **크로스 플랫폼 도입을 성공**하였고, React Native 사내 테크톡을 통해 상태관리 아키텍처 등 기술 교육을 전사적으로 주도했습니다.
+
+이후 동화기업에 재직하여 **10개 이상의 앱을 단독 유지보수 및 운영**하면서 모바일 전반의 기술 의사결정과 커뮤니케이션을 주도하고 있습니다.
 
 **앱 개발뿐만 아니라 서버, 인프라, 배포, 인증, 보안까지 아우르는 폭넓은 실무 경험**을 바탕으로  
 저는 일반적인 모바일 개발자보다 더 깊고 넓은 시야로 기술을 바라보며 일할 수 있다고 자부합니다.
 
 <br>
 
-## 경력 (총 경력 : 5년 5개월)
+## 경력 (총 경력 : 5년 11개월)
 
 ### 🔹 동화기업(주) | 2022.07.06 ~ 재직중
 
@@ -60,35 +60,52 @@
 
 <br>
 
-# 보유 언어
+# 🛠️ 보유 기술 스택
 
+**Mobile & Cross-Platform**  
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB.svg?&style=flat-square&logo=React&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=black)
-![Morpheus](https://img.shields.io/badge/Morpheus-6C4AB6.svg?&style=flat-square&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?&style=flat-square&logo=jQuery&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat-square&logo=Android%20Studio&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?&style=flat-square&logo=Kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=OpenJDK&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?&style=flat-square&logo=Xcode&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?&style=flat-square&logo=Kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343.svg?&style=flat-square&logo=Swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-438EFF.svg?&style=flat-square&logo=Apple&logoColor=white)
+
+**Frontend & UI**  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=flat-square&logo=Vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82.svg?&style=flat-square&logo=Nuxt.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?&style=flat-square&logo=Tailwind%20CSS&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white)
+
+**Backend & Database**  
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=flat-square&logo=Amazon%20AWS&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=flat-square&logo=Spring%20Boot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-6DB33F.svg?&style=flat-square&logo=Hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=SQLite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D.svg?&style=flat-square&logo=Redis&logoColor=white)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=flat-square&logo=Amazon%20AWS&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=black)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?&style=flat-square&logo=Gradle&logoColor=white)
+
+**Security & Tools**  
+![JWT](https://img.shields.io/badge/JWT-000000.svg?&style=flat-square&logo=JSON%20Web%20Tokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-4285F4.svg?&style=flat-square&logo=OAuth&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020.svg?&style=flat-square&logo=Expo&logoColor=white)
 
 ## 🛠️ 기술 스택 및 상세 경험
 
-| 주요 사용 언어 / 기술 | 상세 내용                                                                                                                                                                                                                                             |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Java**              | - Android 네이티브 기능 및 커스텀 모듈 개발<br>- WebView ↔ Native 간 양방향 Bridge 구현<br>- Spring 기반 REST API 서버 구축 및 운영<br>- JWT, OAuth 2.0 기반 인증 처리 및 보안 로직 구현<br>- Android 클라이언트와 백엔드를 포함한 풀사이클 개발 경험 |
-| **TypeScript**        | - React Native 기반 하이브리드 앱 다수 단독 개발<br>- Redux, React Query, RxJS 등 상태 관리 라이브러리 적용<br>- 앱 구조 개선 및 안정적인 아키텍처 설계 경험<br>- 비동기 처리 및 에러 핸들링 로직 체계화                                              |
-| **JavaScript**        | - Morpheus 기반 하이브리드 웹 앱 UI 및 기능 개발<br>- JavaScript-Native Bridge 직접 구현<br>- JitsiMeet 기반 화상/음성 기능 연동 및 커스터마이징                                                                                                      |
-| **Kotlin**            | - Android 카메라 모듈 기능 고도화 (명함 인식 등)<br>- Java-Kotlin 혼합 환경에서의 안정성 개선 및 리팩토링                                                                                                                                             |
-| **Objective-C**       | - iOS 네이티브 모듈 개발 및 WKWebView Bridge 구성<br>- Safari Web Inspector를 활용한 디버깅 및 성능 개선<br>- 기업용 배포 정책 대응 및 App Store 릴리즈                                                                                               |
-| **HTML / CSS**        | - 하이브리드 앱 내 웹 콘텐츠 마크업 및 스타일링<br>- 반응형 UI 직접 구현<br>- 다양한 스크린 사이즈 대응 및 웹 접근성 개선                                                                                                                             |
-| **기타 환경**         | - Android Studio, Xcode를 통한 멀티 플랫폼 개발 환경 운용<br>- AWS 기반 EC2, RDS, CloudFront 운영<br>- MySQL DB 운영/관리<br>- CodeCommit ,CodeBuild ,CodeDeploy 기반 배포 관리                                                                       |
+| 기술 영역            | 주요 경험 및 성과                                                                                                                                                                                                                              |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **React Native**     | - 4개 신규 앱 개발 (더존비즈온)<br>- Redux Toolkit, React Query 기반 상태 관리<br>- Clean Architecture 적용 및 TypeScript 도입<br>- 회사 최초 React Native 도입 및 사내 교육 주도                                                              |
+| **Java & Spring**    | - Spring Boot 3.x 기반 엔터프라이즈 API 서버 구축<br>- JWT, OAuth 2.0 통합 인증 시스템 설계<br>- JPA/Hibernate 기반 데이터베이스 설계<br>- 10개+ 모바일 앱 백엔드 단독 운영                                                                    |
+| **Vue 3 & Frontend** | - Nuxt 3 + TypeScript 기반 관리자 시스템 구축<br>- Composition API + Pinia 상태 관리<br>- Tailwind CSS 반응형 UI 구현<br>- 실시간 모니터링 대시보드 개발 (Highcharts 연동)                                                                     |
+| **AWS & DevOps**     | - EC2, RDS(Aurora MySQL), ElastiCache 운영<br>- CodeBuild/CodeDeploy CI/CD 파이프라인 구축<br>- ALB, CloudFront, S3 인프라 설계<br>- 무중단 배포 및 모니터링 체계 구축                                                                         |
+| **Mobile Native**    | - Android(Kotlin/Java) + iOS(Swift/Objective-C) 네이티브 모듈 개발<br>- 카메라, 보안저장소, Push 등 커스텀 모듈 구현<br>- FCM v1, APNs 기반 Push 시스템 구축<br>- 기업용 배포 및 App Store 심사 대응                                           |
+| **Hybrid App**       | - Morpheus 기반 10개+ 하이브리드 앱 단독 유지보수 및 운영<br>- JavaScript-Native Bridge 설계 및 구현<br>- Google Play, App Store 배포 및 OS 정책 변경 대응<br>- SDK 업그레이드 및 보안 정책 총괄 관리<br>- WebView 커스터마이징 및 성능 최적화 |
 
 ---
 
@@ -128,28 +145,42 @@
 
 ## <br>
 
-# 기업용 모바일 통합 플랫폼 자체 구축 (상용 솔루션 내재화)
+# 🚀 엔터프라이즈 모바일 플랫폼 자체 구축 프로젝트
 
-## 💰 외부 의존도 0% 달성, 단 2명의 인원으로 상용 솔루션(Morpheus) 완벽 대체
+## 💰 국내 1위 상용 솔루션(Morpheus) 완전 대체 → 단 2명으로 8개월 만에 달성
 
-**회사** : 동화기업(주)<br>
-**기간** : 2025.05.01 ~ 2025.12.31 (8개월)<br>
-**개발** : 핵심 개발 2인 (Technical Lead)<br>
-**담당역할** : 기획, 아키텍처 설계, 풀스택 개발, UI/UX 디자인, 인프라(AWS), CI/CD, 배포 및 운영 총괄<br>
-**핵심성과** : 기술 종속성 완전 해결<br>
-**비즈니스 임팩트** : 국내 모바일 플랫폼 1위 기업 유라클 Morpheus 솔루션을 React Native + Expo 기반 자체 플랫폼으로 100% 대체<br>
+| 구분                   | 내용                                                                                                                |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **🏢 회사**            | 동화기업(주)                                                                                                        |
+| **📅 기간**            | 2024.05.01 ~ 2024.12.31 **(8개월)**                                                                                 |
+| **👥 팀 구성**         | **핵심 개발 2인** (Technical Lead)                                                                                  |
+| **🎯 담당 역할**       | **기획 · 아키텍처 설계 · 풀스택 개발 · UI/UX 디자인 · AWS 인프라 · CI/CD · 배포 · 운영** 총괄                       |
+| **💡 핵심 성과**       | **외부 기술 종속성 0% 달성** + **연간 수천만원 라이선스 비용 절감**                                                 |
+| **🚀 비즈니스 임팩트** | 국내 모바일 플랫폼 **1위 기업 유라클 Morpheus 솔루션**을 **React Native + Expo** 기반 **자체 플랫폼으로 100% 대체** |
 
 ### 🔍 프로젝트 개요 & 핵심 가치
 
-**"불가능을 가능으로 만든 기술 내재화 프로젝트"**
+> **"불가능을 가능으로 만든 기술 내재화 혁신 프로젝트"**
+>
+> **수십 명의 인력과 수년의 시간을 투입해야 할 프로젝트를 단 2명이 8개월 만에 완성**
 
-국내 1위 모바일 플랫폼 솔루션(Morpheus)에 의존하던 기존 구조를 탈피하고, React Native & Expo 기반의 자체 기술 환경으로 100% 전환한 프로젝트입니다. 기존 솔루션의 기술 종속성 문제를 해결했으며, **기획부터 운영까지 전 과정을 주도하여 단 2명의 인원으로 엔터프라이즈급 모바일 생태계를 성공적으로 구축**했습니다.
+**🎯 프로젝트 배경**
+
+- 국내 모바일 플랫폼 **점유율 1위 유라클 Morpheus** 솔루션에 **100% 의존**하던 구조
+- **연간 수천만원의 라이선스 비용** + **기술 종속성으로 인한 확장성 제약**
+- 급변하는 모바일 생태계에 **빠른 대응 불가능**한 상황
+
+**💪 혁신적 해결**
+
+- React Native & Expo 기반 **완전 자체 기술 스택**으로 100% 전환
+- **기획 → 설계 → 개발 → 배포 → 운영** 전 과정을 **Technical Lead**로 주도
+- **엔터프라이즈급 모바일 생태계**를 **최소 인력으로 최대 효과** 달성
 
 #### 🎯 **핵심 구축 시스템**
 
-- **🖥️ 모바일 관리자 플랫폼**: API/APIKey 관리, Push 시스템, OTA 배포, 리소스 관리, 디바이스 관리, 버전 관리, 앱스토어 연동, 실시간 모니터링 & 대시보드
-- **📱 Push 서버 자체 구축**: Spring Boot + Firebase v1 API 기반 Silent/Public Push, 사용자별 Push 관리 체계
-- **⚡ 크로스플랫폼 환경**: Morpheus 종속 JS 하이브리드 앱을 React Native + Expo 네이티브 환경으로 완전 전환
+- **🖥️ 모바일 관리자 플랫폼**: API/APIKey 관리, Push 시스템, **OTA 무선 배포**, 리소스 관리, 디바이스 관리, 버전 관리, 앱스토어 연동, **실시간 모니터링 대시보드**
+- **📱 Push 서버 자체 구축**: Spring Boot + **FCM v1 API** 기반 Silent/Public Push, **대용량 사용자 관리**, **실시간 전송 상태 추적**
+- **⚡ 크로스플랫폼 환경**: Morpheus 종속 **JS 하이브리드 → React Native + Expo** 완전 전환, **Clean Architecture** 적용
 
 #### 💡 **기술적 도전과 해결**
 
@@ -161,13 +192,13 @@
 
 - **Mobile (Cross-Platform)**: React Native, Expo (Prebuild), TypeScript, WebView
 - **Android**: Kotlin , WebView , Firebase
-- **ios** : Swift , WKWebView , APNS
+- **iOS** : Swift , WKWebView , APNs
 - **Frontend (Admin)** : Vue 3, Nuxt 3, TypeScript, Tailwind CSS, Pinia, Highcharts
 - **Backend** : Java 21, Spring Boot 3.x, JPA/Hibernate, MySQL, SQLite
 - **DevOps & Infra** : AWS (Amplify, ALB, S3), CI/CD (CodeBuild/Deploy), Gradle
-- **Security & Auth** : Spring Security, OAuth 2.0, JWT, Proguard
+- **Security & Auth** : Spring Security, M365 OAuth 2.0, JWT, Proguard
 - **Push & Monitoring** : FCM v1, APNs, Firebase Analytics, WhaTap
-- **AI Utilization** : Cursor AI, Claude, uxpliot, file mcp , Shrimp Task Manage , Figma mcp , Playwright mcp , NapKin 설계
+- **AI & Tools** : Cursor AI, Claude, Figma, Playwright
 
 ### 🚀 주요 성과 & 비즈니스 임팩트 (Key Achievements)
 
