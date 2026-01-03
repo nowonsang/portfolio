@@ -128,6 +128,79 @@
 
 ## <br>
 
+# 모바일 플랫폼 1위 기업 유라클 회사에서 만든 Morpheus 솔루션 -> 단 2명으로 자체 기술력으로 내재화
+
+## 자체 솔루션 개발 (모바일 관리자 페이지, push 서버 , 리소스배포 , 하이브리드 앱(react-native, expo))
+
+**회사** : 동화기업(주)<br>
+**기간** : 2025.05.01 ~ 2025.12.31<br>
+**개발** : 2인 개발<br>
+**담당역할** : vue3,nuxt,springBoot,react-native,CI,CD,expo,기획,디자인 모든분야를 설계 및 담당<br>
+**핵심성과** : 기업용 앱을 빠르게 만들수 있게 모바일 플랫폼 1위 기업 유라클(회사)에서 제공하는 Morpheus 프로그램을 React-Native, Expo용 동화기업만의 프로그램으로 내재화<br>
+
+### 🔍 프로젝트 소개
+
+외부 모바일 솔루션에 의존하던 구조를 단 2명으로 완전히 내재화하고,
+기획·설계·개발·운영 전 영역을 주도한 사내 모바일 플랫폼 구축 프로젝트
+
+- 모바일 관리자 페이지: api, apikey, push, OTA, 리소스, 디바이스 관리, 버전관리 , 앱스토어 , 모니터링 & 대시보드 포함 회사 전용 모바일 관리자 페이지 구축
+- 모바일용 push 서버 자체 구축 : SpringBoot firebase v1 api 체계로 slient push, public push , push 사용자 관리 체계 구축
+- 모바일 (React-Native, Expo) 환경 자체 구축 : Morpheus 솔루션에 맞게 구현된 js기반 하이브리드 앱을 React-Native , expo 용으로 전환
+
+### ⚙️ 기술 스택 (Technical Lead)
+
+- **Web/Frontend**: Vue 3 , Nuxt 3 , TypeScript , Tailwind CSS , Pinia , Highcharts
+- **Backend** : Java21, Spring Boot 3.x , RESTful API, OpenAPI (Swagger)
+- **Android**: Kotlin , WebView , Firebase
+- **ios** : Swift , WKWebView
+- **Mobile (Cross-Platform)** : React-Native , ExpoPrebuild , TypeScript , JavaScript
+- **State & Data** : Redux Toolkit , React-Query
+- **Hybrid App** : WebView , Hybrid App , OTA Bundle Update System
+- **Database** : MySQL (JPA / Hibernate) , SQLite
+- **Architecture** : clean Architecture , Layered Architecture
+- **Security**: Spring Security, Proguard , OAuth 2.0 , JWT
+- **Push & Messging** : Firebase Cloud Messaging (FCM) , Apple Push Notification service (APNs)
+- **Cloud & Infrastructure** : AWS Amplify , Application Load Balancer (ALB) , S3
+- **CI/CD** : Gradle ,AWS CodeBuild, AWS CodeDeploy
+- **Monitoring** : Firebase Analytics , whatap
+- **Tooling** : EsLint, Prettier , Junit 5 , Jest
+- **Planning** : File mcp , Shrimp Task Manage mcp
+- **Design** : UXpliot , Figma mcp ,
+- **test** : Playwright mcp
+- **AI Utilization** : Cursor AI , claude
+
+### 🚀 주요 성과 (Key Achievements)
+
+```sh
+모바일 플랫폼 1위 기업 유라클 Morpheus 솔루션을 대체하여 React Native + Expo 기반 사내 전용 모바일 플랫폼을 2인 체제로 내재화
+모바일 관리자 페이지 전체 아키텍처 설계 및 구현 (Vue3 + Nuxt3 + Spring Boot 기반 풀스택 단독 구축)
+모바일 Push 서버 자체 구축 및 운영 체계 확립 (Spring Boot + FCM v1 API 기반 Push 서버 직접 설계)
+React Native · Expo 아키텍처 설계 리드 (Clean Architecture 기반 RN/Expo 구조 설계)
+기획 · 디자인 · 인프라까지 포함한 기술 리더 역할 수행 (기획 · UX · 디자인 · 배포 · 운영 전반 총괄)
+```
+
+<br>
+<div>
+<img src="./images/hybridApp/app.png" width="150">
+<img src="./images/hybridApp/image_1.png" width="150">
+<img src="./images/hybridApp/image_2.png" width="150">
+<img src="./images/hybridApp/image_3.png" width="150">
+<img src="./images/hybridApp/image_4.png" width="150">
+<img src="./images/hybridApp/image_5.png" width="150">
+<img src="./images/hybridApp/image_6.png" width="150">
+<img src="./images/hybridApp/image_7.png" width="150">
+<img src="./images/hybridApp/image_9.png" width="150">
+<img src="./images/hybridApp/image_10.png" width="150">
+<img src="./images/hybridApp/image_11.png" width="150">
+<img src="./images/hybridApp/image_12.png" width="150">
+<img src="./images/hybridApp/image_13.png" width="150">
+<img src="./images/hybridApp/image_14.png" width="150">
+<img src="./images/hybridApp/image_15.png" width="150">
+<img src="./images/hybridApp/image_16.png" width="150">
+</div>
+
+## <br>
+
 # hybrid 프로젝트
 
 ## 하이브리드 앱 (GreenNet, D-RMS, D-Sales, D-Partners, it-Service) 유지보수/고도화
