@@ -295,12 +295,12 @@
 
 <br>
 <div>
-<img src="./images/adminPage/admin1.png" width="300">
-<img src="./images/adminPage/admin2.png" width="300">
-<img src="./images/adminPage/admin3.png" width="300">
-<img src="./images/adminPage/admin4.png" width="300">
-<img src="./images/adminPage/admin5.png" width="300">
-<img src="./images/adminPage/admin6.png" width="300">
+<img src="./images/adminPage/admin1.png" width="450">
+<img src="./images/adminPage/admin2.png" width="450">
+<img src="./images/adminPage/admin3.png" width="450">
+<img src="./images/adminPage/admin4.png" width="450">
+<img src="./images/adminPage/admin5.png" width="450">
+<img src="./images/adminPage/admin6.png" width="450">
 </div>
 
 <br>
