@@ -147,12 +147,12 @@
 
 # 🚀 엔터프라이즈 모바일 플랫폼 자체 구축 프로젝트
 
-## 국내 1위 상용 솔루션(Morpheus) 완전 대체 → 단 2명으로 8개월 만에 달성
+## 국내 1위 상용 솔루션(Morpheus) 완전 대체 → 단 2명으로 5개월 만에 달성
 
 | 구분                | 내용                                                                                                                |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | **회사**            | 동화기업(주)                                                                                                        |
-| **기간**            | 2024.05.01 ~ 2024.12.31 **(8개월)**                                                                                 |
+| **기간**            | 2024.07.05 ~ 2024.12.31 **(5개월)**                                                                                 |
 | **팀 구성**         | **핵심 개발 2인** (Technical Lead)                                                                                  |
 | **담당 역할**       | **기획 · 아키텍처 설계 · 풀스택 개발 · UI/UX 디자인 · AWS 인프라 · CI/CD · 배포 · 운영** 총괄                       |
 | **핵심 성과**       | **외부 기술 종속성 0% 달성**                                                                                        |
@@ -162,7 +162,7 @@
 
 > **"불가능을 가능으로 만든 기술 내재화 혁신 프로젝트"**
 >
-> **수십 명의 인력과 수년의 시간을 투입해야 할 프로젝트를 단 2명이 8개월 만에 완성**
+> **수십 명의 인력과 수년의 시간을 투입해야 할 프로젝트를 단 2명이 5개월 만에 완성**
 
 **🎯 프로젝트 배경**
 
@@ -227,23 +227,14 @@
 - **Cost Optimization**: 외부 솔루션 의존도 제거를 통한 TCO 대폭 절감
 
 <br>
+
 <div>
-<img src="./images/hybridApp/app.png" width="150">
-<img src="./images/hybridApp/image_1.png" width="150">
-<img src="./images/hybridApp/image_2.png" width="150">
-<img src="./images/hybridApp/image_3.png" width="150">
-<img src="./images/hybridApp/image_4.png" width="150">
-<img src="./images/hybridApp/image_5.png" width="150">
-<img src="./images/hybridApp/image_6.png" width="150">
-<img src="./images/hybridApp/image_7.png" width="150">
-<img src="./images/hybridApp/image_9.png" width="150">
-<img src="./images/hybridApp/image_10.png" width="150">
-<img src="./images/hybridApp/image_11.png" width="150">
-<img src="./images/hybridApp/image_12.png" width="150">
-<img src="./images/hybridApp/image_13.png" width="150">
-<img src="./images/hybridApp/image_14.png" width="150">
-<img src="./images/hybridApp/image_15.png" width="150">
-<img src="./images/hybridApp/image_16.png" width="150">
+<img src="./images/adminPage/admin1.png" width="450">
+<img src="./images/adminPage/admin2.png" width="450">
+<img src="./images/adminPage/admin3.png" width="450">
+<img src="./images/adminPage/admin4.png" width="450">
+<img src="./images/adminPage/admin5.png" width="450">
+<img src="./images/adminPage/admin6.png" width="450">
 </div>
 
 ## <br>
@@ -294,13 +285,24 @@
 ```
 
 <br>
+
 <div>
-<img src="./images/adminPage/admin1.png" width="450">
-<img src="./images/adminPage/admin2.png" width="450">
-<img src="./images/adminPage/admin3.png" width="450">
-<img src="./images/adminPage/admin4.png" width="450">
-<img src="./images/adminPage/admin5.png" width="450">
-<img src="./images/adminPage/admin6.png" width="450">
+<img src="./images/hybridApp/app.png" width="150">
+<img src="./images/hybridApp/image_1.png" width="150">
+<img src="./images/hybridApp/image_2.png" width="150">
+<img src="./images/hybridApp/image_3.png" width="150">
+<img src="./images/hybridApp/image_4.png" width="150">
+<img src="./images/hybridApp/image_5.png" width="150">
+<img src="./images/hybridApp/image_6.png" width="150">
+<img src="./images/hybridApp/image_7.png" width="150">
+<img src="./images/hybridApp/image_9.png" width="150">
+<img src="./images/hybridApp/image_10.png" width="150">
+<img src="./images/hybridApp/image_11.png" width="150">
+<img src="./images/hybridApp/image_12.png" width="150">
+<img src="./images/hybridApp/image_13.png" width="150">
+<img src="./images/hybridApp/image_14.png" width="150">
+<img src="./images/hybridApp/image_15.png" width="150">
+<img src="./images/hybridApp/image_16.png" width="150">
 </div>
 
 <br>
