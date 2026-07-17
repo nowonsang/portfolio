@@ -640,7 +640,6 @@ AWS Aurora MySQL 업그레이드: Aurora MySQL (2.11.2 / 5.7) → Aurora MySQL (
 <img src="./images/nayana/nayana_image5.jpg" width="150">
 <img src="./images/nayana/nayana_image6.jpg" width="150">
 <img src="./images/nayana/nayana_image7.jpg" width="150">
-<img src="./images/nayana/nayana_image8.jpg" width="150">
 <img src="./images/nayana/nayana_image9.jpg" width="150">
 <img src="./images/nayana/nayana_image10.jpg" width="150">
 <img src="./images/nayana/nayana_image11.jpg" width="150">
